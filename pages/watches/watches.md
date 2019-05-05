@@ -112,7 +112,7 @@ The best part about buying a dress watch is that it can be paired up with formal
 
 Nothing completes a fancy look quite like a sophisticated dress watch!
 
-<img class="img-right lazyload" alt="quartz watch example" data-src="/img/watches/styles/quartz.jpg" />
+<img class="img-right lazyload" alt="quartz watch example" data-src="/img/watches/styles/quartz.png" />
 ### Quartz Watch
  
 A quartz watch comes with a high-powered electronic oscillator which is synchronized by a quartz crystal. 
