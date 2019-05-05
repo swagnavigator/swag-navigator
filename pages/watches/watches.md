@@ -83,9 +83,11 @@ An analog watch comes with a miniature clock-face of 12 hours, with an hour-hand
 
 Some modern analog watches offer a third second-hand, for better accessibility.
 
-<img class="img-right lazyload" alt="digital watch example" data-src="/img/watches/styles/digital.jpg" />
+
 ### Digital Watch
- 
+<img class="img-right lazyload" alt="digital watch example" data-src="/img/watches/styles/digital.jpg" /> 
+
+
 A digital watch doesn’t come with a dial for the hour, minute, or second-hands, like an analog watch. 
 
 Instead, the hours, minutes, and seconds are displayed digitally on a display screen.
