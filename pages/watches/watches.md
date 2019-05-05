@@ -135,11 +135,11 @@ It’s the toughest and most effective watch on the market.
 Aviator watches tend to do a great job combining pleasant design features with durability. 
 
 ### Smart Watch
-<img class="img-right lazyload" alt="smart watch example" data-src="/img/watches/styles/smart.jpg" />
 
 As you probably already know, smart watches are a recent 21st century phenomenon. 
 
 It’s a portable device that is generally controlled by your smartphone, offering tons of goodies such as fitness tracking, heart rate monitoring, and app support.
+<img class="img-right lazyload" alt="smart watch example" data-src="/img/watches/styles/smart.jpg" />
 
 All these categories of watches are chargeable and use a touchscreen – some are even waterproof.
 
