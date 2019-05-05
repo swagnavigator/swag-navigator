@@ -103,8 +103,8 @@ The rotor supplies energy to the watch to function day and night without wearing
 
 An automatic watch is more skilled and energy-efficient than an analog or digital watch. 
 
+### Dress Watch
 <img class="img-right lazyload" alt="dress watch example" data-src="/img/watches/styles/dress.jpg" />
-### Dress watch
  
 A dress watch is the most stylish and sophisticated watch to buy.
 
@@ -114,9 +114,9 @@ The best part about buying a dress watch is that it can be paired up with formal
 
 Nothing completes a fancy look quite like a sophisticated dress watch!
 
-<img class="img-right lazyload" alt="quartz watch example" data-src="/img/watches/styles/quartz.png" />
 ### Quartz Watch
- 
+<img class="img-right lazyload" alt="quartz watch example" data-src="/img/watches/styles/quartz.png" /> 
+
 A quartz watch comes with a high-powered electronic oscillator which is synchronized by a quartz crystal. 
 
 This is one of the most expensive watches you’ll find. 
@@ -125,9 +125,9 @@ Quarts watches boast accurate and efficient performance, but they require batter
 
 Nevertheless, they’re definitely worth the effort because of their stellar reputation, performance, and reliability.
 
-<img class="img-right lazyload" alt="aviator watch example" data-src="/img/watches/styles/aviator.jpg" />
 ### Aviator Watch
- 
+<img class="img-right lazyload" alt="aviator watch example" data-src="/img/watches/styles/aviator.jpg" />
+
 An aviator watch is also commonly referred to as a pilot watch. 
 
 It’s the toughest and most effective watch on the market. 
