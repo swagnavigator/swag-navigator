@@ -54,6 +54,8 @@ Although many may deny it, keeping track of the time is one of the primary consi
 
 With so many things that must be accomplished in one day, it is necessary to constantly watch the time to make sure that everything is done on schedule.
 
+<img class="img-middle lazyload" alt="watch for men stock photo" data-src="/img/watches/stock/1.jpg" />
+
 The watch is undoubtedly the preferred complement for many men. 
 
 Considering we can check the time with our phones these days, a watch's primary function is to serve as a fashion statement. 
@@ -74,6 +76,7 @@ Your watch needs to showcase your style and personality – it's a fashion state
 
 Here’s what you really need to know about the different types of watches on the market.
  
+<img class="img-right lazyload" alt="analog watch example" data-src="/img/watches/styles/analog.jpg" />
 ### Analog Watch
  
 An analog watch comes with a miniature clock-face of 12 hours, with an hour-hand and a minute-hand. 
