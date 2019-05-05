@@ -134,8 +134,8 @@ It’s the toughest and most effective watch on the market.
 
 Aviator watches tend to do a great job combining pleasant design features with durability. 
 
-<img class="img-right lazyload" alt="smart watch example" data-src="/img/watches/styles/smart.jpg" />
 ### Smart Watch
+<img class="img-right lazyload" alt="smart watch example" data-src="/img/watches/styles/smart.jpg" />
  
 As you probably already know, smart watches are a recent 21st century phenomenon. 
 
