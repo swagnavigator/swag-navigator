@@ -92,10 +92,10 @@ A digital watch doesn’t come with a dial for the hour, minute, or second-hands
 
 Instead, the hours, minutes, and seconds are displayed digitally on a display screen.
 
-<img class="img-right lazyload" alt="automatic watch example" data-src="/img/watches/styles/automatic.jpg" />
 ### Automatic Watch
 
 An automatic watch is also commonly referred to as a self-winding watch. 
+<img class="img-right lazyload" alt="automatic watch example" data-src="/img/watches/styles/automatic.jpg" />
 
 It runs automatically, backed up by a metal weight called a rotor. 
 
@@ -136,7 +136,7 @@ Aviator watches tend to do a great job combining pleasant design features with d
 
 ### Smart Watch
 <img class="img-right lazyload" alt="smart watch example" data-src="/img/watches/styles/smart.jpg" />
- 
+
 As you probably already know, smart watches are a recent 21st century phenomenon. 
 
 It’s a portable device that is generally controlled by your smartphone, offering tons of goodies such as fitness tracking, heart rate monitoring, and app support.
