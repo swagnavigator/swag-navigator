@@ -3,7 +3,7 @@ layout: posts
 title: "The Best Watches for Men: A Complete Guide for 2019" 
 permalink: /watches/
 ---
-![best watches for men header image](/img/watches/header-images/mens-watch.jpg){: .img-right .img-small}
+![best watches for men header image](/img/watches/header-images/mens-watch.jpg){: .img-right}
 
 Here's the deal:
 

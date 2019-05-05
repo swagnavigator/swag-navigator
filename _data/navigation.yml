@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Watches"
-    url: /watch/
+    url: /watches/
   - title: "Reviews"
-    url: /watch/reviews/
+    url: /watches/reviews/
   - title: "About"
     url: /about/
   # - title: "Sample Collections"
