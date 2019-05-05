@@ -82,13 +82,15 @@ Here’s what you really need to know about the different types of watches on th
 An analog watch comes with a miniature clock-face of 12 hours, with an hour-hand and a minute-hand. 
 
 Some modern analog watches offer a third second-hand, for better accessibility.
- 
+
+<img class="img-right lazyload" alt="digital watch example" data-src="/img/watches/styles/digital.jpg" />
 ### Digital Watch
  
 A digital watch doesn’t come with a dial for the hour, minute, or second-hands, like an analog watch. 
 
 Instead, the hours, minutes, and seconds are displayed digitally on a display screen.
- 
+
+<img class="img-right lazyload" alt="automatic watch example" data-src="/img/watches/styles/automatic.jpg" />
 ### Automatic Watch
 
 An automatic watch is also commonly referred to as a self-winding watch. 
@@ -98,7 +100,8 @@ It runs automatically, backed up by a metal weight called a rotor.
 The rotor supplies energy to the watch to function day and night without wearing down.
 
 An automatic watch is more skilled and energy-efficient than an analog or digital watch. 
- 
+
+<img class="img-right lazyload" alt="dress watch example" data-src="/img/watches/styles/dress.jpg" />
 ### Dress watch
  
 A dress watch is the most stylish and sophisticated watch to buy.
@@ -108,7 +111,8 @@ It comes in different styles including contemporary, modern, and minimalistic.
 The best part about buying a dress watch is that it can be paired up with formal, dressy outfits, like a suit or a tuxedo. 
 
 Nothing completes a fancy look quite like a sophisticated dress watch!
- 
+
+<img class="img-right lazyload" alt="quartz watch example" data-src="/img/watches/styles/quartz.jpg" />
 ### Quartz Watch
  
 A quartz watch comes with a high-powered electronic oscillator which is synchronized by a quartz crystal. 
@@ -118,7 +122,8 @@ This is one of the most expensive watches you’ll find.
 Quarts watches boast accurate and efficient performance, but they require battery replacements from time to time. 
 
 Nevertheless, they’re definitely worth the effort because of their stellar reputation, performance, and reliability.
- 
+
+<img class="img-right lazyload" alt="aviator watch example" data-src="/img/watches/styles/aviator.jpg" />
 ### Aviator Watch
  
 An aviator watch is also commonly referred to as a pilot watch. 
@@ -126,7 +131,8 @@ An aviator watch is also commonly referred to as a pilot watch.
 It’s the toughest and most effective watch on the market. 
 
 Aviator watches tend to do a great job combining pleasant design features with durability. 
- 
+
+<img class="img-right lazyload" alt="smart watch example" data-src="/img/watches/styles/smart.jpg" />
 ### Smart Watch
  
 As you probably already know, smart watches are a recent 21st century phenomenon. 
@@ -134,7 +140,7 @@ As you probably already know, smart watches are a recent 21st century phenomenon
 It’s a portable device that is generally controlled by your smartphone, offering tons of goodies such as fitness tracking, heart rate monitoring, and app support.
 
 All these categories of watches are chargeable and use a touchscreen – some are even waterproof.
- 
+
 ## Watch Budgets 
  
 The different grades of watches vary in the craftsmanship, quality of materials, and the amount of labor involved.
