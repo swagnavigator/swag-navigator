@@ -27,14 +27,14 @@ In this guide, we're going to be taking a look at the best solar powered watches
 
 <table>
 	<tr>
-		<th>Watch</th>
 		<th>IMG</th>
+		<th>Watch</th>
 		<th>Rating</th>
 		<th>More</th>
 	</tr>
 	<tr>
-		<td>Seiko Coutura</td>
 		<td><img class="table-image" alt="best solar watch" src="/img/watches/solar/coutura.jpg" /></td>
+		<td>Seiko Coutura</td>
 		<td>5/5</td>
 		<td><a href="#seiko-coutura">View</a></td>
 	</tr>
