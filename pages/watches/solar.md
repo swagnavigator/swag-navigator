@@ -448,7 +448,7 @@ The Men's Eco-Drive Stainless Steel Watch by Citizen from our compiled list is a
 
 Its design is minimalist, formal and simple to match with any business suit. 
 
-<img class="lazyload" alt="solar watch wearing swag" src="/img/watches/solar/bling-watch.jpg" />
+<img class="img-center" alt="solar watch wearing swag" src="/img/watches/solar/bling-watch.jpg" />
 
 Then the working man who wears business casual every day doesn’t need a watch that’s of that same formality. 
 
