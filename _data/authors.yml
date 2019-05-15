@@ -1,0 +1,14 @@
+Tochi Duhu:
+  name        : "Tochi Duhu"
+  bio         : "A lifelong swag navigator and watch enthusiast."
+  avatar      : "/img/profile/headshot.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:elevatebig@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://swagnavigator.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"

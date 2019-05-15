@@ -2,6 +2,7 @@
 layout: posts
 title: "The Best Solar Powered Watches for Men in 2019 (Stylish)" 
 permalink: /watches/solar/
+author: Tochi Duhu
 ---
 
 Here's the deal:
