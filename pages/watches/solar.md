@@ -5,6 +5,7 @@ permalink: /watches/solar/
 author: Tochi Duhu
 toc: true
 ---
+![Solar watches page header](/img/watches/solar/solar-watches-header.gif){: .img-right}
 
 Here's the deal:
 
@@ -342,7 +343,7 @@ It can be difficult to choose the right watch for you, especially with all of th
 This part of the guide is designed to help you make the right choice. 
 
 ### What is a Solar Powered Watch?
-
+<img class="img-right" alt="casio edifice mens solar watch header right" src="/img/watches/solar/edifice-header-right.jpg" />
 Solar powered watches otherwise known as solar atomic watch are not much different from your typical watch. 
 
 Both types give timekeeping as well as additional features depending on the model. 
@@ -361,6 +362,8 @@ Usually, these are around or on the dial to maximize the incoming light.
 
 These solar panel cells will convert light into energy to store within the battery. 
 
+<img class="img-middle" alt="how do solar watches work" src="/img/watches/solar/seiko-solar-diagram.jpg" />
+
 It’s an efficient method as the batteries will power your watch even when there is no available light. 
 
 This means that your watch is constantly operating regardless of where it is. Even if it’s in a bag, or hidden behind clothing, it will still operate properly. 
@@ -374,6 +377,8 @@ There is also an environmental benefit to having a watch powered by solar energy
 This kind of energy is a renewable source of energy – in other words, it doesn’t run out. 
 
 Due to the technology of solar energy, there isn’t waste as there would be with other kinds of power (i.e. batteries). 
+
+<img class="img-right" alt="solar watches are environmentally friendly" src="/img/watches/solar/eco-friendly.png" />
 
 Compared to typical watches that use batteries, these watches are a more environmentally friendly alternative. 
 
@@ -415,6 +420,8 @@ You need a watch that looks great and works great.
 
 Both of those things are subjected to you as a person for what you’re looking for. 
 
+<img class="img-middle" alt="solar watch wearing example" src="/img/watches/solar/watch-wearing-example.jpg" />
+
 Solar watches, like most accessories, are designed for a range of people, and a range of needs. 
 
 There are both formal and casual watches. There are both slim and athletic watches. Regardless of your requirements, solar watches are available. 
@@ -440,6 +447,8 @@ For example, the man who wears a business suit every day needs a watch that adds
 The Men's Eco-Drive Stainless Steel Watch by Citizen from our compiled list is a perfect example as it’s a gorgeous stylish watch. 
 
 Its design is minimalist, formal and simple to match with any business suit. 
+
+<img class="lazyload" alt="solar watch wearing swag" src="/img/watches/solar/bling-watch.jpg" />
 
 Then the working man who wears business casual every day doesn’t need a watch that’s of that same formality. 
 
