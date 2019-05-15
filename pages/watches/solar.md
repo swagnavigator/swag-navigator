@@ -5,7 +5,7 @@ permalink: /watches/solar/
 author: Tochi Duhu
 toc: true
 ---
-![Solar watches page header](/img/watches/solar/solar-watches-header.gif){: .img-right}
+![Solar watches page header](/img/watches/solar/solar-watch-header.gif){: .img-right}
 
 Here's the deal:
 
