@@ -56,9 +56,9 @@ It’s gorgeous and functional: a perfect combination.
 <img class="img-right" alt="prospex mens solar watch" src="/img/watches/solar/prospex.jpg" />
 Here is a distinguished men’s world time leather solar powered watch.
 
-Seiko is a Japanese brand dedicated to bringing forward high-quality artistry and craftsmanship in this watch. 
+Seiko is a Japanese brand dedicated to bringing forward high-quality artistry and craftsmanship in their watches, as well as providing legendary reliability and customer service. 
 
-As well as, providing legendary reliability and customer service. The Prospex line is inspired by the boldness and determination of the traditional Japanese samurai that rise to the challenge without hesitation. 
+The Prospex line is inspired by the boldness and determination of the traditional Japanese samurai that rise to the challenge without hesitation. 
 
 That’s what this watch brings forward; a bold and determined style. 
 
@@ -317,13 +317,23 @@ Within the dial face, there is a subdial at 7 o’clock that provides the curren
 
 ## Choosing the Best Solar Powered Watch for You
 
+It can be difficult to choose the right watch for you, especially with all of the different options out there. 
+
+This part of the guide is designed to help you make the right choice. 
+
+### What is a Solar Powered Watch?
+
 Solar powered watches otherwise known as solar atomic watch are not much different from your typical watch. 
 
 Both types give timekeeping as well as additional features depending on the model. 
 
 They both have a range of styles from highly formal to highly casual to highly athletic. 
 
-As well they come with different designs, colours, detailing and accessories. The main difference is that their power source is the sun.
+As well they come with different designs, colours, detailing and accessories. 
+
+The main difference is that their power source is the sun.
+
+### How do Solar Watches Work? 
 
 Solar powered watches are powered by built-in solar panels. 
 
@@ -333,39 +343,49 @@ These solar panel cells will convert light into energy to store within the batte
 
 It’s an efficient method as the batteries will power your watch even when there is no available light. 
 
-This means that your watch is constantly operating regardless of where it is. Even if it’s in a bag, or hidden behind clothing it will still operate. 
+This means that your watch is constantly operating regardless of where it is. Even if it’s in a bag, or hidden behind clothing, it will still operate properly. 
 
 Additionally, sunlight is not the only light source that can charge the solar panels. It is preferable but other light sources will charge it but at a different rate.
 
+### Solar Watches are Environmentally Friendly
+
 There is also an environmental benefit to having a watch powered by solar energy. 
 
-This kind of energy is a renewable source of energy -- it doesn’t run out. 
+This kind of energy is a renewable source of energy – in other words, it doesn’t run out. 
 
-Due to the technology of solar energy, there isn’t waste as there would be in other kinds of power. 
+Due to the technology of solar energy, there isn’t waste as there would be with other kinds of power (i.e. batteries). 
 
-Compared to typical watches that use batteries, these watches are a more environmentally friendly alternative. Each year millions of batteries are recycled but unfortunately, not all of them are. 
+Compared to typical watches that use batteries, these watches are a more environmentally friendly alternative. 
+
+Believe it or not, millions of batteries are recycled each year but unfortunately, not all of them are. 
 
 The ones that are disposed of into landfills leach chemicals into the surrounding area. 
 
 These contain materials that are toxic to the environment such as mercury, lithium or cadmium. 
 
 Improper disposal of waste batteries leads to pollution of various ecosystems as well as water pollution.
+
+### Benefits of a Solar Watch 
  
 The list of benefits is not only about saving the planet, it’s also about saving time and money. 
 
-With a solar watch, there isn’t a requirement to replace the batteries. 
+With a solar watch, you'll never have to worry about replacing the battery. 
 
 Typically, once your watch battery is depleted, you would buy a new one to replace it or take it into a jeweller or watch repair shop. 
 
 There aren’t batteries to replace which means there aren’t batteries to buy or to pay for. 
 
-This would save you money and time in the long run as this is a step taken away from the very start. You don’t have to worry about the watch’s battery stopping. 
+This would save you money and time in the long run as this is a step taken away from the very start. 
+
+You don’t have to worry about the watch’s battery stopping. 
 
 If you forget about your watch’s battery, it can be frustrating since it usually stops at the most inconvenient of times. 
 
-Solar watches don’t require battery replacements as there aren’t batteries to replace. It’s as simple as putting on your watch and starting your day.
+It’s as simple as putting on your watch and starting your day.
  
 Buying a solar watch already gives you the convenience of a renewable and convenient power source. 
+
+### What to Look for in a Solar Watch
 
 But choosing the watch is another step. What are you going to be looking for in a solar watch?
  
@@ -385,13 +405,17 @@ Style is something that’s individualistic, subjective even.
 
 You want something that matches your fashion sense and what you’re going to be wearing along with the watch. 
 
-Stylishness isn’t one thing, it’s a combination of details that make up something wholly individual, something that’s entirely you. 
+Stylishness isn’t one thing, it’s a combination of details that make up something wholly individual – something that’s entirely you. 
 
 Those small details are important and picking the right watch is no different. 
 
 A watch is a functional accessory that adds to your overall appearance by adding a subtle sophistication. 
 
-The watch you choose needs to be one that matches your style. For example, the man who wears a business suit every day needs a watch that adds to it and heightens the elegance. 
+### Choosing a Solar Watch that Matches Your Style
+
+The watch you choose needs to be one that matches your style. 
+
+For example, the man who wears a business suit every day needs a watch that adds to it and heightens the elegance. 
 
 The Men's Eco-Drive Stainless Steel Watch by Citizen from our compiled list is a perfect example as it’s a gorgeous stylish watch. 
 
@@ -404,6 +428,8 @@ A simple, timeless model would do perfectly. The Signatur Watch by Skagen would 
 Its design is minimalist but stands out with the gorgeous blue, silver and yellow colour scheme. 
 
 This stylish watch can be matched with a relaxed business suit or even informal jeans and polo.
+
+## Conclusion 
  
 Function is what you want the watch to do. A watch isn’t just used for the aesthetic, it’s a tool. 
 
