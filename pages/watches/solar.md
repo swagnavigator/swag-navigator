@@ -25,6 +25,21 @@ They work well, look great, and they're actually pretty affordable too.
 
 In this guide, we're going to be taking a look at the best solar powered watches on the market. 
 
+<table>
+	<tr>
+		<th>Watch</th>
+		<th>IMG</th>
+		<th>Rating</th>
+		<th>More</th>
+	</tr>
+	<tr>
+		<td>Seiko Coutura</td>
+		<td><img class="table-image" alt="best solar watch" src="/img/watches/solar/coutura.jpg" /></td>
+		<td>5/5</td>
+		<td><a href="#seiko-coutura">View</a></td>
+	</tr>
+</table>
+
 ## Seiko Coutura
 <img class="img-right" alt="best solar watch" src="/img/watches/solar/coutura.jpg" />
 This is a gorgeous two-toned quartz stainless steel solar atomic watch.
