@@ -24,22 +24,6 @@ Solar powered watches are charged entirely by the sun.
 They work well, look great, and they're actually pretty affordable too. 
 
 In this guide, we're going to be taking a look at the best solar powered watches on the market. 
-<!--
-<table>
-	<tr>
-		<th>IMG</th>
-		<th>Watch</th>
-		<th>Rating</th>
-		<th>More</th>
-	</tr>
-	<tr>
-		<td><img class="table-image" alt="best solar watch" src="/img/watches/solar/coutura.jpg" /></td>
-		<td>Seiko Coutura</td>
-		<td>5/5</td>
-		<td><a href="#seiko-coutura">View</a></td>
-	</tr>
-</table>
--->
 
 ## Seiko Coutura
 <img class="img-right" alt="best solar watch" src="/img/watches/solar/coutura.jpg" />
