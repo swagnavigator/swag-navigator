@@ -4,10 +4,42 @@ title: "The Best Solar Watches for Men in 2019 (Stylish)"
 permalink: /watches/solar/
 ---
 
-Below is a list of some of the most impressive solar atomic watches for men. These watches offer a range of style, functionality and of course the combination between the two. 
+Here's the deal:
 
+You can tell a lot about a man from the watch he wears on his wrist. 
 
-## 1. Seiko Coutura
+Your timepiece needs to be unique, stylish, and fitting to your personality.
+
+Most watches are powered by a battery – unfortunately, batteries need to be replaced from time to time, and they're bad for the environment too. 
+
+Luckily, there is a great alternative to battery powered watches:
+
+Enter the solar powered watch. 
+
+Solar powered watches are charged entirely by the sun. 
+
+They work well, look great, and they're actually pretty affordable too. 
+
+In this guide, we're going to be taking a look at the best solar powered watches on the market. 
+
+## Best Solar Powered Watches 
+
+<table>
+	<th>
+		<td>IMG</td>
+		<td>Watch</td>
+		<td>Rating</td>
+		<td>More</td>
+	</th>
+	<tr>
+		<td><img class="table-image" alt="best solar watch" src="/img/watches/solar/coutura.jpg" /></td>
+		<td><a target="_blank" href="https://www.amazon.com/Seiko-COUTURA-Quartz-Stainless-Casual/dp/B073PLF8XZ/ref=sr_1_4?keywords=seiko+coutura&qid=1557887633&s=gateway&sr=8-4">Seiko Coutura</a></td>
+		<td>5/5</td>
+		<td><a class="btn" href="#seiko-coutura">View</a></td>
+	</tr>
+</table>
+
+## Seiko Coutura
 This is a gorgeous two-toned quartz stainless steel solar atomic watch.
  
 The Coutura collection is a timeless combination of classic and casual design. This is a gorgeous watch crafted with Japanese quartz, sapphire crystal, and stainless steel for a timeless look. Solar atomic watches offer the highest environmentally-friendly watch technology while providing nearly endless power. Gone are the days of batteries.
