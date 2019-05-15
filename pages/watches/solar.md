@@ -51,7 +51,7 @@ It is water resistant for up to 330 feet (100.58 m) meaning it’s perfect for s
 It’s gorgeous and functional: a perfect combination.
 
 ## Seiko Prospex
-
+<img class="img-right" alt="prospex mens solar watch" src="/img/watches/solar/prospex.jpg" />
 Here is a distinguished men’s world time leather solar powered watch.
 
 Seiko is a Japanese brand dedicated to bringing forward high-quality artistry and craftsmanship in this watch. 
@@ -79,7 +79,7 @@ With such a wealth of information, the design remains classic with a logical and
 This watch is perfect for those that desire a rich sophisticated watch.
 
 ## Skagen Signatur
-
+<img class="img-right" alt="skagen signatur mens solar watch" src="/img/watches/solar/signatur.jpg" />
 Skagen Signatur solar blue leather watch for men is a beautiful addition to any collection.
  
 Some people aren’t shopping for a high-end formal watch but instead something fun and informal. 
@@ -107,6 +107,7 @@ Then with a solar cell underneath the dial, ensures that the battery will contin
 This watch combines charm and performance with a high leaning towards casual and versatile class.
 
 ## Seiko’s Flat and Light Solar Powered Watch
+<img class="img-right" alt="seiko flat and light mens solar watch" src="/img/watches/solar/flat-light.jpg" />
 
 Here is a Seiko sophisticated, flat lightweight solar-powered watch
 
@@ -135,6 +136,7 @@ Although it may not have the features of an athletic watch such as the G-Shock o
 It’s flat, light, and durable. This means that it’s perfect as a daily wear casual watch.
 
 ## Citizen Eco-Drive Watch
+<img class="img-right" alt="citizen eco-drive mens solar watch" src="/img/watches/solar/eco-drive.jpg" />
 
 This is Citizen’s Eco-Drive stainless steel solar atomic watch.
  
@@ -165,6 +167,7 @@ The front of the watch is a sophisticated black and numberless with silver index
 A date counter adds a dial at the 3 o’clock position without creating a hectic look.
 
 ## Citizen Axiom
+<img class="img-right" alt="citizen axiom mens solar watch" src="/img/watches/solar/axiom.jpg" />
 
 This is Citizen’s Axiom Analog Display Japanese Quartz Gold Men's Watch.
 
@@ -195,6 +198,7 @@ The Eco-drive technology ensures that the watch continues to be powered consiste
 This technology employs solar panels within the dial of the watch itself to store energy. This means batteries are a thing of the past as are replacing them.
 
 ## Casio G-Shock
+<img class="img-right" alt="casio g-shock mens solar watch" src="/img/watches/solar/g-shock.jpg" />
 
 Here is Casio’s Men's G-Shock analog display quartz black solar atomic watch.
  
@@ -227,7 +231,8 @@ The battery continues operating for as long as you need it to thanks to the sola
 It employs a power saving technology where the hands stop to save power when left in the dark.
 
 ## Casio G-Steel 
- 
+<img class="img-right" alt="casio g-steel mens solar watch" src="/img/watches/solar/g-steel.jpg" />
+
 Here is the Casio’s G-Steel multiband sports solar-powered men’s watch.
  
 Coming from the g-steel series, this Casio G-Shock watch is a high-performance and technologically advanced model. 
@@ -255,6 +260,7 @@ The gorgeous colour combination of the dial includes silver and white indexes, w
 The design of this watch is versatile for both athletic and formal.
 
 ## Casio Pathfinder
+<img class="img-right" alt="casio pathfinder mens solar watch" src="/img/watches/solar/pathfinder.jpg" />
 
 This is the Casio Pathfinder durable solar powered digital watch
 
@@ -281,6 +287,7 @@ It’s a stylish and sporty design perfect for the man on the go.
 The neutral face is a versatile and athletic style. Its jam packed with features to help the toughest of activities.
 
 ## Casio Edifice
+<img class="img-right" alt="casio edifice mens solar watch" src="/img/watches/solar/edifice.jpg" />
  
 This is Casio Edifice mobile link connected analog display quartz silver watch
  
