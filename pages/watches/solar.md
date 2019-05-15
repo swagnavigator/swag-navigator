@@ -410,6 +410,12 @@ It’s as simple as putting on your watch and starting your day.
  
 Buying a solar watch already gives you the convenience of a renewable and convenient power source. 
 
+### Affordable Solar Watches
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2yREvFjMUrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### What to Look for in a Solar Watch
 
 But choosing the watch is another step. What are you going to be looking for in a solar watch?
