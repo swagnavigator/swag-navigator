@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "The Best Solar Watches for Men in 2019 (Stylish)" 
+title: "The Best Solar Powered Watches for Men in 2019 (Stylish)" 
 permalink: /watches/solar/
 ---
 
@@ -22,7 +22,7 @@ They work well, look great, and they're actually pretty affordable too.
 
 In this guide, we're going to be taking a look at the best solar powered watches on the market. 
 
-## Best Solar Powered Watches 
+## Best Solar Watches 
 
 <table>
 	<th>
@@ -46,6 +46,7 @@ In this guide, we're going to be taking a look at the best solar powered watches
 </table>
 
 ## Seiko Coutura
+<img class="img-right" alt="best solar watch" src="/img/watches/solar/coutura.jpg" />
 This is a gorgeous two-toned quartz stainless steel solar atomic watch.
  
 The Coutura collection is a timeless combination of classic and casual design. This is a gorgeous watch crafted with Japanese quartz, sapphire crystal, and stainless steel for a timeless look. Solar atomic watches offer the highest environmentally-friendly watch technology while providing nearly endless power. Gone are the days of batteries.
