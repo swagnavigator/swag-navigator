@@ -38,6 +38,8 @@ Its dynamic nature sets it apart from other simplistic designs.
 
 Combining both gold and silver accents allows this watch to be paired perfectly with every type of suit. 
 
+<img class="img-middle" alt="best solar watch" src="/img/watches/solar/coutura-second.jpg" />
+
 This two-toned watch is a versatile style piece. Whether you’re required for formal, business, casual or a combination, this model of watch provides you with the adaptability for it all. 
 
 The case diameter is 44 millimetres, made of stainless steel with a sapphire crystal dial window for durability and resistance throughout the day to day.
@@ -68,6 +70,8 @@ This watch is timeless and thus appropriate for a range of occasions.
 
  Beyond basic durability, the sapphire crystal face allows for the face itself to be resistant to scratches and scrapes. 
 
+<img class="img-middle" alt="prospex solar watch side view" src="/img/watches/solar/prospex-second.jpg" />
+
  The solar panel provides endless energy with the peace of mind of environmental consciousness.
 
 Warm brown leather with a silver watch face adds to a worldly feel. 
@@ -96,6 +100,8 @@ This watch is a perfectly simple watch but not in any way boring.
 
 The deep blue 20mm wide leather straps complement the creative and minimalistic dial. 
 
+<img class="img-middle" alt="signatur solar watch side view" src="/img/watches/solar/signatur-second.jpg" />
+
 The watch face has a circular background accented with bright yellow. This colourful analog watch is a perfect accessory for relaxed or formal attire. 
 
 It’s subtle enough to allow for the colours to not overwhelm the overall design.
@@ -122,6 +128,8 @@ Here is a Seiko sophisticated, flat lightweight solar-powered watch
  Brown leather straps and a traditional watch face add to its timeless charm and charming craftsmanship. 
 
  The crocodile leather finish on the band creates a textured appeal.
+
+<img class="img-middle" alt="flat-light solar watch side view" src="/img/watches/solar/flat-light-second.jpg" />
 
 This Analogue clock features a 38mm stainless steel case, solar powered battery and water-resistant technology. 
 
@@ -154,6 +162,8 @@ Solar powered watches are powered by built in solar panels ensuring consistent p
 
 While exposed to the light, this citizen watch will gather energy and store it in the batteries for use when there isn’t an available light source. 
 
+<img class="img-middle" alt="eco-drive solar watch side view" src="/img/watches/solar/eco-drive-second.jpg" />
+
 It’s an efficient method as the batteries will power your watch even when there is no light. 
 
 Sunlight is of course preferable, but sunlight is not the only light source that can charge the solar panels. 
@@ -185,6 +195,8 @@ Axiom is a consistent gold-toned stainless steel save for the dial face, which i
 
 Together they make a sharp contrast without being eccentric. Within the face of the watch, all the details are gold which stands out elegantly against the black background. 
 
+<img class="img-middle" alt="axiom second solar watch side view" src="/img/watches/solar/axiom-second.jpg" />
+
 Together the colours make a sharp contrast without being excessive in it’s detailing. 
 
 There aren’t many aspects featured on the face of the watch itself save for the logos, hands and the date. 
@@ -214,7 +226,9 @@ The black dial contrasts with a silver casing. At the 9 0’clock position the d
  
 The thick blades within the disk, mimic the blades within a jet engine. 
 
-This rotating disk changing colours to indicate battery level and alarm setting, as well as keeping in rotating time with the timekeeping and stopwatch mode. 
+This rotating disk changing colours to indicate battery level and alarm setting, as well as keeping in rotating time with the timekeeping and stopwatch mode.
+
+<img class="img-middle" alt="g-shock second solar watch side view" src="/img/watches/solar/g-shock-second.jpg" /> 
 
 As it’s equipped with Bluetooth capabilities, this watch can connect to your smartphone simply and conveniently.
 
@@ -247,6 +261,8 @@ The radio-controlled atomic timekeeping ensures the reliability and accuracy of 
 
 With a 20-bar waterproofing, this means it’s waterproofing is good for up to 200 meters or professional underwater activity and serious surface water sports, all up to diving. 
 
+<img class="img-middle" alt="g-steel second solar watch side view" src="/img/watches/solar/g-steel-second.jpg" /> 
+
 Shock resistance allows this watch to be very durable. High vibration activities such as a reciprocating saw, or gun recoils doesn’t affect it. 
 
 Beyond durability, this model boosts comfortability, with a stainless-steel band that’s easily adjusted using a push pin.
@@ -273,6 +289,8 @@ This Pathfinder watch will continue to work consistently and reliably in some ha
 It features all triple sensor Pro Trek models. This watch provides easy-one-touch operation of its Altimeter/Barometer, Compass and Thermometer. 
 
 As we mentioned before, this watch will work in harsher settings. With 200 meters of water resistance to defend against water from rafting, swimming, snorkel, rainstorm hiking.
+
+<img class="img-middle" alt="pathfinder second solar watch side view" src="/img/watches/solar/pathfinder-second.jpg" /> 
 
 This watch will be with you as a tool during your entire adventure. 
 
@@ -302,6 +320,8 @@ The red accenting details provide an added visual interest. The design itself is
 For the man on the go, there is a speed indicator at 4 o’clock. 
 
 Solar power ensures that your watch continues to work as you need it by charging and storing energy within the batteries.
+
+<img class="img-middle" alt="edifice second solar watch side view" src="/img/watches/solar/edifice-second.jpg" /> 
  
 This is a watch for the person who needs several tools in one place. 
 
