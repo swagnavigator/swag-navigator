@@ -285,4 +285,3 @@ There is such a stylish versatility to these wooden watches. Even within a speci
 Citation Links
 Tackle Climate Change – Use Wood.  Published in 2010 by the British Columbia Forestry Climate Change Working Group and California Forestry Association.
 Wood and Carbon Footprint: North American wood products reduce the carbon footprint of buildings. Published by the American Wood Council
-
