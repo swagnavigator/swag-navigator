@@ -259,6 +259,8 @@ It’s not all about standing out in terms of style though. Wooden watches are a
 
 Creating watches this way has an environmental benefit. Most people are aware of trees ability to clean the air by absorbing carbon dioxide (CO2) and then release Oxygen (O2). 
 
+<img class="lazyload img-middle" alt="wooden watch being worn" data-src="/img/watches/wooden/wooden-watch-worn.jpg" />
+
 They focus on the removal of carbon but don’t consider where it ends up afterwards. After absorbing carbon, trees will store that carbon within its fibers until it begins to decompose. 
 
 Trees use carbon to produce sugars and fiber to grow, as well as integrating it into bark, twigs, stems, leaves and surrounding soil.
@@ -269,7 +271,7 @@ These trees absorb the carbon and are manufactured into a watch before it can re
 
 Wood as a building material is about 50% carbon by weight, meaning there is a lot of carbon stored within these inanimate objects as opposed to being in the atmosphere.
 
-According to the BC Forestry Climate Change Working Group and the California Forestry Association:
+According to the [BC Forestry Climate Change Working Group](https://www.climatechange.ca.gov/climate_action_team/forestry.html){: target="_blank"} and the California Forestry Association:
 
 <blockquote>
 <p>“Wood products store carbon while also substituting for material that require large amounts of fossil fuels to produce... Studies show that it requires substantially less energy to manufacture, transport, construct and maintain than materials such as steel and concrete.”</p>
@@ -289,6 +291,8 @@ It gives a specific uniqueness to the watch. It’s about bringing forward a qua
 
 There are quite a few types of wood that can be used during the crafting of a wooden watch such as bamboo, teak, koa, ebony, maple, and sandalwood. 
 
+<img class="lazyload img-middle" alt="wooden watch types" data-src="/img/watches/wooden/wooden-watch-types.jpg" />
+
 Wood is a durable and beautiful material lending to high-quality watches with gorgeous styles that can’t be replicated. Each of these wood types provide a slightly different style and grain to the design.
 
 Due to the material, most wooden watches will have a faint aroma. That aroma is distinct to the style of wood that’s used for the manufacturing. 
@@ -305,6 +309,8 @@ For the most part, these watches are no different from any other watch out on th
 
 The band, case, major and minor details are made of wood. What’s within the watch and what makes the clock tick is not wood.
 
+<img class="lazyload img-middle" alt="wooden watch example" data-src="/img/watches/wooden/wooden-watch-example.jpg" />
+
 The aesthetic of wooden jewelry seems to lend itself to either exotic or bohemian, but that’s not always the case. Just as steel watches can be worn formally and casually, wooden watches are versatile as well. 
 
 Wooden watches provide a range of aesthetics for formal watches, casual watches and everything in between. As you saw within the list in this article, there are several kinds of watches for any kind of watch wearer. 
@@ -320,3 +326,9 @@ Versatile designs and the styles of these products allows wooden watches to be a
 There is such a stylish versatility to these wooden watches. Even within a specific model of wooden watches, there are slight variations due to unique wood grains in the material itself. 
 
 Your wood watch will be unlike any other.
+
+**Citations:**
+
+* Tackle Climate Change – Use Wood.  Published in 2010 by the British Columbia Forestry Climate Change Working Group and California Forestry Association.
+
+* Wood and Carbon Footprint: North American wood products reduce the carbon footprint of buildings. Published by the American Wood Council
