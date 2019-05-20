@@ -7,17 +7,32 @@ toc: true
 ---
 ![wooden watches page header image](/img/watches/wooden/header.jpg){: .img-right}
 
-Watches in the simplest terms are an accessory with a purpose. 
+Watches – in the simplest terms – are an accessory with a purpose. 
 
 In particular, wooden watches have a unique look about them. 
 
 They stand out among a sea of metallic and leather watches. 
 
-While they contrast the rest, wood watches are not all the same. 
+Wooden watches contrast the rest, but they are not all the same. 
 
-There’s versatility within that style as shown below.
+In this guide, we're going to take a look at the best wood watches on the market. 
 
-## [Shifenmei’s S2139 Wood Watch](https://www.amazon.ca/shifenmei-Multifunctional-Japanese-Movement-Lightweight/dp/B07PZFNMC1/ref=sr_1_97_sspa?keywords=wooden%2Bwatches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-97-spons&th=1){: target="_blank"}
+## Best Wooden Watches
+
+<table>
+	<tr>
+		<th>IMG</th>
+		<th>Watch</th>
+		<th>More</th>
+	</tr>
+	<tr>
+		<td><img class="table-image lazyload" alt="best wooden watch table image" src="/img/watches/wooden/first-wooden-watch.jpg" /></td>
+		<td>ShifenMei S2139</td>
+		<td><a href="#shifenmei-s2139-wood-watch">View</a></td>
+	</tr>
+</table>
+
+## [Shifenmei S2139 Wood Watch](https://www.amazon.ca/shifenmei-Multifunctional-Japanese-Movement-Lightweight/dp/B07PZFNMC1/ref=sr_1_97_sspa?keywords=wooden%2Bwatches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-97-spons&th=1){: target="_blank"}
 <img class="lazyload img-right" alt="best wooden watch" data-src="/img/watches/wooden/first-wooden-watch.jpg" />
 
 This stunning wooden case and band is made of 100% eco-friendly, natural, hypo-allergenic, and skin-friendly wood. 
