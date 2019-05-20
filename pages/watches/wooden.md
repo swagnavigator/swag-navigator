@@ -18,7 +18,7 @@ While they contrast the rest, wood watches are not all the same.
 There’s versatility within that style as shown below.
 
 ## [Shifenmei’s S2139 Wood Watch](https://www.amazon.ca/shifenmei-Multifunctional-Japanese-Movement-Lightweight/dp/B07PZFNMC1/ref=sr_1_97_sspa?keywords=wooden%2Bwatches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-97-spons&th=1){: target="_blank"}
-<img class="img-right" alt="best wooden watch" src="/img/watches/wooden/first-wooden-watch.jpg" />
+<img class="lazyload img-right" alt="best wooden watch" data-src="/img/watches/wooden/first-wooden-watch.jpg" />
 
 This stunning wooden case and band is made of 100% eco-friendly, natural, hypo-allergenic, and skin-friendly wood. 
 
@@ -32,6 +32,8 @@ Data features include EL backlight, alarm clock, stopwatch, hourly hour, dual ti
 
 It displays in both 12-hour and 24-hour format. It’s lightweight, and only weighs 67g/2.36oz. 
 
+<img class="lazyload img-middle" alt="best wooden watch center image" data-src="/img/watches/wooden/first-watch-center-image.jpg" />
+
 This make it perfect for long term wear. The Japanese battery and Japanese quartz movement ensures precision and accuracy. 
 
 High hardness glass provides durability as it’s anti-scratch and more adamant than typical glass. It’s not as waterproof as other models, it’s best not to get it wet. 
@@ -41,7 +43,7 @@ The smooth wood strap allows for maximum comfort even while wearing it for the w
 For businessmen, outdoorsmen, family men and all those in between, this is perfect for day to day use.
 
 ## [Zeitholz’s Zittau Wooden Watch](https://www.amazon.ca/ZEITHOLZ-Wooden-ZITTAU-Sandalwood-Sustainable/dp/B07334WXN5/ref=sr_1_27?keywords=wooden+watches&qid=1558065579&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-27){: target="_blank"}
-<img class="img-right" alt="zitta wooden watch" src="/img/watches/wooden/zitta.jpg" />
+<img class="lazyload img-right" alt="zitta wooden watch" data-src="/img/watches/wooden/zitta.jpg" />
 
 From the brand Zeitholz’s, the Zittau is a beautiful watch made of dark sandalwood. 
 
@@ -57,6 +59,8 @@ The dial window is made from Mineral crystal which is a composition of several e
 
 Features include a calendar, sophisticated design, natural materials and water resistance. 
 
+<img class="lazyload img-middle" alt="zitta wooden watch center image" data-src="/img/watches/wooden/zitta-center.jpg" />
+
 The canvas wrist strap ensures comfortability. Additionally, the secure folding clasp is easy to access and adjust. With a net weight of only 42g, this watch is lightweight and perfect for portability.
 
 Made from sandalwood, this watch is a natural product, sustainable and hypoallergenic. Zeitholz is a young German company unlike other watch companies. They ensure superior quality and impressive craftsmanship. 
@@ -64,7 +68,7 @@ Made from sandalwood, this watch is a natural product, sustainable and hypoaller
 The craftsmanship of this watch is unlike many watches presently on the market, Zeitholz create each timepiece by hand. 
 
 ## [ZLYC Sandalstone Watch](https://www.amazon.ca/ZLYC-Sandalwood-Octagonal-Japanese-Movement/dp/B017LBSV06){: target="_blank"}
-<img class="img-right" alt="ZLYC wooden watch" src="/img/watches/wooden/zlyc.jpg" />
+<img class="lazyload img-right" alt="ZLYC wooden watch" data-src="/img/watches/wooden/zlyc.jpg" />
 
 Red and black sandalwood combines to create a gorgeous two-toned design. 
 
@@ -78,6 +82,8 @@ This exceptional ZLYC watch is powered by Japanese Quartz movement by measuring 
 
 This watch is resistant to water up to 30 meters to protect it from splashes and perspiration. It can get wet but not submerged for long periods of time. 
 
+<img class="lazyload img-middle" alt="zlyc wooden watch center image" data-src="/img/watches/wooden/zlyc-center.jpg" />
+
 The watch includes a date calendar at 6 o’clock showing simply the date as to not clutter the watch face.
 
 Made from high quality natural sandalwood, this watch is a gorgeous and natural watch. Due to the sandalwood, there’s a subtle fragrance of sandal wood. 
@@ -85,7 +91,7 @@ Made from high quality natural sandalwood, this watch is a gorgeous and natural 
 This scent is known to calm the nerves and encourage relaxation. The addition of a relaxing scent provides an added benefit to this already gorgeous watch.
 
 ## [Uwood Elegant Wooden Watch](https://www.amazon.ca/Wooden-Elegant-Luminous-Japanese-Movement/dp/B07NJ5JWL7/ref=sr_1_108?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-108){: target="_blank"} 
-<img class="img-right" alt="Uwood wooden watch" src="/img/watches/wooden/uwood.jpg" />
+<img class="lazyload img-right" alt="Uwood wooden watch" data-src="/img/watches/wooden/uwood.jpg" />
 
 Uwood brings forth the beauty of the environment within their watches. 
 
@@ -99,12 +105,14 @@ The entire watch is textured, heightening the natural elegance of the design. Th
 
 Using imported Japan quartz movement, this watch keeps precise time. Time itself is simple to see even in the dark with luminous pointers to see the time clearly. 
 
+<img class="lazyload img-middle" alt="uwood wooden watch center image" data-src="/img/watches/wooden/uwood-center.jpg" />
+
 Weighing less than your typical watch, this Uwood watch is comfortably lightweight. A light watch allows it to be worn easily throughout a long period. 
 
 With a pressing buckle, the band is handy to take on and off between wears. This watch is a perfect combination of convenience, comfortability and rustic charm.
 
 ## [Cucol Bamboo Wooden Watch](https://www.amazon.ca/CUCOL-Watches-Japanese-Movement-Groomsmen/dp/B073PVNFDS/ref=pd_sim_241_1/134-9358773-1487421?_encoding=UTF8&pd_rd_i=B073PVNFDS&pd_rd_r=ba47bf35-7858-11e9-aae6-5da153af3a65&pd_rd_w=1lzFz&pd_rd_wg=eiBwS&pf_rd_p=29a85b27-a36a-4f8d-94ca-61aa962c5f39&pf_rd_r=7JFQF42RCXWCCP94BBXV&psc=1&refRID=7JFQF42RCXWCCP94BBXV){: target="_blank"}
-<img class="img-right" alt="Cucol wooden watch" src="/img/watches/wooden/cucol.jpg" />
+<img class="lazyload img-right" alt="Cucol wooden watch" data-src="/img/watches/wooden/cucol.jpg" />
 
 Cucol is a further brand aspiring to bring forward a natural sense to a world that’s full of concrete, steel and synthetics. 
 
@@ -118,6 +126,8 @@ The design of this watch is very simplistic. Within the dial, there is merely ho
 
 Nothing else clutters up the face. Without a logo, sub dials, or dates, it’s a minimalistic design with sophisticated design. 
 
+<img class="lazyload img-middle" alt="cucol bamboo wooden watch center image" data-src="/img/watches/wooden/cucol-center.jpg" />
+
 In the back of the watch face is a bamboo surface with gorgeous subtly stripped design with a light background and tan grains. 
 
 The light bamboo coloring of the background and the case contrast against the black band, hands and face frame. 
@@ -125,7 +135,7 @@ The light bamboo coloring of the background and the case contrast against the bl
 With a textured leather for the band, it expresses elegance and class. The pale bamboo contrasts against the deep black which heightens the formality of the watch ensuring that is perfect for both casual and business casual attire.
 
 ## [Bean and Vanilla Koa Wood Watch](https://www.amazon.ca/BEAN-VANILLA-Wooden-Wristwatch-Women/dp/B01JNZ7TY2/ref=sr_1_114?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-114){: target="_blank"}
-<img class="img-right" alt="bean and vanilla wooden watch" src="/img/watches/wooden/bean-vanilla.jpg" />
+<img class="lazyload img-right" alt="bean and vanilla wooden watch" data-src="/img/watches/wooden/bean-vanilla.jpg" />
 
 This gorgeous watch is inspired by the Hawaiian Islands even down to the materials. Koa is a beautiful hardwood native to the Hawaiian Islands. 
 
@@ -152,7 +162,7 @@ Bean and Vanilla only use the finest quality wood for their watches.
 The high-quality materials add to high quality craftsmanship to elevate the overall quality of the work.
 
 ## [Acmede Vintage Wooden Watch](https://www.amazon.ca/Unique-Vintage-Natural-Sandlewood-Luminous/dp/B01LZQNEQF/ref=sr_1_130?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-130){: target="_blank"}
-<img class="img-right" alt="Acmede wooden watch" src="/img/watches/wooden/acmede.jpg" />
+<img class="lazyload img-right" alt="Acmede wooden watch" data-src="/img/watches/wooden/acmede.jpg" />
 
 Acmede provides charming watches including this sandalwood model. Acmede wooden watches are completely unique as each watch has its own distinctive and gorgeous wood grain. 
 
@@ -166,6 +176,8 @@ This vintage style is ideal for a range of formal and business wardrobes.
 
 On the 3 o’clock position, the watch features a date calendar. A butterfly buckle increases the conveniences and ease of taking the watch on and off. 
 
+<img class="lazyload img-middle" alt="acmede wooden watch center image" data-src="/img/watches/wooden/acmede-center.jpg" />
+
 The band itself is designed longer than is needed, allowing for adjustability. 
 
 Another feature is its water resistance meant to protect the watch against sweat and the occasional splash. 
@@ -177,7 +189,7 @@ In addition, the battery lasts longer than the typical watch battery, up to 36 m
 By the way, if you don't want to have to worry about changing your watch battery, consider checking out a [solar watch](/watches/solar/).
 
 ## [Guanke And Bobo Bird Luxury Wooden Sports Watch](https://www.amazon.ca/Stylish-Chronograph-Military-Stainless-Combined/dp/B07L9CHPWF/ref=sr_1_4?qid=1558135168&refinements=p_4%3AGUANKE%2Cp_72%3A11192170011&rnid=11192166011&s=watch&sr=1-4){: target="_blank"}
-<img class="img-right" alt="guanke-bobo wooden watch" src="/img/watches/wooden/guanke-bobo.jpg" />
+<img class="lazyload img-right" alt="guanke-bobo wooden watch" data-src="/img/watches/wooden/guanke-bobo.jpg" />
 
 Guanke is a brand that specialises in professional wood watch craftsmanship. 
 
@@ -189,6 +201,8 @@ The sandalwood watch counteracts the simplistic and hippy aesthetic of other woo
 
 The pale wood and dark steel in both the band and the case contrast beautifully, and the background of the watch shows a beautifully striped wood; both light and dark. It’s a watch that combines functionality with beauty.  
 
+<img class="lazyload img-middle" alt="guanke and bobo wooden watch center image" data-src="/img/watches/wooden/bobo-bird-center.jpg" />
+
 Using analog as well as quartz movement, this gorgeous watch ensures precision without manual winding. 
 
 Hardlex mirror material ensures durability and longevity for your watch. The buckle clasp ensures ease of access for taking the watch on and off. 
@@ -196,7 +210,7 @@ Hardlex mirror material ensures durability and longevity for your watch. The buc
 Combined with a larger than average dial diameter, this watch accommodates those with larger wrists or a love for the outdoors. This watch combines style, skill and sustainability. 
 
 ## [Tree Hut Wooden Watch](https://www.amazon.ca/Treehut-Wooden-Bamboo-Genuine-Leather/dp/B014G7GIGM/ref=sr_1_99?crid=2DMS102OTNY0A&keywords=wooden+watches+for+men&qid=1558134501&refinements=p_72%3A11192170011&rnid=11192166011&s=watch&sprefix=wooden+watches%2Cwatches%2C580&sr=1-99){: target="_blank"} 
-<img class="img-right" alt="treehut wooden watch" src="/img/watches/wooden/treehut.jpg" />
+<img class="lazyload img-right" alt="treehut wooden watch" data-src="/img/watches/wooden/treehut.jpg" />
 
 This is a simply gorgeous watch. The timeless design provides a classy and sophisticated aesthetic.
 
@@ -208,12 +222,14 @@ With the olive ashen bamboo on the 1.7-inch dial, it creates a rather dapper des
 
 Both durability and resilient are characteristics of this watch. The watch is crafted with high quality materials for longevity and resistance as well as having a 3ATM water resistance. 
 
+<img class="lazyload img-middle" alt="treehut wooden watch center image" data-src="/img/watches/wooden/treehut-center.jpg" />
+
 This is a perfect watch for both casual and active use. As its genuine leather used for the strap, it’s extremely comfortable. The adjustable strap and buckle add to its adjustability and convenience. 
 
 Features include Japanese Miyota quartz watch movement to ensure that time keeping is accurate and precise. Japanese Miyota quartz movement is established as the leading manufacturer for quartz movement within watches. They ensure high quality performance.
 
 ## [Bobo Bird L15 Wooden Watch](https://www.amazon.ca/BOBO-BIRD-Sandal-Leather-Watches/dp/B00Y8BIEXW/ref=sr_1_28?keywords=bobo+bird+wooden+watches&qid=1558137227&refinements=p_72%3A11192170011&rnid=11192166011&s=watch&sr=1-28){: target="_blank"} 
-<img class="img-right" alt="bobo birds wooden watch" src="/img/watches/wooden/bobo-bird.jpg" />
+<img class="lazyload img-right" alt="bobo birds wooden watch" data-src="/img/watches/wooden/bobo-bird.jpg" />
 
 Handmade Craftsmanship is one of the highlights of this watch. It’s a gorgeous watch with red sandalwood. Bobo Bird holds themselves to the highest standards. Their craftsmanship is the highest authenticity and quality. 
 
@@ -224,6 +240,8 @@ The red hue stands out against other wooden watches that tend to stick with more
 Visible stitching within the leather strap increases the classic appeal. The dial, crown, and back cap are all gorgeous red Sandalwood and 100% real wood. With all the details combined, it becomes a beautifully classic watch that’s ideal for a fashionable casual wardrobe.
 
 The brown leather band is both soft and comfortable, and adding a buckle allows for easy and simple adjustments. Together it gives comfort even after long periods of wear. 
+
+<img class="lazyload img-middle" alt="bobobird l15 wooden watch center image" data-src="/img/watches/wooden/bobobird-center.jpg" />
 
 Weighing just under 30g, this is a reasonably lightweight watch. That weight is great for those that want to wear the watch all day without discomfort. This analog watch uses quartz movement to ensure accuracy and precision. 
 
