@@ -36,7 +36,7 @@ In this guide, we're going to take a look at the best wood watches on the market
 		<td><a target="_blank" href="https://www.amazon.ca/ZEITHOLZ-Wooden-ZITTAU-Sandalwood-Sustainable/dp/B07334WXN5/ref=sr_1_27?keywords=wooden+watches&qid=1558065579&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-27"><img class="table-image lazyload" alt="best wooden watch table image" src="/img/watches/wooden/first-wooden-watch.jpg" /></a></td>
 		<td><a target="_blank" href="https://www.amazon.ca/ZEITHOLZ-Wooden-ZITTAU-Sandalwood-Sustainable/dp/B07334WXN5/ref=sr_1_27?keywords=wooden+watches&qid=1558065579&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-27">Zeitholz Zittau Wooden Watch</a></td>
 		<td>5/5</td>
-		<td><a class="btn btn--info" href="#zeitholz-zittau-wooden-watch">View</a></td>
+		<td><a class="btn btn--info" href="#zeitholz-wooden-watch">View</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2Wlym5P"><img class="table-image lazyload" alt="best wooden watch table image" src="/img/watches/wooden/zitta.jpg" /></a></td>
