@@ -17,7 +17,7 @@ Wooden watches contrast the rest, but they are not all the same.
 
 In this guide, we're going to take a look at the best wood watches on the market. 
 
-## Best Wooden Watches
+## Zoom In: 3 Best Wooden Watches
 
 <table>
 	<tr>
@@ -27,12 +27,66 @@ In this guide, we're going to take a look at the best wood watches on the market
 		<th>More</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.amazon.ca/shifenmei-Multifunctional-Japanese-Movement-Lightweight/dp/B07PZFNMC1/ref=sr_1_97_sspa?keywords=wooden%2Bwatches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-97-spons&th=1"><img class="table-image lazyload" alt="best wooden watch table image" src="/img/watches/wooden/first-wooden-watch.jpg" /></a></td>
-		<td><a target="_blank" href="https://www.amazon.ca/shifenmei-Multifunctional-Japanese-Movement-Lightweight/dp/B07PZFNMC1/ref=sr_1_97_sspa?keywords=wooden%2Bwatches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-97-spons&th=1">ShifenMei S2139</a></td>
+		<td><a target="_blank" href="https://amzn.to/2MlROvF"><img class="table-image lazyload" alt="bobo bird wooden watch" src="/img/watches/wooden/bobo-bird.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2MlROvF">Bobo Bird L15 Wooden Watch</a></td>
+		<td>5/5</td>
+		<td><a class="btn btn--info" href="#bobo-bird-l15-wooden-watch">View</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://www.amazon.ca/ZEITHOLZ-Wooden-ZITTAU-Sandalwood-Sustainable/dp/B07334WXN5/ref=sr_1_27?keywords=wooden+watches&qid=1558065579&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-27"><img class="table-image lazyload" alt="best wooden watch table image" src="/img/watches/wooden/first-wooden-watch.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.ca/ZEITHOLZ-Wooden-ZITTAU-Sandalwood-Sustainable/dp/B07334WXN5/ref=sr_1_27?keywords=wooden+watches&qid=1558065579&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-27">Zeitholz Zittau Wooden Watch</a></td>
+		<td>5/5</td>
+		<td><a class="btn btn--info" href="#zeitholz-zittau-wooden-watch">View</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2Wlym5P"><img class="table-image lazyload" alt="best wooden watch table image" src="/img/watches/wooden/zitta.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2Wlym5P">ShifenMei S2139</a></td>
 		<td>5/5</td>
 		<td><a class="btn btn--info" href="#shifenmei-s2139-wood-watch">View</a></td>
 	</tr>
 </table>
+
+## [Bobo Bird L15 Wooden Watch](https://www.amazon.ca/BOBO-BIRD-Sandal-Leather-Watches/dp/B00Y8BIEXW/ref=sr_1_28?keywords=bobo+bird+wooden+watches&qid=1558137227&refinements=p_72%3A11192170011&rnid=11192166011&s=watch&sr=1-28){: target="_blank"} 
+<img class="lazyload img-right" alt="bobo birds wooden watch" data-src="/img/watches/wooden/bobo-bird.jpg" />
+
+Handmade Craftsmanship is one of the highlights of this watch. It’s a gorgeous watch with red sandalwood. Bobo Bird holds themselves to the highest standards. Their craftsmanship is the highest authenticity and quality. 
+
+Every watch is handcrafted to be a truly original work of art.
+
+The red hue stands out against other wooden watches that tend to stick with more neutral and passive colour tones. The red is a perfect way to stand out in a crowd. 
+
+Visible stitching within the leather strap increases the classic appeal. The dial, crown, and back cap are all gorgeous red Sandalwood and 100% real wood. With all the details combined, it becomes a beautifully classic watch that’s ideal for a fashionable casual wardrobe.
+
+The brown leather band is both soft and comfortable, and adding a buckle allows for easy and simple adjustments. Together it gives comfort even after long periods of wear. 
+
+<img class="lazyload img-middle" alt="bobobird l15 wooden watch center image" data-src="/img/watches/wooden/bobobird-center.jpg" />
+
+Weighing just under 30g, this is a reasonably lightweight watch. That weight is great for those that want to wear the watch all day without discomfort. This analog watch uses quartz movement to ensure accuracy and precision. 
+
+## [Zeitholz Wooden Watch](https://amzn.to/2Wlym5P){: target="_blank"}
+<img class="lazyload img-right" alt="zitta wooden watch" data-src="/img/watches/wooden/zitta.jpg" />
+
+From the brand Zeitholz’s, the Zittau is a beautiful watch made of dark sandalwood. 
+
+With a round face, much darker than the dark brown sandalwood, it certainly has a unique design. 
+
+The roman numerals on the watch’s face elevate the elegance. 
+
+This is the perfect accessory to be paired with a suit for formality, business, or pleasure.
+
+Zeitholz utilizes high quality Japanese Miyota GL30 clockwork to ensure superior quality within their products. Using Miyota clockwork guarantees a battery that will last for years. 
+
+The dial window is made from Mineral crystal which is a composition of several elements to create an unusually hard material that’s durable and scratch resistant. 
+
+Features include a calendar, sophisticated design, natural materials and water resistance. 
+
+<img class="lazyload img-middle" alt="zitta wooden watch center image" data-src="/img/watches/wooden/zitta-center.jpg" />
+
+The canvas wrist strap ensures comfortability. Additionally, the secure folding clasp is easy to access and adjust. With a net weight of only 42g, this watch is lightweight and perfect for portability.
+
+Made from sandalwood, this watch is a natural product, sustainable and hypoallergenic. Zeitholz is a young German company unlike other watch companies. They ensure superior quality and impressive craftsmanship. 
+
+The craftsmanship of this watch is unlike many watches presently on the market, Zeitholz create each timepiece by hand. 
 
 ## [Shifenmei S2139 Wood Watch](https://www.amazon.ca/shifenmei-Multifunctional-Japanese-Movement-Lightweight/dp/B07PZFNMC1/ref=sr_1_97_sspa?keywords=wooden%2Bwatches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-97-spons&th=1){: target="_blank"}
 <img class="lazyload img-right" alt="best wooden watch" data-src="/img/watches/wooden/first-wooden-watch.jpg" />
@@ -58,31 +112,6 @@ High hardness glass provides durability as it’s anti-scratch and more adamant 
 The smooth wood strap allows for maximum comfort even while wearing it for the whole day. Additional adjustability within the men’s wooden watch band allows you to easily readjust with the use of the included Link Removing Tool.
 
 For businessmen, outdoorsmen, family men and all those in between, this is perfect for day to day use.
-
-## [Zeitholz’s Zittau Wooden Watch](https://www.amazon.ca/ZEITHOLZ-Wooden-ZITTAU-Sandalwood-Sustainable/dp/B07334WXN5/ref=sr_1_27?keywords=wooden+watches&qid=1558065579&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-27){: target="_blank"}
-<img class="lazyload img-right" alt="zitta wooden watch" data-src="/img/watches/wooden/zitta.jpg" />
-
-From the brand Zeitholz’s, the Zittau is a beautiful watch made of dark sandalwood. 
-
-With a round face, much darker than the dark brown sandalwood, it certainly has a unique design. 
-
-The roman numerals on the watch’s face elevate the elegance. 
-
-This is the perfect accessory to be paired with a suit for formality, business, or pleasure.
-
-Zeitholz utilizes high quality Japanese Miyota GL30 clockwork to ensure superior quality within their products. Using Miyota clockwork guarantees a battery that will last for years. 
-
-The dial window is made from Mineral crystal which is a composition of several elements to create an unusually hard material that’s durable and scratch resistant. 
-
-Features include a calendar, sophisticated design, natural materials and water resistance. 
-
-<img class="lazyload img-middle" alt="zitta wooden watch center image" data-src="/img/watches/wooden/zitta-center.jpg" />
-
-The canvas wrist strap ensures comfortability. Additionally, the secure folding clasp is easy to access and adjust. With a net weight of only 42g, this watch is lightweight and perfect for portability.
-
-Made from sandalwood, this watch is a natural product, sustainable and hypoallergenic. Zeitholz is a young German company unlike other watch companies. They ensure superior quality and impressive craftsmanship. 
-
-The craftsmanship of this watch is unlike many watches presently on the market, Zeitholz create each timepiece by hand. 
 
 ## [ZLYC Sandalstone Watch](https://www.amazon.ca/ZLYC-Sandalwood-Octagonal-Japanese-Movement/dp/B017LBSV06){: target="_blank"}
 <img class="lazyload img-right" alt="ZLYC wooden watch" data-src="/img/watches/wooden/zlyc.jpg" />
@@ -244,23 +273,6 @@ Both durability and resilient are characteristics of this watch. The watch is cr
 This is a perfect watch for both casual and active use. As its genuine leather used for the strap, it’s extremely comfortable. The adjustable strap and buckle add to its adjustability and convenience. 
 
 Features include Japanese Miyota quartz watch movement to ensure that time keeping is accurate and precise. Japanese Miyota quartz movement is established as the leading manufacturer for quartz movement within watches. They ensure high quality performance.
-
-## [Bobo Bird L15 Wooden Watch](https://www.amazon.ca/BOBO-BIRD-Sandal-Leather-Watches/dp/B00Y8BIEXW/ref=sr_1_28?keywords=bobo+bird+wooden+watches&qid=1558137227&refinements=p_72%3A11192170011&rnid=11192166011&s=watch&sr=1-28){: target="_blank"} 
-<img class="lazyload img-right" alt="bobo birds wooden watch" data-src="/img/watches/wooden/bobo-bird.jpg" />
-
-Handmade Craftsmanship is one of the highlights of this watch. It’s a gorgeous watch with red sandalwood. Bobo Bird holds themselves to the highest standards. Their craftsmanship is the highest authenticity and quality. 
-
-Every watch is handcrafted to be a truly original work of art.
-
-The red hue stands out against other wooden watches that tend to stick with more neutral and passive colour tones. The red is a perfect way to stand out in a crowd. 
-
-Visible stitching within the leather strap increases the classic appeal. The dial, crown, and back cap are all gorgeous red Sandalwood and 100% real wood. With all the details combined, it becomes a beautifully classic watch that’s ideal for a fashionable casual wardrobe.
-
-The brown leather band is both soft and comfortable, and adding a buckle allows for easy and simple adjustments. Together it gives comfort even after long periods of wear. 
-
-<img class="lazyload img-middle" alt="bobobird l15 wooden watch center image" data-src="/img/watches/wooden/bobobird-center.jpg" />
-
-Weighing just under 30g, this is a reasonably lightweight watch. That weight is great for those that want to wear the watch all day without discomfort. This analog watch uses quartz movement to ensure accuracy and precision. 
 
 ## Choosing The Best Wooden Watch for You
 
