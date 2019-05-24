@@ -25,6 +25,35 @@ They work well, look great, and they're actually pretty affordable too.
 
 In this guide, we're going to be taking a look at the best solar powered watches on the market. 
 
+## Zoom In: 3 Best Solar Watches 
+
+<table>
+	<tr>
+		<th>IMG</th>
+		<th>Watch</th>
+		<th>Rating</th>
+		<th>More</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="#"><img class="table-image lazyload" alt="best solar watch" src="/img/watches/solar/coutura.jpg" /></a></td>
+		<td><a target="_blank" href="#">Seiko Coutura</a></td>
+		<td>5/5</td>
+		<td><a class="btn btn--info" href="#seiko-coutura">View</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="#"><img class="table-image lazyload" alt="fancy solar watch" src="/img/watches/solar/prospex.jpg" /></a></td>
+		<td><a target="_blank" href="#">Seiko Prospex</a></td>
+		<td>5/5</td>
+		<td><a class="btn btn--info" href="#seiko-prospex">View</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2JXX3i4"><img class="table-image lazyload" alt="awesome g-shock solar watch" src="/img/watches/solar/g-shock.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2JXX3i4">Casio G-Shock</a></td>
+		<td>5/5</td>
+		<td><a class="btn btn--info" href="#casio-g-shock">View</a></td>
+	</tr>
+</table>
+
 ## Seiko Coutura
 <img class="img-right" alt="best solar watch" src="/img/watches/solar/coutura.jpg" />
 This is a gorgeous two-toned quartz stainless steel solar atomic watch.
@@ -84,6 +113,41 @@ This watch includes sub dials suited for the global traveller. These subdials pr
 With such a wealth of information, the design remains classic with a logical and clear layout. 
 
 This watch is perfect for those that desire a rich sophisticated watch.
+
+## Casio G-Shock
+<img class="img-right" alt="casio g-shock mens solar watch" src="/img/watches/solar/g-shock.jpg" />
+
+Here is Casio’s Men's G-Shock analog display quartz black solar atomic watch.
+ 
+Durability and function: that’s what this Casio watch provides. 
+
+It features a smartphone link function, blue tooth capability, battery level indicator, full auto calendar, dual dial world time and provides chronograph performance in analog format. 
+
+The dial within the watch are designed for masculine grace and performance. 
+
+The black dial contrasts with a silver casing. At the 9 0’clock position the dial contains a multi-functional rotating disk cut inspired by a jet engine.
+ 
+The thick blades within the disk, mimic the blades within a jet engine. 
+
+This rotating disk changing colours to indicate battery level and alarm setting, as well as keeping in rotating time with the timekeeping and stopwatch mode.
+
+As it’s equipped with Bluetooth capabilities, this watch can connect to your smartphone simply and conveniently.
+
+Using an internet time-server, your watch will provide accurate timekeeping regardless of where you are.
+ 
+G-Shock strives for toughness and they deliver. 
+
+<img class="img-middle" alt="g-shock second solar watch side view" src="/img/watches/solar/g-shock-second.jpg" /> 
+
+This watch strives is toughness. New layer guard structure; tough solar, shock resistance all ensure the longevity of the watch. 
+
+This watch will be what you need it. With a 200-meter water resistance, the watch is perfect for suitable for professional marine activity and serious surface water sports, all save for diving.
+ 
+The G-Shock series is designed to be the tool that you need when you need it. 
+
+The battery continues operating for as long as you need it to thanks to the solar panels around the dial. 
+
+It employs a power saving technology where the hands stop to save power when left in the dark.
 
 ## Skagen Signatur
 <img class="img-right" alt="skagen signatur mens solar watch" src="/img/watches/solar/signatur.jpg" />
@@ -211,41 +275,6 @@ This watch features a water resistance of up to 30 meters (99 feet), the dial is
 The Eco-drive technology ensures that the watch continues to be powered consistently and steadily. 
 
 This technology employs solar panels within the dial of the watch itself to store energy. This means batteries are a thing of the past as are replacing them.
-
-## Casio G-Shock
-<img class="img-right" alt="casio g-shock mens solar watch" src="/img/watches/solar/g-shock.jpg" />
-
-Here is Casio’s Men's G-Shock analog display quartz black solar atomic watch.
- 
-Durability and function: that’s what this Casio watch provides. 
-
-It features a smartphone link function, blue tooth capability, battery level indicator, full auto calendar, dual dial world time and provides chronograph performance in analog format. 
-
-The dial within the watch are designed for masculine grace and performance. 
-
-The black dial contrasts with a silver casing. At the 9 0’clock position the dial contains a multi-functional rotating disk cut inspired by a jet engine.
- 
-The thick blades within the disk, mimic the blades within a jet engine. 
-
-This rotating disk changing colours to indicate battery level and alarm setting, as well as keeping in rotating time with the timekeeping and stopwatch mode.
-
-As it’s equipped with Bluetooth capabilities, this watch can connect to your smartphone simply and conveniently.
-
-Using an internet time-server, your watch will provide accurate timekeeping regardless of where you are.
- 
-G-Shock strives for toughness and they deliver. 
-
-<img class="img-middle" alt="g-shock second solar watch side view" src="/img/watches/solar/g-shock-second.jpg" /> 
-
-This watch strives is toughness. New layer guard structure; tough solar, shock resistance all ensure the longevity of the watch. 
-
-This watch will be what you need it. With a 200-meter water resistance, the watch is perfect for suitable for professional marine activity and serious surface water sports, all save for diving.
- 
-The G-Shock series is designed to be the tool that you need when you need it. 
-
-The battery continues operating for as long as you need it to thanks to the solar panels around the dial. 
-
-It employs a power saving technology where the hands stop to save power when left in the dark.
 
 ## Casio G-Steel 
 <img class="img-right" alt="casio g-steel mens solar watch" src="/img/watches/solar/g-steel.jpg" />
