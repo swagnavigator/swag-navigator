@@ -63,7 +63,7 @@ The brown leather band is both soft and comfortable, and adding a buckle allows 
 
 Weighing just under 30g, this is a reasonably lightweight watch. That weight is great for those that want to wear the watch all day without discomfort. This analog watch uses quartz movement to ensure accuracy and precision. 
 
-[Check Price](https://www.amazon.ca/BOBO-BIRD-Sandal-Leather-Watches/dp/B00Y8BIEXW/ref=sr_1_28?keywords=bobo+bird+wooden+watches&qid=1558137227&refinements=p_72%3A11192170011&rnid=11192166011&s=watch&sr=1-28){: .btn .btn--success target="_blank"}
+[Check Price](https://www.amazon.ca/BOBO-BIRD-Sandal-Leather-Watches/dp/B00Y8BIEXW/ref=sr_1_28?keywords=bobo+bird+wooden+watches&qid=1558137227&refinements=p_72%3A11192170011&rnid=11192166011&s=watch&sr=1-28){: .btn .btn--success .btn-center target="_blank"}
 
 ## [Zeitholz Wooden Watch](https://amzn.to/2Wlym5P){: target="_blank"}
 <img class="lazyload img-right" alt="zitta wooden watch" data-src="/img/watches/wooden/zitta.jpg" />
@@ -90,7 +90,7 @@ Made from sandalwood, this watch is a natural product, sustainable and hypoaller
 
 The craftsmanship of this watch is unlike many watches presently on the market, Zeitholz create each timepiece by hand.
 
-[Check Price](https://amzn.to/2Wlym5P){: .btn .btn--success target="_blank"} 
+[Check Price](https://amzn.to/2Wlym5P){: .btn .btn--success .btn-center target="_blank"} 
 
 ## [Shifenmei S2139 Wood Watch](https://www.amazon.ca/shifenmei-Multifunctional-Japanese-Movement-Lightweight/dp/B07PZFNMC1/ref=sr_1_97_sspa?keywords=wooden%2Bwatches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-97-spons&th=1){: target="_blank"}
 <img class="lazyload img-right" alt="best wooden watch" data-src="/img/watches/wooden/first-wooden-watch.jpg" />
@@ -117,7 +117,7 @@ The smooth wood strap allows for maximum comfort even while wearing it for the w
 
 For businessmen, outdoorsmen, family men and all those in between, this is perfect for day to day use.
 
-[Check Price](https://www.amazon.ca/shifenmei-Multifunctional-Japanese-Movement-Lightweight/dp/B07PZFNMC1/ref=sr_1_97_sspa?keywords=wooden%2Bwatches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-97-spons&th=1){: .btn .btn--success target="_blank"} 
+[Check Price](https://www.amazon.ca/shifenmei-Multifunctional-Japanese-Movement-Lightweight/dp/B07PZFNMC1/ref=sr_1_97_sspa?keywords=wooden%2Bwatches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-97-spons&th=1){: .btn .btn--success .btn-center target="_blank"} 
 
 ## [ZLYC Sandalstone Watch](https://www.amazon.ca/ZLYC-Sandalwood-Octagonal-Japanese-Movement/dp/B017LBSV06){: target="_blank"}
 <img class="lazyload img-right" alt="ZLYC wooden watch" data-src="/img/watches/wooden/zlyc.jpg" />
@@ -142,7 +142,7 @@ Made from high quality natural sandalwood, this watch is a gorgeous and natural 
 
 This scent is known to calm the nerves and encourage relaxation. The addition of a relaxing scent provides an added benefit to this already gorgeous watch.
 
-[Check Price](https://www.amazon.ca/ZLYC-Sandalwood-Octagonal-Japanese-Movement/dp/B017LBSV06){: .btn .btn--success target="_blank"} 
+[Check Price](https://www.amazon.ca/ZLYC-Sandalwood-Octagonal-Japanese-Movement/dp/B017LBSV06){: .btn .btn--success .btn-center target="_blank"} 
 
 ## [Uwood Elegant Wooden Watch](https://www.amazon.ca/Wooden-Elegant-Luminous-Japanese-Movement/dp/B07NJ5JWL7/ref=sr_1_108?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-108){: target="_blank"} 
 <img class="lazyload img-right" alt="Uwood wooden watch" data-src="/img/watches/wooden/uwood.jpg" />
@@ -165,7 +165,7 @@ Weighing less than your typical watch, this Uwood watch is comfortably lightweig
 
 With a pressing buckle, the band is handy to take on and off between wears. This watch is a perfect combination of convenience, comfortability and rustic charm.
 
-[Check Price](https://www.amazon.ca/Wooden-Elegant-Luminous-Japanese-Movement/dp/B07NJ5JWL7/ref=sr_1_108?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-108){: .btn .btn--success target="_blank"} 
+[Check Price](https://www.amazon.ca/Wooden-Elegant-Luminous-Japanese-Movement/dp/B07NJ5JWL7/ref=sr_1_108?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-108){: .btn .btn--success .btn-center target="_blank"} 
 
 ## [Cucol Bamboo Wooden Watch](https://www.amazon.ca/CUCOL-Watches-Japanese-Movement-Groomsmen/dp/B073PVNFDS/ref=pd_sim_241_1/134-9358773-1487421?_encoding=UTF8&pd_rd_i=B073PVNFDS&pd_rd_r=ba47bf35-7858-11e9-aae6-5da153af3a65&pd_rd_w=1lzFz&pd_rd_wg=eiBwS&pf_rd_p=29a85b27-a36a-4f8d-94ca-61aa962c5f39&pf_rd_r=7JFQF42RCXWCCP94BBXV&psc=1&refRID=7JFQF42RCXWCCP94BBXV){: target="_blank"}
 <img class="lazyload img-right" alt="Cucol wooden watch" data-src="/img/watches/wooden/cucol.jpg" />
@@ -190,7 +190,7 @@ The light bamboo coloring of the background and the case contrast against the bl
 
 With a textured leather for the band, it expresses elegance and class. The pale bamboo contrasts against the deep black which heightens the formality of the watch ensuring that is perfect for both casual and business casual attire.
 
-[Check Price](https://www.amazon.ca/Wooden-Elegant-Luminous-Japanese-Movement/dp/B07NJ5JWL7/ref=sr_1_108?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-108){: .btn .btn--success target="_blank"} 
+[Check Price](https://www.amazon.ca/Wooden-Elegant-Luminous-Japanese-Movement/dp/B07NJ5JWL7/ref=sr_1_108?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-108){: .btn .btn--success .btn-center target="_blank"} 
 
 ## [Bean and Vanilla Koa Wood Watch](https://www.amazon.ca/BEAN-VANILLA-Wooden-Wristwatch-Women/dp/B01JNZ7TY2/ref=sr_1_114?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-114){: target="_blank"}
 <img class="lazyload img-right" alt="bean and vanilla wooden watch" data-src="/img/watches/wooden/bean-vanilla.jpg" />
@@ -219,7 +219,7 @@ Bean and Vanilla only use the finest quality wood for their watches.
 
 The high-quality materials add to high quality craftsmanship to elevate the overall quality of the work.
 
-[Check Price](https://www.amazon.ca/BEAN-VANILLA-Wooden-Wristwatch-Women/dp/B01JNZ7TY2/ref=sr_1_114?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-114){: .btn .btn--success target="_blank"} 
+[Check Price](https://www.amazon.ca/BEAN-VANILLA-Wooden-Wristwatch-Women/dp/B01JNZ7TY2/ref=sr_1_114?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-114){: .btn .btn--success .btn-center target="_blank"} 
 
 ## [Acmede Vintage Wooden Watch](https://www.amazon.ca/Unique-Vintage-Natural-Sandlewood-Luminous/dp/B01LZQNEQF/ref=sr_1_130?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-130){: target="_blank"}
 <img class="lazyload img-right" alt="Acmede wooden watch" data-src="/img/watches/wooden/acmede.jpg" />
@@ -248,7 +248,7 @@ In addition, the battery lasts longer than the typical watch battery, up to 36 m
 
 By the way, if you don't want to have to worry about changing your watch battery, consider checking out a [solar watch](/watches/solar/).
 
-[Check Price](https://www.amazon.ca/Unique-Vintage-Natural-Sandlewood-Luminous/dp/B01LZQNEQF/ref=sr_1_130?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-130){: .btn .btn--success target="_blank"} 
+[Check Price](https://www.amazon.ca/Unique-Vintage-Natural-Sandlewood-Luminous/dp/B01LZQNEQF/ref=sr_1_130?keywords=wooden+watches&qid=1558065840&refinements=p_72%3A11192170011&rnid=5264023011&s=watch&sr=1-130){: .btn .btn--success .btn-center target="_blank"} 
 
 ## [Guanke And Bobo Bird Luxury Wooden Sports Watch](https://www.amazon.ca/Stylish-Chronograph-Military-Stainless-Combined/dp/B07L9CHPWF/ref=sr_1_4?qid=1558135168&refinements=p_4%3AGUANKE%2Cp_72%3A11192170011&rnid=11192166011&s=watch&sr=1-4){: target="_blank"}
 <img class="lazyload img-right" alt="guanke-bobo wooden watch" data-src="/img/watches/wooden/guanke-bobo.jpg" />
@@ -271,7 +271,7 @@ Hardlex mirror material ensures durability and longevity for your watch. The buc
 
 Combined with a larger than average dial diameter, this watch accommodates those with larger wrists or a love for the outdoors. This watch combines style, skill and sustainability.
 
-[Check Price](https://www.amazon.ca/Stylish-Chronograph-Military-Stainless-Combined/dp/B07L9CHPWF/ref=sr_1_4?qid=1558135168&refinements=p_4%3AGUANKE%2Cp_72%3A11192170011&rnid=11192166011&s=watch&sr=1-4){: .btn .btn--success target="_blank"}  
+[Check Price](https://www.amazon.ca/Stylish-Chronograph-Military-Stainless-Combined/dp/B07L9CHPWF/ref=sr_1_4?qid=1558135168&refinements=p_4%3AGUANKE%2Cp_72%3A11192170011&rnid=11192166011&s=watch&sr=1-4){: .btn .btn--success .btn-center target="_blank"}  
 
 ## [Tree Hut Wooden Watch](https://www.amazon.ca/Treehut-Wooden-Bamboo-Genuine-Leather/dp/B014G7GIGM/ref=sr_1_99?crid=2DMS102OTNY0A&keywords=wooden+watches+for+men&qid=1558134501&refinements=p_72%3A11192170011&rnid=11192166011&s=watch&sprefix=wooden+watches%2Cwatches%2C580&sr=1-99){: target="_blank"} 
 <img class="lazyload img-right" alt="treehut wooden watch" data-src="/img/watches/wooden/treehut.jpg" />
@@ -292,7 +292,7 @@ This is a perfect watch for both casual and active use. As its genuine leather u
 
 Features include Japanese Miyota quartz watch movement to ensure that time keeping is accurate and precise. Japanese Miyota quartz movement is established as the leading manufacturer for quartz movement within watches. They ensure high quality performance.
 
-[Check Price](https://www.amazon.ca/Treehut-Wooden-Bamboo-Genuine-Leather/dp/B014G7GIGM/ref=sr_1_99?crid=2DMS102OTNY0A&keywords=wooden+watches+for+men&qid=1558134501&refinements=p_72%3A11192170011&rnid=11192166011&s=watch&sprefix=wooden+watches%2Cwatches%2C580&sr=1-99){: .btn .btn--success target="_blank"}  
+[Check Price](https://www.amazon.ca/Treehut-Wooden-Bamboo-Genuine-Leather/dp/B014G7GIGM/ref=sr_1_99?crid=2DMS102OTNY0A&keywords=wooden+watches+for+men&qid=1558134501&refinements=p_72%3A11192170011&rnid=11192166011&s=watch&sprefix=wooden+watches%2Cwatches%2C580&sr=1-99){: .btn .btn--success .btn-center target="_blank"}  
 
 ## Choosing The Best Wooden Watch for You
 
