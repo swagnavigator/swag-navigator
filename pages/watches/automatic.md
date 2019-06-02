@@ -16,19 +16,19 @@ As a beautiful accessory, an automatic watch is a perfect addition for regular d
 <th>More</th>
 </tr>
 <tr>
-<td><a target="_blank" href="#"><img class="table-image lazyload" alt="best automatic watch" src="/SwagNav-AutomaticWatches/Frederique.jpg" /></a></td>
+<td><a target="_blank" href="#"><img class="table-image lazyload" alt="best automatic watch" src="/img/watches/automatic/Frederique.jpg" /></a></td>
 <td><a target="_blank" href="#">Frederique Constant Genève</a></td>
 <td>5/5</td>
 <td><a class="btn btn--info" href="#frederique-constant-genève">View</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="#"><img class="table-image lazyload" alt="fancy automatic watch" src="/SwagNav-AutomaticWatches/Xezo.jpg" /></a></td>
+<td><a target="_blank" href="#"><img class="table-image lazyload" alt="fancy automatic watch" src="/img/watches/automatic/Xezo.jpg" /></a></td>
 <td><a target="_blank" href="#">Xezo Incognito</a></td>
 <td>4.5/5</td>
 <td><a class="btn btn--info" href="#xezo-incognito">View</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://amzn.to/2JXX3i4"><img class="table-image lazyload" alt="awesome automatic watch" src="/SwagNav-AutomaticWatches/Laco.jpg" /></a></td>
+<td><a target="_blank" href="https://amzn.to/2JXX3i4"><img class="table-image lazyload" alt="awesome automatic watch" src="/img/watches/automatic/Laco.jpg" /></a></td>
 <td><a target="_blank" href="https://amzn.to/2JXX3i4">Laco 861688</a></td>
 <td>5/5</td>
 <td><a class="btn btn--info" href="#laco-861688">View</a></td>
@@ -37,7 +37,7 @@ As a beautiful accessory, an automatic watch is a perfect addition for regular d
 
 ## [1. 	Frederique Constant Genève Classic Automatic Watch](https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241)
 
-![Frederique Constant Watch](/SwagNav-AutomaticWatches/Frederique.jpg)
+![Frederique Constant Watch](/img/watches/automatic/Frederique.jpg)
 
 Gorgeous Stainless-Steel Automatic Analog Watch with Black Leather
 
@@ -59,7 +59,7 @@ Regardless of the collection, be it formal or casual, the Frederique constant’
 
 ## [2. Xezo’s Incognito 2024B](https://www.amazon.ca/Xezo-Incognito-Resistant-Automatic-Movement/dp/B00Z8DX4NY/ref=sr_1_244?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-244)
 
-![Xezo Incognito Watch](/SwagNav-AutomaticWatches/Xezo.jpg)
+![Xezo Incognito Watch](/img/watches/automatic/Xezo.jpg)
 
 Luxury Self-Winding Watch with Miyota Automatic Movement
 
@@ -79,7 +79,7 @@ Additional features include water resistance up to 100 meters, shock resistance,
 
 ## [3. Laco 861688 Automatic Watch](https://www.amazon.ca/Laco-1925-861688-Stainless-Automatic/dp/B009LDPQPQ/ref=sr_1_247?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-247)
 
-![Laco Watch](/SwagNav-AutomaticWatches/Laco.jpg)
+![Laco Watch](/img/watches/automatic/Laco.jpg)
 
 1925 Laco Men's classic Stainless-Steel Automatic Watch
 
@@ -101,7 +101,7 @@ Altogether this watch is beautifully constructed and is an impeccable accessory 
 
 ## [4. A.B. Art’s OA104 Automatic Men’s Watch](https://www.amazon.ca/b-art-OA104-Stainless-Automatic/dp/B00AKPISUO/ref=sr_1_292?keywords=automatic+watches&qid=1559108208&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-292)
 
-![A.B. Art Watch](/SwagNav-AutomaticWatches/AB-Art.jpg)
+![A.B. Art Watch](/img/watches/automatic/AB-Art.jpg)
 
 Swiss Automatic Watch with Black Dial and Leather Strap
 
@@ -121,7 +121,7 @@ Previous customers describe it as a ‘Outstanding Item’ and a ‘beautiful wa
 
 ## [5. Feice’s FM121WSB1 Automatic Mechanical Watch](https://www.amazon.ca/FEICE-Automatic-Mechanical-Waterproof-Calendar/dp/B07FXJCKDL/ref=sr_1_267_sspa?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-267-spons&psc=1)
 
-![Feice Watch](/SwagNav-AutomaticWatches/Feice.jpg)
+![Feice Watch](/img/watches/automatic/Feice.jpg)
 
 Classic Bauhaus Style Automatic Wrist Watch for Men
 
@@ -139,7 +139,7 @@ The many features of this model include a 3ATM water resistance, automatic mecha
 
 ## [6. Seiko SRPB97 Automatic Wrist Watch](https://www.amazon.ca/Seiko-SRPB97-Japanese-Automatic-Stainless/dp/B074W98WF3/ref=sr_1_16?keywords=automatic+watches&qid=1559108307&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-16)
 
-![Seiko Watch](/SwagNav-AutomaticWatches/Seiko.jpg)
+![Seiko Watch](/img/watches/automatic/Seiko.jpg)
 
 Prospex Japanese Automatic Stainless-Steel Divers Athletic Wrist Watch
 
@@ -157,7 +157,7 @@ Regardless of where your adventure takes you, this Seiko Prospex watch will be t
 
 ## [7. Bulova’s 97A136 automatic watch](https://www.amazon.ca/Bulova-97A136-Automatic-Mens-Watch/dp/B0722KQ3W5/ref=sr_1_54?keywords=automatic+watches&qid=1559108307&refinements=p_72%3A11192170011&rnid=11192166011&=gateway&sr=8-54)
 
-![Bulova Watch](/SwagNav-AutomaticWatches/Bulova.jpeg)
+![Bulova Watch](/img/watches/automatic/Bulova.jpeg)
 
 Timeless Dark Brown Leather Automatic Wrist Watch
 
@@ -173,7 +173,7 @@ Additional features include automatic self-wind movement, mineral crystal materi
 
 ## [8. Tissot’s Everytime Swissmatic watch](https://www.amazon.ca/Tissot-Everytime-Swissmatic-Automatic-T109-407-16-031-00/dp/B07DDHLYZ8/ref=sr_1_293?keywords=automatic+watches&qid=1559108208&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-293)
 
-![Tissot Watch](/SwagNav-AutomaticWatches/Tissot.jpg)
+![Tissot Watch](/img/watches/automatic/Tissot.jpg)
 
 Gorgeous Stainless-Steel Automatic Watch with A Skeleton Back
 
@@ -190,7 +190,7 @@ Other functions include splash resistance, scratch resistant sapphire crystal wi
 
 ## [9. Vostok Europe’s amphibian 420270](https://www.amazon.ca/Vostok-Amphibian-420270-Military-Automatic/dp/B010IY41MU/ref=sr_1_13?keywords=automatic+watches&qid=1559108307&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-13)
 
-![Vostok Watch](/SwagNav-AutomaticWatches/Vostok.jpg)
+![Vostok Watch](/img/watches/automatic/Vostok.jpg)
 
 Vostok Amphibian New Russian Military Divers Automatic Men’s Watch
 
@@ -206,7 +206,7 @@ Stylistically speaking, this is an athletic watch with the subtle style of a cas
 
 ## [10. Orient 'Mako II' self-winding watch](https://www.amazon.ca/Orient-Japanese-Automatic-Stainless-Diving/dp/B01AK5TQRM/ref=sr_1_41?keywords=automatic+watches&qid=1559193981&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-41)
 
-![Orient Watch](/SwagNav-AutomaticWatches/Orient.jpg)
+![Orient Watch](/img/watches/automatic/Orient.jpg)
 
 Japanese Automatic Stainless-Steel Diving Watch
 
