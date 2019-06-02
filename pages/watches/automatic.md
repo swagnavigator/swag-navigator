@@ -1,4 +1,10 @@
-# Amazing 2019 Automatic Watches for Men: Your Time at Your Fingertips (Self-Wind Watches, Men’s Watches, 2019 Fashion)
+---
+layout: posts
+title: "Amazing 2019 Automatic Watches for Men: Your Time at Your Fingertips (Self-Wind Watches, Men’s Watches, 2019 Fashion)" 
+permalink: /watches/automatic/
+author: Tochi Duhu
+toc: true
+---
 
 Automatic Watches, also known as self-winding watches are a convenient twist on a timeless standard.
 
