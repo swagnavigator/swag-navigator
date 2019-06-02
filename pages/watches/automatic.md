@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Amazing 2019 Automatic Watches for Men: Your Time at Your Fingertips (Self-Wind Watches, Men’s Watches, 2019 Fashion)" 
+title: "The Best Automatic Watches of 2019 (Stylish)" 
 permalink: /watches/automatic/
 author: Tochi Duhu
 toc: true
