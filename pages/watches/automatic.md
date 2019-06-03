@@ -254,7 +254,7 @@ Watches are much more than a statement piece – it’s the statement that your 
 
 Mayer continues:
 
-<blockquote><p>“It was not about whether I wear each and every one on stage, but it has an intention to it. It’s made to support an endeavor.”</p><blockquote>
+<blockquote><p>“It was not about whether I wear each and every one on stage, but it has an intention to it. It’s made to support an endeavor.”</p></blockquote>
 
 Throughout history, mechanical watches were used before electricity, before batteries, before solar power. Although personal clockwork has been used for centuries, the watch industry still has a strong audience with several brands continuing to have a loyal following. 
 
