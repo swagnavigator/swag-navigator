@@ -22,22 +22,22 @@ They're a wonderful accessory in any man's wardrobe – with that being said, he
 <th>More</th>
 </tr>
 <tr>
-<td><a target="_blank" href="#"><img class="table-image lazyload" alt="best automatic watch" src="/img/watches/automatic/Frederique.jpg" /></a></td>
-<td><a target="_blank" href="#">Frederique Constant Genève</a></td>
+<td><a target="_blank" href="https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241"><img class="table-image lazyload" alt="best automatic watch" src="/img/watches/automatic/Frederique.jpg" /></a></td>
+<td><a target="_blank" href="https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241">Frederique Constant Genève</a></td>
 <td>5/5</td>
-<td><a class="btn btn--info" href="#frederique-constant-genève">View</a></td>
+<td><a class="btn btn--info" href="#1--frederique-constant-genève-classic-automatic-watch">View</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="#"><img class="table-image lazyload" alt="fancy automatic watch" src="/img/watches/automatic/Xezo.jpg" /></a></td>
-<td><a target="_blank" href="#">Xezo Incognito</a></td>
+<td><a target="_blank" href="https://www.amazon.ca/Xezo-Incognito-Resistant-Automatic-Movement/dp/B00Z8DX4NY/ref=sr_1_244?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-244"><img class="table-image lazyload" alt="fancy automatic watch" src="/img/watches/automatic/Xezo.jpg" /></a></td>
+<td><a target="_blank" href="https://www.amazon.ca/Xezo-Incognito-Resistant-Automatic-Movement/dp/B00Z8DX4NY/ref=sr_1_244?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-244">Xezo Incognito</a></td>
 <td>4.5/5</td>
-<td><a class="btn btn--info" href="#xezo-incognito">View</a></td>
+<td><a class="btn btn--info" href="#2-xezos-incognito-2024b">View</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://amzn.to/2JXX3i4"><img class="table-image lazyload" alt="awesome automatic watch" src="/img/watches/automatic/Laco.jpg" /></a></td>
-<td><a target="_blank" href="https://amzn.to/2JXX3i4">Laco 861688</a></td>
+<td><a target="_blank" href="https://www.amazon.ca/Laco-1925-861688-Stainless-Automatic/dp/B009LDPQPQ/ref=sr_1_247?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-247"><img class="table-image lazyload" alt="awesome automatic watch" src="/img/watches/automatic/Laco.jpg" /></a></td>
+<td><a target="_blank" href="https://www.amazon.ca/Laco-1925-861688-Stainless-Automatic/dp/B009LDPQPQ/ref=sr_1_247?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-247">Laco 861688</a></td>
 <td>5/5</td>
-<td><a class="btn btn--info" href="#laco-861688">View</a></td>
+<td><a class="btn btn--info" href="#3-laco-861688-automatic-watch">View</a></td>
 </tr>
 </table>
 
