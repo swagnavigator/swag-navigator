@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Best Mechanical Watches for Men: More Than Just Nostalgia In 2019 (Mechanical Watches, Men’s Watches, 2019 Elegance)" 
+title: "The Best Mechanical Watches for Men (2019)" 
 permalink: /watches/mechanical/
 author: Tochi Duhu
 toc: true
@@ -11,6 +11,8 @@ Mechanical watches immediately stand out from your average modern watch as the o
 Watches are simply aesthetic tools with a specific purpose, in the most modest terms. Mechanical watches are arguably the most time-honoured type of watches as gears power them instead of electricity. 
 
 Regardless of the historical nostalgia, these mechanical watches have kept up with the times ensuring their innovation and relevance.
+
+[Check Price](){: target="_blank" .btn .btn--success}
 
 ## Zoom in: 3 Best Mechanical Watches
 
@@ -41,9 +43,11 @@ Regardless of the historical nostalgia, these mechanical watches have kept up wi
 </tr>
 </table>
 
+[Check Price](){: target="_blank" .btn .btn--success}
+
 ## [1. Victorinox’s Model 241602](https://www.amazon.ca/Victorinox-241602-Maverick-Stainless-Bracelet/dp/B00D3LT1KI)
 
-![Victorinox Watch](/img/watches/mechanical/victorinox.jpg)
+![Victorinox Watch](/img/watches/mechanical/victorinox.jpg){: .img-right}
 
 This is a gorgeous watch with a simple yet elegant style. The dark blue dial and bright silver indexes, hands and numbers contrast one another allowing the watch to stand out. 
 
@@ -55,9 +59,11 @@ What this means for this analog watch from Victorinox, is a hardy and durable wa
 
 Features include a screw down crown, swiss quartz movement, a calendar date, and water resistance up to 100 m.
 
+[Check Price](https://www.amazon.ca/Victorinox-241602-Maverick-Stainless-Bracelet/dp/B00D3LT1KI){: target="_blank" .btn .btn--success}
+
 ## [2. Reef Tier’s Model Rga1903-Ybb](https://www.amazon.com/Tiger-Bracelet-Multifunction-mechanical-Mechanical/dp/B07MH1T6M2)
 
-![Reef Tier Watch](/img/watches/mechanical/reef.jpg)
+![Reef Tier Watch](/img/watches/mechanical/reef.jpg){: .img-right}
 
 Unique — that’s a perfect word to describe this watch. The style of the watch is rather distinct compared to other watches. This distinction comes from the design of the dial itself which is how most watches distinguish themselves. 
 
@@ -69,9 +75,11 @@ Reef Tiger has more watches within this model type that you can choose from incl
 
 You can mix and match these leading to choose from 4 distinct watch styles. A customer reviews this watch, raving about the craftsmanship claiming, “the workmanship is excellent.”
 
+[Check Price](https://www.amazon.com/Tiger-Bracelet-Multifunction-mechanical-Mechanical/dp/B07MH1T6M2){: target="_blank" .btn .btn--success}
+
 ## [3. Sugess’s Model 73706788503171](https://www.amazon.com/Seagull-Tourbillon-HandWind-Mechanical-Business/dp/B07LBPLRV7)
 
-![Sugess Watch](/img/watches/mechanical/sugess.jpg)
+![Sugess Watch](/img/watches/mechanical/sugess.jpg){: .img-right}
 
 This Sugess model is hand wound with mechanical movements powered by the mainspring and the resulting tension caused by winding. Mechanical hand wound styling is a wonderfully nostalgic movement within the watch community. 
 
@@ -85,9 +93,11 @@ With a sleek black leather band, this analog watch provides a gorgeous and comfo
 
 Features include 30-meter water resistance, tourbillon see through sub dial and leather band. Altogether, this watch is perfect for the casual wearer wanting to keep within the nostalgic sensibilities of a mechanical watch.
 
+[Check Price](https://www.amazon.com/Seagull-Tourbillon-HandWind-Mechanical-Business/dp/B07LBPLRV7){: target="_blank" .btn .btn--success}
+
 ## [4. Akribos Xxiv Model Ak525ss](https://www.amazon.com/Akribos-XXIV-AK525SS-Stainless-Mechanical/dp/B00AJD51AM)
 
-![Akribos Watch](/img/watches/mechanical/akribos.jpg) 
+![Akribos Watch](/img/watches/mechanical/akribos.jpg){: .img-right} 
 
 This Akribos xxiv watch hides nothing as its dial is completely see through. The design itself is called skeleton as it’s a way to see the bones of the mechanisms within the watch. Through the window, you can see everything and it’s breathtaking. 
 
@@ -97,9 +107,11 @@ The dial window is created with synthetic sapphire, which is a hardy and expensi
 
 Features include stationary bezel function, mechanical hand wound power, water resistance up to 99 feet, and a manufacturers warranty. This 43 mm analog watch is perfect for those that appreciate the inner workings of a watch and can appreciate it at a mere glance.
 
+[Check Price](https://www.amazon.com/Akribos-XXIV-AK525SS-Stainless-Mechanical/dp/B00AJD51AM){: target="_blank" .btn .btn--success}
+
 ## [5. Invicta’s model 17273](https://www.amazon.com/Invicta-17273-Russian-Display-Mechanical/dp/B00KZ5WWBA)
 
-![Invicta Watch](/img/watches/mechanical/invicta.jpg)
+![Invicta Watch](/img/watches/mechanical/invicta.jpg){: .img-right}
 
 With precise 17 jewels Chinese mechanical movement, this watch provides a combination of innovation and tradition. Mechanical watches are more than just nostalgic, in the case of this Invicta watch it’s also breathtaking. 
 
@@ -113,9 +125,11 @@ Additionally, it ensures quiet operations as polyurethane absorbs noise that met
 
 Features include stationary bezel function, mechanical hand wound, and water resistance up to 165 feet. The water resistance is what allows this watch to stand out as a Russian diver watch capable of going deeper than your average mechanical watch.
 
+[Check Price](https://www.amazon.com/Invicta-17273-Russian-Display-Mechanical/dp/B00KZ5WWBA){: target="_blank" .btn .btn--success}
+
 ## [6. Hamilton Model H69429931](https://www.amazon.com/Hamilton-Khaki-Mechanical-H69429931-diameter/dp/B079HPXWY3)
 
-![Hamilton Watch](/img/watches/mechanical/hamilton.jpg)
+![Hamilton Watch](/img/watches/mechanical/hamilton.jpg){: .img-right}
 
 This is a rather rustic yet elegant mechanical watch. A green nato band is different to the typical neutral colored leather bands of other watches but provides a casual watch that stands out.
 
@@ -127,9 +141,11 @@ All mechanical watches are slightly different from one another in terms of craft
 
 This Hamilton watch has a power reserve of 42 hours, meaning that you don’t need to wind it as regularly as you would need to other ones., winding it daily would become a habit to ensure optimal operation. The 42-hour reserve provides the peace of mind to not need daily windings.
 
+[Check Price](https://www.amazon.com/Hamilton-Khaki-Mechanical-H69429931-diameter/dp/B079HPXWY3){: target="_blank" .btn .btn--success}
+
 ## [7. Tempus Model 4331820044](https://www.amazon.com/TEMPUS-Classico-Sandalwood-Wooden-Wristwatch/dp/B01JTHPNXI)
 
-![Tempus Watch](/img/watches/mechanical/tempus.jpg)
+![Tempus Watch](/img/watches/mechanical/tempus.jpg){: .img-right}
 
 What adds to the beauty of this watch is the gold, allowing the wearer to see both the wooden case and band as well as the metallics that mirror the inner workings of the watch. 
 
@@ -141,9 +157,11 @@ Beyond the complementing beauty, this watch has an amazing amount of functionali
 
 Combining wood and metal is an enchanting way to innovate a new style of watch while keeping the nostalgia and simplicity of times before. Although it may seem like a contrast, Tempus has created a breathtaking mechanical wooden watch where the two materials complement one another stunningly.
 
+[Check Price](https://www.amazon.com/TEMPUS-Classico-Sandalwood-Wooden-Wristwatch/dp/B01JTHPNXI){: target="_blank" .btn .btn--success}
+
 ## [8. Charles Hubert Paris’ Model 3931](https://www.amazon.ca/Charles-Hubert-Paris-3931-Collection-Mechanical/dp/B0085VN8M8)
 
-![Charles Hubert Watch](/img/watches/mechanical/charles.jpg)
+![Charles Hubert Watch](/img/watches/mechanical/charles.jpg){: .img-right}
 
 In terms of style, this watch is like that of the Akribos Xxiv. However, this Charles Hubert watch differs as it provides an elegant watch that’s more geared toward a formal watch. 
 
@@ -157,9 +175,11 @@ Along the side of the case, are silver roman numerals contrasting against the bl
 
 Other features include 30-meter water resistance, mechanical hand wound movement, and an analog display.
 
+[Check Price](https://www.amazon.ca/Charles-Hubert-Paris-3931-Collection-Mechanical/dp/B0085VN8M8){: target="_blank" .btn .btn--success}
+
 ## [9. Fossil Model Me1138](https://www.amazon.com/Fossil-Mechanical-Stainless-Leather-Casual/dp/B00E62HRP4)
 
-![Fossil Watch](/img/watches/mechanical/fossil.jpg)
+![Fossil Watch](/img/watches/mechanical/fossil.jpg){: .img-right}
 
 Mimicking a star lite sky at midnight, this watch is breathtakingly handsome. With a gold case, dials, and hands contrasting and complementing the navy leather band and dial background, fossil has created a work of art. 
 
@@ -170,6 +190,8 @@ Functionality is not compromised because of this craftsmanship. With a water res
 Of course, mechanical hand wound movement is the highlighted feature. This hand wound watch continues the craftsmanship of watchmakers that has continued for centuries past and future.
 
 Ideal for any watch collector requiring a formal watch to be the center of attention for his wardrobe. The watch is unlike most formal watches in the term of its style inspired by the very thing that allows it to operate; mechanical.
+
+[Check Price](https://www.amazon.com/Fossil-Mechanical-Stainless-Leather-Casual/dp/B00E62HRP4){: target="_blank" .btn .btn--success}
 
 ## Buyer's Guide
 
