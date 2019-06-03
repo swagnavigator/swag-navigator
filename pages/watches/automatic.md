@@ -43,7 +43,7 @@ As a beautiful accessory, an automatic watch is a perfect addition for regular d
 
 ## [1. 	Frederique Constant Genève Classic Automatic Watch](https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241)
 
-![Frederique Constant Watch](/img/watches/automatic/Frederique.jpg)
+![Frederique Constant Watch](/img/watches/automatic/Frederique.jpg){: .img-right}
 
 Gorgeous Stainless-Steel Automatic Analog Watch with Black Leather
 
@@ -63,9 +63,11 @@ It’s features include 60 meters (196 feet) water resistance, transparent case 
  
 Regardless of the collection, be it formal or casual, the Frederique constant’s Genève Classic watch is a gorgeous addition.
 
+[Check Price](https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241){: .btn .btn--success .btn-center target="_blank"} 
+
 ## [2. Xezo’s Incognito 2024B](https://www.amazon.ca/Xezo-Incognito-Resistant-Automatic-Movement/dp/B00Z8DX4NY/ref=sr_1_244?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-244)
 
-![Xezo Incognito Watch](/img/watches/automatic/Xezo.jpg)
+![Xezo Incognito Watch](/img/watches/automatic/Xezo.jpg){: .img-right}
 
 Luxury Self-Winding Watch with Miyota Automatic Movement
 
@@ -83,9 +85,11 @@ Within the inside of the dial is an anti-reflecting coating, paired with a scrat
 
 Additional features include water resistance up to 100 meters, shock resistance, adjustable band, automatic self-winding movements. Swiss luminova material is applied to the hands, indexes and numerals for luminescence within the darker parts of your day.
 
+[Check Price](https://www.amazon.ca/Xezo-Incognito-Resistant-Automatic-Movement/dp/B00Z8DX4NY/ref=sr_1_244?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-244){: .btn .btn--success .btn-center target="_blank"} 
+
 ## [3. Laco 861688 Automatic Watch](https://www.amazon.ca/Laco-1925-861688-Stainless-Automatic/dp/B009LDPQPQ/ref=sr_1_247?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-247)
 
-![Laco Watch](/img/watches/automatic/Laco.jpg)
+![Laco Watch](/img/watches/automatic/Laco.jpg){: .img-right}
 
 1925 Laco Men's classic Stainless-Steel Automatic Watch
 
@@ -105,9 +109,11 @@ A 50-meter water resistance allows this watch to be submerged for brief periods 
 
 Altogether this watch is beautifully constructed and is an impeccable accessory for casual day to day wear. This is the perfect accessory for the man that wants to wear a watch regularly without worrying about excessive formality, high fashion, or about the need to regularly wind the watch.
 
+[Check Price](https://www.amazon.ca/Laco-1925-861688-Stainless-Automatic/dp/B009LDPQPQ/ref=sr_1_247?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-247){: .btn .btn--success .btn-center target="_blank"} 
+
 ## [4. A.B. Art’s OA104 Automatic Men’s Watch](https://www.amazon.ca/b-art-OA104-Stainless-Automatic/dp/B00AKPISUO/ref=sr_1_292?keywords=automatic+watches&qid=1559108208&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-292)
 
-![A.B. Art Watch](/img/watches/automatic/AB-Art.jpg)
+![A.B. Art Watch](/img/watches/automatic/AB-Art.jpg){: .img-right}
 
 Swiss Automatic Watch with Black Dial and Leather Strap
 
@@ -125,11 +131,11 @@ This automatic movement watch may be minimal within its design but not in its fu
 
 Previous customers describe it as a ‘Outstanding Item’ and a ‘beautiful watch with a very reliable ETA movement’. Combining functionality with sophistication in a subtle package is exactly what this model offer.
 
+[Check Price](https://www.amazon.ca/b-art-OA104-Stainless-Automatic/dp/B00AKPISUO/ref=sr_1_292?keywords=automatic+watches&qid=1559108208&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-292){: .btn .btn--success .btn-center target="_blank"} 
+
 ## [5. Feice’s FM121WSB1 Automatic Mechanical Watch](https://www.amazon.ca/FEICE-Automatic-Mechanical-Waterproof-Calendar/dp/B07FXJCKDL/ref=sr_1_267_sspa?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-267-spons&psc=1)
 
-![Feice Watch](/img/watches/automatic/Feice.jpg)
-
-Classic Bauhaus Style Automatic Wrist Watch for Men
+![Feice Watch](/img/watches/automatic/Feice.jpg){: .img-right}
 
 Feice is a company based out of China providing an ever exploring and improving company determined to become the leaders of Chinese watches. Feice watches stand out among the rest with their distinct properties and superior quality.
 
@@ -143,11 +149,11 @@ It’s 42 mm dial has a domed mirror with a double coating process assisting in 
 
 The many features of this model include a 3ATM water resistance, automatic mechanical movement, as well as a power reserve up to 30 hours. This watch is perfect for those that want functionality in a subtle design.
 
+[Check Price](https://www.amazon.ca/FEICE-Automatic-Mechanical-Waterproof-Calendar/dp/B07FXJCKDL/ref=sr_1_267_sspa?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-267-spons&psc=1){: .btn .btn--success .btn-center target="_blank"} 
+
 ## [6. Seiko SRPB97 Automatic Wrist Watch](https://www.amazon.ca/Seiko-SRPB97-Japanese-Automatic-Stainless/dp/B074W98WF3/ref=sr_1_16?keywords=automatic+watches&qid=1559108307&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-16)
 
-![Seiko Watch](/img/watches/automatic/Seiko.jpg)
-
-Prospex Japanese Automatic Stainless-Steel Divers Athletic Wrist Watch
+![Seiko Watch](/img/watches/automatic/Seiko.jpg){: .img-right}
 
 Seiko prides itself on creating watches for all occasions using their different lines. From formal watches to casual watches to athletic watches, this brand provides a huge range even within those categories. 
 
@@ -161,11 +167,11 @@ This athletic watch boasts functionality with the bright aesthetic of an athleti
 
 Regardless of where your adventure takes you, this Seiko Prospex watch will be there for you.
 
+[Check Price](https://www.amazon.ca/Seiko-SRPB97-Japanese-Automatic-Stainless/dp/B074W98WF3/ref=sr_1_16?keywords=automatic+watches&qid=1559108307&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-16){: .btn .btn--success .btn-center target="_blank"} 
+
 ## [7. Bulova’s 97A136 automatic watch](https://www.amazon.ca/Bulova-97A136-Automatic-Mens-Watch/dp/B0722KQ3W5/ref=sr_1_54?keywords=automatic+watches&qid=1559108307&refinements=p_72%3A11192170011&rnid=11192166011&=gateway&sr=8-54)
 
-![Bulova Watch](/img/watches/automatic/Bulova.jpeg)
-
-Timeless Dark Brown Leather Automatic Wrist Watch
+![Bulova Watch](/img/watches/automatic/Bulova.jpeg){: .img-right}
 
 Starting in 1875, Joseph Bulova built his brand on his steadfast ambition for perfection in all its forms. Efficiency precision, and quality craftsmanship create the foundation of Bulova. Over the decades, this company has pursued innovation and technology at every turn.
 
@@ -177,11 +183,11 @@ This magnificent watch stands out in more way than one as it’s functional as w
 
 Additional features include automatic self-wind movement, mineral crystal material, and Push button clasp. Combining traditional craftsmanship with innovative new technology, the company that Joseph Bulova started has stood the test of time, as have their automatic watches.
 
+[Check Price](https://www.amazon.ca/Bulova-97A136-Automatic-Mens-Watch/dp/B0722KQ3W5/ref=sr_1_54?keywords=automatic+watches&qid=1559108307&refinements=p_72%3A11192170011&rnid=11192166011&=gateway&sr=8-54){: .btn .btn--success .btn-center target="_blank"} 
+
 ## [8. Tissot’s Everytime Swissmatic watch](https://www.amazon.ca/Tissot-Everytime-Swissmatic-Automatic-T109-407-16-031-00/dp/B07DDHLYZ8/ref=sr_1_293?keywords=automatic+watches&qid=1559108208&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-293)
 
-![Tissot Watch](/img/watches/automatic/Tissot.jpg)
-
-Gorgeous Stainless-Steel Automatic Watch with A Skeleton Back
+![Tissot Watch](/img/watches/automatic/Tissot.jpg){: .img-right}
 
 Tissot strives for excellence in each one of its watches. Since 1853, Tissot has been creating watches with an elevated degree of excellence and refinement.
 With such a subtle design, this watch is a perfect accessory for any casual or business casual attire. 
@@ -194,11 +200,11 @@ With a round 316L stainless steel case, this watch includes a sub dial at the 3 
 
 Other functions include splash resistance, scratch resistant sapphire crystal window and a tang clasp. Using a rotor and your kinetic movement, this automatic watch powers itself while you wear it, allowing it to run throughout your day.
 
+[Check Price](https://www.amazon.ca/Tissot-Everytime-Swissmatic-Automatic-T109-407-16-031-00/dp/B07DDHLYZ8/ref=sr_1_293?keywords=automatic+watches&qid=1559108208&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-293){: .btn .btn--success .btn-center target="_blank"} 
+
 ## [9. Vostok Europe’s amphibian 420270](https://www.amazon.ca/Vostok-Amphibian-420270-Military-Automatic/dp/B010IY41MU/ref=sr_1_13?keywords=automatic+watches&qid=1559108307&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-13)
 
-![Vostok Watch](/img/watches/automatic/Vostok.jpg)
-
-Vostok Amphibian New Russian Military Divers Automatic Men’s Watch
+![Vostok Watch](/img/watches/automatic/Vostok.jpg){: .img-right}
 
 Vostok Europe is an impressive brand that’s known for going above and beyond the calling of an average watch. Their slogan is “For going to Extremes” and they mean extreme. 
 
@@ -210,11 +216,11 @@ Although it doesn’t require it, it can still be wound by hand if need be. As t
 
 Stylistically speaking, this is an athletic watch with the subtle style of a casual watch. It’s a perfect watch for those that want a functional accessory both in the water and out of it.
 
+[Check Price](https://www.amazon.ca/Vostok-Amphibian-420270-Military-Automatic/dp/B010IY41MU/ref=sr_1_13?keywords=automatic+watches&qid=1559108307&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-13){: .btn .btn--success .btn-center target="_blank"} 
+
 ## [10. Orient 'Mako II' self-winding watch](https://www.amazon.ca/Orient-Japanese-Automatic-Stainless-Diving/dp/B01AK5TQRM/ref=sr_1_41?keywords=automatic+watches&qid=1559193981&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-41)
 
-![Orient Watch](/img/watches/automatic/Orient.jpg)
-
-Japanese Automatic Stainless-Steel Diving Watch
+![Orient Watch](/img/watches/automatic/Orient.jpg){: .img-right}
 
 Orient is an excellent watch manufacturing company with a simple dream of creating attainable, high quality watches with a style that will endure for decades to come. Each of their watches have craftsmanship founded in reliability precision and beauty.
 
@@ -227,6 +233,8 @@ A dark blue fills the background of the 41.5 mm case showing off the indexes and
 This watch is innovative for more than its appearance. Up to 200 meters this watch is water-resistant allowing for Professional Marine Activity and Surface Water Sports. Additional features include Mineral crystal, 120-Click unidirectional bezel, Japanese-automatic Movement and a screw down crown. 
 
 Whether you’re swimming in the ocean or conducting a business meeting, this is the perfect tool to match your suit.
+
+[Check Price](https://www.amazon.ca/Orient-Japanese-Automatic-Stainless-Diving/dp/B01AK5TQRM/ref=sr_1_41?keywords=automatic+watches&qid=1559193981&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-41){: .btn .btn--success .btn-center target="_blank"} 
 
 ## Buyer’s Guide
 
