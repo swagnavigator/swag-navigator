@@ -45,8 +45,6 @@ As a beautiful accessory, an automatic watch is a perfect addition for regular d
 
 ![Frederique Constant Watch](/img/watches/automatic/Frederique.jpg)
 
-Gorgeous Stainless-Steel Automatic Analog Watch with Black Leather
-
 Frederique Constant creates superb watches. With attention to details and a passion for design, their craftsmanship creates striking watches. 
 
 As a brand, they are dedicated to continuing to offer innovation while keeping with the traditions that watch aficionados have grown to expect. Each watch is classical, while remaining relevant throughout the ages.
@@ -67,8 +65,6 @@ Regardless of the collection, be it formal or casual, the Frederique constant’
 
 ![Xezo Incognito Watch](/img/watches/automatic/Xezo.jpg)
 
-Luxury Self-Winding Watch with Miyota Automatic Movement
-
 Handmade quality is what Xezo delivers. And they deliver it well. 
 
 Their products, namely their watches, are a blend of beauty, function and value. Combining superior materials and craftsmanship create a line of magnificent watches that don’t compromise.
@@ -86,8 +82,6 @@ Additional features include water resistance up to 100 meters, shock resistance,
 ## [3. Laco 861688 Automatic Watch](https://www.amazon.ca/Laco-1925-861688-Stainless-Automatic/dp/B009LDPQPQ/ref=sr_1_247?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-247)
 
 ![Laco Watch](/img/watches/automatic/Laco.jpg)
-
-1925 Laco Men's classic Stainless-Steel Automatic Watch
 
 Since 1925, Laco has been creating “Timepieces with a distinct character”. As a brand, and as craftsmen, they want to stand out from the crowd for their distinct quality and appeal.
 
@@ -109,8 +103,6 @@ Altogether this watch is beautifully constructed and is an impeccable accessory 
 
 ![A.B. Art Watch](/img/watches/automatic/AB-Art.jpg)
 
-Swiss Automatic Watch with Black Dial and Leather Strap
-
 Authentic and different watches is what A.B. Art is all about. a.b. art stands for authentic basic art, which is exactly what they provide. 
 
 This Swiss watch company prides itself on being able to give their customers something beyond mere glitz or glamour. Instead, they give their customers subtle but high-quality sophistication.
@@ -129,8 +121,6 @@ Previous customers describe it as a ‘Outstanding Item’ and a ‘beautiful wa
 
 ![Feice Watch](/img/watches/automatic/Feice.jpg)
 
-Classic Bauhaus Style Automatic Wrist Watch for Men
-
 Feice is a company based out of China providing an ever exploring and improving company determined to become the leaders of Chinese watches. Feice watches stand out among the rest with their distinct properties and superior quality.
 
 All Feice’s watches are based upon the Bauhaus style which is based on popular minimalism with a focus on the function of the watch itself without the over indulgent extravagances. 
@@ -146,8 +136,6 @@ The many features of this model include a 3ATM water resistance, automatic mecha
 ## [6. Seiko SRPB97 Automatic Wrist Watch](https://www.amazon.ca/Seiko-SRPB97-Japanese-Automatic-Stainless/dp/B074W98WF3/ref=sr_1_16?keywords=automatic+watches&qid=1559108307&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-16)
 
 ![Seiko Watch](/img/watches/automatic/Seiko.jpg)
-
-Prospex Japanese Automatic Stainless-Steel Divers Athletic Wrist Watch
 
 Seiko prides itself on creating watches for all occasions using their different lines. From formal watches to casual watches to athletic watches, this brand provides a huge range even within those categories. 
 
@@ -165,8 +153,6 @@ Regardless of where your adventure takes you, this Seiko Prospex watch will be t
 
 ![Bulova Watch](/img/watches/automatic/Bulova.jpeg)
 
-Timeless Dark Brown Leather Automatic Wrist Watch
-
 Starting in 1875, Joseph Bulova built his brand on his steadfast ambition for perfection in all its forms. Efficiency precision, and quality craftsmanship create the foundation of Bulova. Over the decades, this company has pursued innovation and technology at every turn.
 
 This classical timepiece is a beautiful style for any wardrobe both fashion and casual. Within the watch face, there is a transparent section showing the intricate clockwork beneath. It’s a way to highlight the intricate craftsmanship and nostalgia of mechanical watches. 
@@ -180,8 +166,6 @@ Additional features include automatic self-wind movement, mineral crystal materi
 ## [8. Tissot’s Everytime Swissmatic watch](https://www.amazon.ca/Tissot-Everytime-Swissmatic-Automatic-T109-407-16-031-00/dp/B07DDHLYZ8/ref=sr_1_293?keywords=automatic+watches&qid=1559108208&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-293)
 
 ![Tissot Watch](/img/watches/automatic/Tissot.jpg)
-
-Gorgeous Stainless-Steel Automatic Watch with A Skeleton Back
 
 Tissot strives for excellence in each one of its watches. Since 1853, Tissot has been creating watches with an elevated degree of excellence and refinement.
 With such a subtle design, this watch is a perfect accessory for any casual or business casual attire. 
@@ -198,8 +182,6 @@ Other functions include splash resistance, scratch resistant sapphire crystal wi
 
 ![Vostok Watch](/img/watches/automatic/Vostok.jpg)
 
-Vostok Amphibian New Russian Military Divers Automatic Men’s Watch
-
 Vostok Europe is an impressive brand that’s known for going above and beyond the calling of an average watch. Their slogan is “For going to Extremes” and they mean extreme. 
 
 They have been named the official timekeeper of the Murmansk-Vladivostok race in 2005, the Greek Football Federation in 2010, and the Free-Diving World Championship in 2011. All of that proves the durability and reliability of their watches to go where the average watch simply can’t.
@@ -213,8 +195,6 @@ Stylistically speaking, this is an athletic watch with the subtle style of a cas
 ## [10. Orient 'Mako II' self-winding watch](https://www.amazon.ca/Orient-Japanese-Automatic-Stainless-Diving/dp/B01AK5TQRM/ref=sr_1_41?keywords=automatic+watches&qid=1559193981&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-41)
 
 ![Orient Watch](/img/watches/automatic/Orient.jpg)
-
-Japanese Automatic Stainless-Steel Diving Watch
 
 Orient is an excellent watch manufacturing company with a simple dream of creating attainable, high quality watches with a style that will endure for decades to come. Each of their watches have craftsmanship founded in reliability precision and beauty.
 
