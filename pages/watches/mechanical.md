@@ -12,8 +12,6 @@ Watches are simply aesthetic tools with a specific purpose, in the most modest t
 
 Regardless of the historical nostalgia, these mechanical watches have kept up with the times ensuring their innovation and relevance.
 
-[Check Price](){: target="_blank" .btn .btn--success}
-
 ## Zoom in: 3 Best Mechanical Watches
 
 <table>
@@ -24,26 +22,24 @@ Regardless of the historical nostalgia, these mechanical watches have kept up wi
 <th>More</th>
 </tr>
 <tr>
-<td><a target="_blank" href="#"><img class="table-image lazyload" alt="best mechanical watch" src="/img/watches/mechanical/victorinox.jpg" /></a></td>
-<td><a target="_blank" href="#">Victorinox 241602</a></td>
+<td><a target="_blank" href="https://www.amazon.ca/Victorinox-241602-Maverick-Stainless-Bracelet/dp/B00D3LT1KI"><img class="table-image lazyload" alt="best mechanical watch" src="/img/watches/mechanical/victorinox.jpg" /></a></td>
+<td><a target="_blank" href="https://www.amazon.ca/Victorinox-241602-Maverick-Stainless-Bracelet/dp/B00D3LT1KI">Victorinox 241602</a></td>
 <td>4.5/5</td>
-<td><a class="btn btn--info" href="#victorinox-241602">View</a></td>
+<td><a class="btn btn--info" href="#1-victorinoxs-model-241602">View</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="#"><img class="table-image lazyload" alt="fancy mechanical watch" src="/img/watches/mechanical/invicta.jpg" /></a></td>
-<td><a target="_blank" href="#">Invicta 17273</a></td>
+<td><a target="_blank" href="https://www.amazon.com/Tiger-Bracelet-Multifunction-mechanical-Mechanical/dp/B07MH1T6M2"><img class="table-image lazyload" alt="fancy mechanical watch" src="/img/watches/mechanical/invicta.jpg" /></a></td>
+<td><a target="_blank" href="https://www.amazon.com/Tiger-Bracelet-Multifunction-mechanical-Mechanical/dp/B07MH1T6M2">Invicta 17273</a></td>
 <td>5/5</td>
-<td><a class="btn btn--info" href="#invicta-17273">View</a></td>
+<td><a class="btn btn--info" href="#2-reef-tiers-model-rga1903-ybb">View</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://amzn.to/2JXX3i4"><img class="table-image lazyload" alt="awesome mechanical watch" src="/img/watches/mechanical/hamilton.jpg" /></a></td>
-<td><a target="_blank" href="https://amzn.to/2JXX3i4">Hamilton H69429931</a></td>
+<td><a target="_blank" href="https://www.amazon.com/Seagull-Tourbillon-HandWind-Mechanical-Business/dp/B07LBPLRV7"><img class="table-image lazyload" alt="awesome mechanical watch" src="/img/watches/mechanical/hamilton.jpg" /></a></td>
+<td><a target="_blank" href="https://www.amazon.com/Seagull-Tourbillon-HandWind-Mechanical-Business/dp/B07LBPLRV7">Hamilton H69429931</a></td>
 <td>5/5</td>
-<td><a class="btn btn--info" href="#hamilton-h6942993">View</a></td>
+<td><a class="btn btn--info" href="#3-sugesss-model-73706788503171">View</a></td>
 </tr>
 </table>
-
-[Check Price](){: target="_blank" .btn .btn--success}
 
 ## [1. Victorinox’s Model 241602](https://www.amazon.ca/Victorinox-241602-Maverick-Stainless-Bracelet/dp/B00D3LT1KI)
 
@@ -195,35 +191,39 @@ Ideal for any watch collector requiring a formal watch to be the center of atten
 
 ## Buyer's Guide
 
-With the innovation in our technology sector, there have been several innovations in the of timepieces. Smart watches, google watches, apple watches, have become a prominent fixture within the market. 
+With the progression in our technology sector, there have been several innovations in the art of timepieces. Smart watches, Google watches, and Apple watches have become a prominent fixture within the market. 
 
-Even before then, cellphones (and now smart phones) took away the base need for a wristwatch. People can simply look up the time using their phones. More than that, calendars, world clocks, speedometer, and much more are right within our pockets. 
+Even before then, cellphones (and now smart phones) took away the base need for a wristwatch. People can simply look up the time using their phones. More than that, calendars, world clocks, speedometers, and much more are right within our pockets. 
 
-In recent years there’s been a debate about the benefit of mechanical watches in a time of digital watches or smart watches. 
+In recent years there’s been a debate about the benefit of mechanical watches in a time of digital watches and smart watches. 
 
-In an interview with The Verge, John Tarantino founder and CEO of the mechanical watch company, Martenero, explains the difference between the two within the same type of market.
+In an interview with The Verge, John Tarantino founder and CEO of the mechanical watch company, Martenero, explains the difference between the two within the same type of market:
 
-“I’m really curious to see the market response. Right this second, I wouldn’t say I consider it a threat,” he explains, “yes, the price points are similar, but they’re pretty different products right now, and I think [they] appeal to a different sensibility”.
+<blockquote><p>
+“I’m really curious to see the market response. Right this second, I wouldn’t say I consider it a threat,” he explains, “yes, the price points are similar, but they’re pretty different products right now, and I think [they] appeal to a different sensibility”.</p></blockquote>
 
 What’s the point of a traditional watch when there are other more advanced options available? They provide additional functions that a mechanical watch simply can’t provide. 
 
 However, there’s something that smart watches also can’t provide. Watches, and specifically mechanical watches, are now loved for more than function. There’s a style to them, a nostalgia if you will. 
 
-Many would regard watches in the same way that people regard vinyl records or French pressed coffee, or vintage cars. However, there’s a kind of sophistication to watches that can’t be replicated in terms of creative advancements. 
+Many would regard watches in the same way that people regard vinyl records, French pressed coffee, or vintage cars. However, there’s a kind of sophistication to watches that can’t be replicated in terms of creative advancements. 
 
-In an era of the apple smart watch, it’s hard to know if there is a place for mechanical watches. Tarantino thinks there is and there will be for a long time to come.
+In an era of the Apple smart watch, it’s hard to know if there is a place for mechanical watches. Tarantino thinks there is and there will be for a long time to come.
 
-“Watches are about a lot more than telling the time,” he explains, “when you wear a watch, I think a lot of people think it says something about them, and they like for people to notice their watch.”
+<blockquote><p>
+“Watches are about a lot more than telling the time,” he explains, “when you wear a watch, I think a lot of people think it says something about them, and they like for people to notice their watch.”</p></blockquote>
 
 Though the watch industry has made huge innovative strives and enhanced precision, design and engineering, the aesthetic itself hasn’t been altered. Gears, springs, screws, wheels, and pendulums make up a watch, but they aren’t the only thing to go into a watch. 
 
-There’s also delicate craftsmanship, intricate detailing, and an immense attention to details. The creation of the watch and the watch itself is vastly intricate. 
+There’s also delicate craftsmanship, intricate detailing, and an immense attention to details. The creation of the watch and the watch itself is intricate and complex. 
 
-Every watch is crafted by watchmakers with skills in precision, craftsmanship, manufacturing and detailing. Combined with the craftsmanship and the intricate internals of the watch itself, you have something that’s truly a work of art.
+Every watch is crafted by watchmakers with skill, precision, craftsmanship, manufacturing and detailing. Combined with the craftsmanship and the intricate internals of the watch itself, you have something that’s truly a work of art.
 
 Mechanical watches are a kind of nostalgic timepiece that’s been around for centuries and will continue to be around for centuries more. Before the invention of electricity or batteries or solar power or quartz movement, mechanical watches were the way to tell time. 
 
-To operate these mechanical watches, require manual winding. The mainspring is the power source within a watch. To give it the power it needs, the wearer would wind the watch using the crown, usually on the side of the case. 
+### How a Manual Watch Works
+
+Manual watches require – yep, you guessed it – manual winding. The mainspring is the power source within a watch. To give it the power it needs, the wearer would wind the watch using the crown, usually on the side of the case. 
 
 The winding of the crown winds the mainspring and in doing so loads it with potential energy. After this happens, the gears within the watch use the tension to power the watch. Incrementally this stored up energy gets released and powers the movements of the entire watch.
 
