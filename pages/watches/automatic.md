@@ -236,23 +236,37 @@ Whether you’re swimming in the ocean or conducting a business meeting, this is
 
 [Check Price](https://www.amazon.ca/Orient-Japanese-Automatic-Stainless-Diving/dp/B01AK5TQRM/ref=sr_1_41?keywords=automatic+watches&qid=1559193981&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-41){: .btn .btn--success .btn-center target="_blank"} 
 
-## Buyer’s Guide
+## Buyer's Guide: Automatic Watches
 
-Watches are an exquisite invention of gears, springs, and screws. They are intricate, to say the least. Skillfully planned and crafted by watchmakers, each watch contains intricate and interconnected components that are in fact a work of art.
+Watches are an exquisite invention of gears, springs, and screws. Intricate to say the least, watches are skillfully planned and crafted, each with a plethora of interconnected components.
 
-Although technology has enhanced the attention to detail, precision and engineering, the design itself hasn’t been altered. The series of tiny components that make up a watch hasn’t changed over the centuries making mechanical watches more than traditional but historical in their own rights.
+Although technology has enhanced the attention to detail, precision and engineering of watches, their designs haven’t been altered. Watches are timeless, and they say a lot about who you are as a man when you wear one. 
 
-In an interview with The New York Times, American singer-songwriter and watch collector and enthusiast John Mayer describes how it feels to be a part of the watch community. He describes watches almost as a form of personal art.
+In an interview with The New York Times, American singer-songwriter and watch collector and enthusiast John Mayer describes how it feels to be a part of the watch community
 
-“The first thing you notice is, ‘Whoa, this thing is heavy.’ You’ve never felt weight shift like that on your wrist. It’s heavy in weight, but it’s also heavy in the sense that all these pieces are working together. It’s what I call the ‘density of design,’” Mayer explains.
+<blockquote><p>
+“The first thing you notice is, ‘Whoa, this thing is heavy.’ You’ve never felt weight shift like that on your wrist. It’s heavy in weight, but it’s also heavy in the sense that all these pieces are working together. It’s what I call the ‘density of design,’” Mayer explains.</p>
+</blockquote>
 
-Watches are more than a simple tool to tell the time. There’s a charm to watches as a timepiece and that’s a charm that is timeless, elegant, special, and sophisticated.
+There’s something timeless about a traditional watch, something beautiful and serene. It’s more than just about telling the time. It’s about the timeless sense of style emanating from one’s wrist. 
 
-Throughout history, mechanical watches are the classic watches before electricity, before batteries, before solar power. Although personal clockwork has been used for centuries, the watch industry still has a strong audience with several brands continuing to have a loyal following. 
+Watches are much more than a statement piece – it’s the statement that your watch shares, what you want to show off to the world that words can’t explain.
 
-It doesn’t look to be slowing down anytime soon. Watches have not become obsolete as some theorized. Instead, they are continuing to be prominent in the lives and styles of many people.
+Mayer continues:
 
-Mechanical watches require manual winding to operate. Within a watch, there is a mainspring, which is the power source. Using the crown, the wearer would wind the watch to provide it with the power it needs. The winding of the crown winds the mainspring loading it with potential energy. 
+<blockquote><p>“It was not about whether I wear each and every one on stage, but it has an intention to it. It’s made to support an endeavor.”</p><blockquote>
+
+Throughout history, mechanical watches were used before electricity, before batteries, before solar power. Although personal clockwork has been used for centuries, the watch industry still has a strong audience with several brands continuing to have a loyal following. 
+
+It doesn’t look to be slowing down anytime soon. Watches have not become obsolete or replaced by phones as some have theorized. Instead, they are continuing to be a prominent component of any confident and collected man's outfit. 
+
+### Manual vs. Automatic Watches 
+
+Mechanical watches require manual winding to operate. 
+
+Within a watch, there is a mainspring, which is the power source. Using the crown, the wearer would wind the watch to provide it with the power it needs. 
+
+The winding of the crown winds the mainspring loading it with potential energy. 
 
 After being wound, the watch’s gears use the tension of the mainspring to power the watch. It incrementally releases this stored-up energy to power the movements of the entire watch including the hand. 
 
@@ -264,30 +278,36 @@ Although it is a self-winding watch, the rotor doesn’t completely eliminate th
 
 If the power reserves can get too low, the movement of the rotor will keep it running while it’s moving and maybe a bit afterwards but that’s when you run the extent of the power reserves. 
 
-The automatic watches are wound by your movement so if most of your day is spent at a desk for example, there may not be enough motion to activate the rotor. Automatic watches can become unwind with a lack of movement or wear. In that case, you would wind it as you would a typical manual watch.
+The automatic watches are wound by your movement so if most of your day is spent at a desk for example, there may not be enough motion to activate the rotor. 
 
-There are several ways to wind an automatic watch. The first and most obvious one is the typical winding done by using the crown. As you would with a manual watch, you would wind it via the crown and turning it clockwise. 
+Automatic watches can become unwound with a lack of movement or wear. In that case, you would wind it as you would a typical manual watch.
+
+### Winding an Automatic Watch 
+
+There are several ways to wind an automatic watch. 
+
+The first and most obvious one is the typical winding done by using the crown. As you would with a manual watch, you would wind it via the crown, turning it clockwise. 
 
 The second way is the highlight of the automatic watch, the rotor, which was mentioned before. This uses the kinetic energy from your wrist to wind the mainspring. 
 
-The third is for when it’s not on your wrist. For the times you aren’t wearing the watch but still want it to stay powered, there is a winder. A watch winder is a small and convenient device that copies the movements of your wrist thus winding the watch. 
+The third is for when it’s not on your wrist. For the times you aren’t wearing the watch but still want it to stay powered, there is a winder. A watch winder is a small and convenient device that copies the movements of your wrist, thus winding the watch. 
 
 This is extremely useful if you have several automatic watches within your collection. Using a watch winder would make sure that the watches you aren’t wearing continue to operate at optimal levels.
 
-Watches without a battery have a power reserve, the time it takes for it to completely unwind. This reserve averages between 36 and 42 hours. However, each watch is unique in its craftsmanship and that also means its reserve power. Both automatic and manual watches need to be wound else they stop operating. 
+Watches without a battery have a power reserve, the time it takes for it to completely unwind. This reserve averages between 36 and 42 hours. However, each watch is unique in its craftsmanship and that also means its reserve power. 
 
-A manual watch requires being wound on a regular basis to continue operating properly. Winding intervals or the time between windings will depend upon the watch itself. Many require daily winding, while some can last several days between windings. 
+Both automatic and manual watches need to be wound or else they will stop operating. 
 
-An automatic watch, on the other hand, still needs to be wound but since it’s wound by your indirect movement, the intervals are not as regular. This watch is self-winding in a way so it’s winding interval is affected by how much winding your movement allows. 
+A manual watch requires being wound on a regular basis to continue operating properly. 
+
+Winding intervals – the time between winding – will depend upon the watch itself. Many require daily winding, while some can last several days between windings. 
+
+An automatic watch, on the other hand, still needs to be wound but since it’s wound by your indirect movement, the intervals are not as regular. 
+
+This watch is self-winding in a way so it’s winding interval is affected by how much winding your movement allows. 
 
 Many watch enthusiasts simply get in the habit of winding their watches daily to ensure that their watches keep their power reserves up.
 
-Many watch wearers are worried about over winding the watch and potentially ruining their gorgeous accessory. That isn’t the case with automatic watches, mechanisms within them will disengage when the mainspring is completely wound. 
+Some atch wearers are worried about over winding the watch and potentially ruining their gorgeous accessory. 
 
-This is a watch that combines the tradition of a mechanical manual watch with the convenience of one that is indirectly self-winding.
-
-There’s something timeless about a traditional watch, something beautiful and serene. It’s more than just about telling the time. It’s about the timeless sense of style emanating from one’s wrist. 
-
-Watches are much more than a statement piece, it’s the statement that your watch shares, what you want to show off to the world that words can’t explain.
-
-Mayer continues this sentiment about the reason he wears the watches he does, “It was not about whether I wear each and every one on stage, but it has an intention to it. It’s made to support an endeavor.”
+That isn’t the case with automatic watches, as mechanisms within them will disengage when the mainspring is completely wound. 
