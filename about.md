@@ -58,7 +58,7 @@ It isn’t designed to be an “In vogue” piece of accessory. It was designed 
 
 I believe it’s safe to advocate that most Citizen Watches are perceived to be relics. Purchasing one is a great call.
 
-![Second Watch](/img/watches/about/watch-2.png){: .img-left}
+![Second Watch](/img/watches/about/watch-2.png){: .img-right}
 
 The next watch in my wardrobe is one of my favs in the citizen catalog; The Citizens men’s Eco-drive Navihawk atomic timekeeping watch.
 
