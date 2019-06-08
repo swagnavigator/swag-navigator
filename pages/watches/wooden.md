@@ -2,20 +2,18 @@
 layout: posts
 title: "10 Best Wooden Watches for Men in 2019 (Stylish)" 
 permalink: /watches/wooden/
-author: Tochi Duhu
 toc: true
 ---
+
 ![wooden watches page header image](/img/watches/wooden/header.jpg){: .img-right}
 
 A watch – in the simplest terms – is an accessory with a purpose. 
 
-In particular, wooden watches have a unique look about them. 
-
-They stand out among a sea of metallic and leather watches. 
+In particular, wooden watches have a unique look about them, standing out among a sea of metallic and leather watches. 
 
 Wooden watches contrast the rest, but they are not all the same. 
 
-In this guide, we're going to take a look at the best wood watches on the market. 
+In this guide, we're going to take a look at the best wooden watches on the market. 
 
 ## Zoom In: 3 Best Wooden Watches
 
@@ -59,7 +57,7 @@ Visible stitching within the leather strap increases the classic appeal. The dia
 
 The brown leather band is both soft and comfortable, and adding a buckle allows for easy and simple adjustments. Together it gives comfort even after long periods of wear. 
 
-<img class="lazyload img-middle" alt="bobobird l15 wooden watch center image" data-src="/img/watches/wooden/bobobird-center.jpg" />
+<img class="lazyload img-middle" alt="bobobird l15 wooden watch" data-src="/img/watches/wooden/bobobird-center.jpg" />
 
 Weighing just under 30g, this is a reasonably lightweight watch. That weight is great for those that want to wear the watch all day without discomfort. This analog watch uses quartz movement to ensure accuracy and precision. 
 
