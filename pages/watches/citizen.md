@@ -25,37 +25,37 @@ With a watch that will last you decades to come, it’s important that you not o
 	</tr>
 	<tr>
 		<td>
-			<a target="_blank" href="https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241">
+			<a target="_blank" href="tps://amzn.to/2XFnjlp">
 				<img class="table-image lazyload" alt="best citizen watch" src="/img/watches/citizen/citizen-bl.jpg" />
 			</a></td>
 		<td>
-			<a target="_blank" href="https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241">Model BL5403-03X</a></td>
+			<a target="_blank" href="tps://amzn.to/2XFnjlp">Model BL5403-03X</a></td>
 		<td>5/5</td>
 		<td><a class="btn btn--info" href="#3-citizen-model-bl5403-03x">View</a></td>
 	</tr>
 	<tr>
 		<td>
-			<a target="_blank" href="https://www.amazon.ca/Xezo-Incognito-Resistant-Automatic-Movement/dp/B00Z8DX4NY/ref=sr_1_244?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-244">
+			<a target="_blank" href="https://amzn.to/2KRcUzF">
 				<img class="table-image lazyload" alt="professional citizen watch" src="/img/watches/citizen/citizen-bm.jpg" />
 			</a></td>
 		<td>
-			<a target="_blank" href="https://www.amazon.ca/Xezo-Incognito-Resistant-Automatic-Movement/dp/B00Z8DX4NY/ref=sr_1_244?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-244">Model BM6555-54E</a></td>
+			<a target="_blank" href="https://amzn.to/2KRcUzF">Model BM6555-54E</a></td>
 		<td>4.5/5</td>
 		<td><a class="btn btn--info" href="#4-citizen-model-bm6555-54e">View</a></td>
 	</tr>
 	<tr>
 		<td>
-			<a target="_blank" href="https://www.amazon.ca/Laco-1925-861688-Stainless-Automatic/dp/B009LDPQPQ/ref=sr_1_247?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-247">
+			<a target="_blank" href="https://amzn.to/2WsCexS">
 				<img class="table-image lazyload" alt="awesome citizen watch" src="/img/watches/citizen/citizen-at.jpg" />
 			</a></td>
 		<td>
-			<a target="_blank" href="https://www.amazon.ca/Laco-1925-861688-Stainless-Automatic/dp/B009LDPQPQ/ref=sr_1_247?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-247">Model AT2400-05A</a></td>
+			<a target="_blank" href="https://amzn.to/2WsCexS">Model AT2400-05A</a></td>
 		<td>5/5</td>
 		<td><a class="btn btn--info" href="#5-citizen-model-at2400-05a">View</a></td>
 	</tr>
 </table>
 
-## [1. Citizen Model CA0649-06X]()
+## [1. Citizen Model CA0649-06X](https://amzn.to/2KeqFc2){: target="_blank"}
 
 Athletic Men’s Wrist Watch with Eco Drive
 
@@ -84,9 +84,9 @@ Display Types: Analog
 Watch Size: 49 Mm / 17 Mm / 9.5 Inches / 26 Mm
 (Case Diameter, Case Thickness, Band Length, Band Width)
 
-[Check Price](https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241){: .btn .btn--success .btn-center target="_blank"} 
+[Check Price](https://amzn.to/2KeqFc2){: .btn .btn--success .btn-center target="_blank"} 
 
-## [2. Citizen’s model BJ6500-21A]()
+## [2. Citizen’s model BJ6500-21A](https://amzn.to/2XENusl){: target="_blank"}
 
 Eco Drive Casual Men’s Wrist Watch with both Stainless Steel and Leather
 
@@ -117,9 +117,9 @@ Display Types: Analog
 Watch Size 46 Mm / 13 Mm / 10 Inches / 25 Mm
 (Case Diameter, Case Thickness, Band Length, Band Width)
 
-[Check Price](https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241){: .btn .btn--success .btn-center target="_blank"} 
+[Check Price](https://amzn.to/2XENusl){: .btn .btn--success .btn-center target="_blank"} 
 
-## [3. Citizen Model BL5403-03X]()
+## [3. Citizen Model BL5403-03X](tps://amzn.to/2XFnjlp){: target="_blank"}
 
 Citizen Men's Eco-Drive Chronograph Wrist Watch with Perpetual Calendar and Date
 
@@ -148,9 +148,9 @@ Display Types: Analog
 Watch Size: 47 Mm / 12 Mm / 7.5 Inches / 22 Mm
 (Case Diameter, Case Thickness, Band Length, Band Width)
 
-[Check Price](https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241){: .btn .btn--success .btn-center target="_blank"} 
+[Check Price](tps://amzn.to/2XFnjlp){: .btn .btn--success .btn-center target="_blank"} 
 
-## [4. Citizen Model BM6555-54E]()
+## [4. Citizen Model BM6555-54E](https://amzn.to/2KRcUzF){: target="_blank"}
 
 Eco-Drive Stainless Black Ion-Plated Men’s Wrist Watch
 
@@ -179,9 +179,9 @@ Display Types: Analog
 Watch Size: 32 Mm / 8 Mm / Men’s Average Length / 24 Mm
 (Case Diameter, Case Thickness, Band Length, Band Width)
 
-[Check Price](https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241){: .btn .btn--success .btn-center target="_blank"} 
+[Check Price](https://amzn.to/2KRcUzF){: .btn .btn--success .btn-center target="_blank"} 
 
-## [5. Citizen model AT2400-05A]()
+## [5. Citizen model AT2400-05A](https://amzn.to/2WsCexS){: target="_blank"}
 
 Men’s Eco Drive Wrist Watch
 
@@ -212,7 +212,7 @@ Display Types: Analog
 Watch Size: 41 Mm / 10.5 Mm / Men’s Standard / 21.5 Mm
 (Case Diameter, Case Thickness, Band Length, Band Width)
 
-[Check Price](https://www.amazon.ca/Frederique-Constant-Leather-Automatic-FC-303M4P6/dp/B06WP53TZD/ref=sr_1_241?keywords=automatic+watches&qid=1559091286&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-241){: .btn .btn--success .btn-center target="_blank"} 
+[Check Price](https://amzn.to/2WsCexS){: .btn .btn--success .btn-center target="_blank"} 
 
 ## Buyer's Guide: Citizen Watches
 
