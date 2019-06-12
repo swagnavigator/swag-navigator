@@ -69,7 +69,7 @@ What makes this watch unique is its functionality. Much more than a simple time 
 
 Within its dial, there are multiple sub dials that include a wealth of information: 12-hour time, 24-hour time, the date, and a 1/5-second chronograph measuring up to 60 minutes.
 
-![Citizen Athletic Watch](/img/watches/citizen/citizen-ca2.jpg){: img-middle}
+![Citizen Athletic Watch](/img/watches/citizen/citizen-ca2.jpg){: .img-middle}
 
 With a water resistance of 333 feet, this addition allows for a watch suitable for both recreational swimming and shallow snorkeling but not [deep-water diving](https://www.divein.com/articles/deep-diving/){: target="_blank"} or professional marine activities. 
 
