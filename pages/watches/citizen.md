@@ -6,7 +6,7 @@ author: Tochi Duhu
 toc: true
 ---
 
-![Citizen Black Watch](/img/watches/citizen/header.jpg){: img-right}
+![Citizen Black Watch](/img/watches/citizen/header.jpg){: .img-right}
 
 Citizen watches are superb in their craftsmanship of every watch; however, you need to make sure the watch you get is the perfect accessory to wear around your wrist.
 
@@ -133,7 +133,7 @@ Although visually appealing, style is not the main purpose of this model. This c
 
 This chronograph watch display has several sub dials supplying an incredible amount of information including both 12- and 24-hour time, an alarm, perpetual calendar and 1/20 second time. 
 
-![Citizen Rose Gold Watch](/img/watches/citizen/citizen-bl2-jpg){: .img-center}
+![Citizen Rose Gold Watch](/img/watches/citizen/citizen-bl2.jpg){: .img-center}
 
 Adding further durability, this watch’s display is made with mineral crystal to resist scratches during day to day wear. 
 
@@ -226,7 +226,7 @@ Although Eco Drive uses a battery, it’s not your average battery. It’s a rec
 
 Although similar to automatic watches that power themselves from the kinetic energy of the wearer, Eco Drive needs something simpler to continue operating: light. Citizen’s Eco Drive is a [solar powered](https://www.seia.org/initiatives/about-solar-energy){: target="_blank"} battery that relies on energy from light. 
 
-![Citizen Eco Drive Watch](/img/watches/citizen/eco-drive.jpg){: img-center}
+![Citizen Eco Drive Watch](/img/watches/citizen/eco-drive.jpg){: .img-center}
 
 This doesn’t limit its wearability though. Even in places that don’t receive a lot of light, such as the Arctic, or if your schedule doesn’t allow for a lot of time in sunshine, this watch will still operate as it should. 
 
@@ -294,6 +294,6 @@ On the other hand, those with large wrists need to be aware of how a small watch
 
 The best way to ensure that you get a perfect fit for the perfect watch is simply to measure your wrist. 
 
-![Watch Sizing Guide](/img/watches/citizen/guide.jpg){:img-center}
+![Watch Sizing Guide](/img/watches/citizen/sizing.jpg){: .img-center}
 
 Case diameter will usually range between 38 mm to 45 mm at its largest. Wrists that are 6 to 7 inches fit 38 mm to 42 mm watches the best, while 7.5 to 8-inch wrists fit cases that are larger such as 44 mm to 46 mm the best.
