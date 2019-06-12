@@ -69,7 +69,7 @@ What makes this watch unique is its functionality. Much more than a simple time 
 
 Within its dial, there are multiple sub dials that include a wealth of information: 12-hour time, 24-hour time, the date, and a 1/5-second chronograph measuring up to 60 minutes.
 
-![Citizen Athletic Watch](/img/watches/citizen/citizen-ca2.jpg){: img-center}
+![Citizen Athletic Watch](/img/watches/citizen/citizen-ca2.jpg){: img-middle}
 
 With a water resistance of 333 feet, this addition allows for a watch suitable for both recreational swimming and shallow snorkeling but not [deep-water diving](https://www.divein.com/articles/deep-diving/){: target="_blank"} or professional marine activities. 
 
@@ -104,7 +104,7 @@ What makes this watch unique is its simple style and features. Beyond simply tel
 
 As far as additional durability, this watch has its display protected by a mineral window to resist scratches during daily wear. 
 
-![Citizen Casual Watch](/img/watches/citizen/citizen-bj2.jpg){: .img-center}
+![Citizen Casual Watch](/img/watches/citizen/citizen-bj2.jpg){: .img-middle}
 
 This model provides water resistance up to 50 meters or 165 feet, which makes it ideal for recreational swimming but not deep-water diving or professional marine activities.
 
@@ -133,7 +133,7 @@ Although visually appealing, style is not the main purpose of this model. This c
 
 This chronograph watch display has several sub dials supplying an incredible amount of information including both 12- and 24-hour time, an alarm, perpetual calendar and 1/20 second time. 
 
-![Citizen Rose Gold Watch](/img/watches/citizen/citizen-bl2.jpg){: .img-center}
+![Citizen Rose Gold Watch](/img/watches/citizen/citizen-bl2.jpg){: .img-middle}
 
 Adding further durability, this watch’s display is made with mineral crystal to resist scratches during day to day wear. 
 
@@ -164,7 +164,7 @@ With mineral crystal protecting the dial itself and ion-plated stainless-steel c
 
 Within the dial, this watch features a date window at the three o'clock position, a date calendar, and a simple uncluttered watch face that lends itself perfectly to a formal setting. 
 
-![Citizen Business Watch](/img/watches/citizen/citizen-bm2.jpg){: .img-center}
+![Citizen Business Watch](/img/watches/citizen/citizen-bm2.jpg){: .img-middle}
 
 Added features include a deployment clasp with a push button, solar powered Eco Drive technology, and a stationary bezel function. 
 
@@ -199,7 +199,7 @@ Made of sapphire crystal, the watch face is protected against scratches and wear
 
 Set in a stainless-steel case, and paired with a stationary bezel with a white dial, this watch is gorgeously classy and practical. 
 
-![Citizen Contrast Watch](/img/watches/citizen/citizen-at2.jpg){: .img-center}
+![Citizen Contrast Watch](/img/watches/citizen/citizen-at2.jpg){: .img-middle}
 
 With a water resistance of 100 meters or 330 feet, this watch allows for both recreational swimming or shallow snorkeling but unfortunately not deep diving or professional marine activities.
 
@@ -226,7 +226,7 @@ Although Eco Drive uses a battery, it’s not your average battery. It’s a rec
 
 Although similar to automatic watches that power themselves from the kinetic energy of the wearer, Eco Drive needs something simpler to continue operating: light. Citizen’s Eco Drive is a [solar powered](https://www.seia.org/initiatives/about-solar-energy){: target="_blank"} battery that relies on energy from light. 
 
-![Citizen Eco Drive Watch](/img/watches/citizen/eco-drive.jpg){: .img-center}
+![Citizen Eco Drive Watch](/img/watches/citizen/eco-drive.jpg){: .img-middle}
 
 This doesn’t limit its wearability though. Even in places that don’t receive a lot of light, such as the Arctic, or if your schedule doesn’t allow for a lot of time in sunshine, this watch will still operate as it should. 
 
@@ -250,7 +250,7 @@ For example, Citizen Model CA0649-06X, mentioned above, is ideal for the athleti
 
 On the other hand,  Citizen model AT2400-05A is a perfect combination of formal and casual as it has a minimal yet elegant design that allows it to match with formal wear, business suits, or casual attire seamlessly.
 
-![Citizen Watch on Wrist](/img/watches/citizen/wrist.jpg){: .img-center}
+![Citizen Watch on Wrist](/img/watches/citizen/wrist.jpg){: .img-middle}
 
 In the most modest terms, a watch is simply a tool to tell the time. A beautifully intricate tool but simple nonetheless. 
 
@@ -272,7 +272,7 @@ Quartz is a watch movement caused by a battery.
 
 Mechanical movement provides a traditional and near historical style watch as they are powered by gears instead of electricity. 
 
-![Watch Movement](/img/watches/citizen/movement.jpg){: .img-center}
+![Watch Movement](/img/watches/citizen/movement.jpg){: .img-middle}
 
 [Automatic watches](/watches/automatic) are like mechanical watches, but they use kinetic energy from the wearer’s natural movements to wind the mechanisms within the watch. 
 
@@ -294,6 +294,6 @@ On the other hand, those with large wrists need to be aware of how a small watch
 
 The best way to ensure that you get a perfect fit for the perfect watch is simply to measure your wrist. 
 
-![Watch Sizing Guide](/img/watches/citizen/sizing.jpg){: .img-center}
+![Watch Sizing Guide](/img/watches/citizen/sizing.jpg){: .img-middle}
 
 Case diameter will usually range between 38 mm to 45 mm at its largest. Wrists that are 6 to 7 inches fit 38 mm to 42 mm watches the best, while 7.5 to 8-inch wrists fit cases that are larger such as 44 mm to 46 mm the best.
