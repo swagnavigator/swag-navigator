@@ -25,11 +25,11 @@ With a watch that will last you decades to come, it’s important that you not o
 	</tr>
 	<tr>
 		<td>
-			<a target="_blank" href="tps://amzn.to/2XFnjlp">
+			<a target="_blank" href="https://amzn.to/2XFnjlp">
 				<img class="table-image lazyload" alt="best citizen watch" src="/img/watches/citizen/citizen-bl.jpg" />
 			</a></td>
 		<td>
-			<a target="_blank" href="tps://amzn.to/2XFnjlp">Model BL5403-03X</a></td>
+			<a target="_blank" href="https://amzn.to/2XFnjlp">Model BL5403-03X</a></td>
 		<td>5/5</td>
 		<td><a class="btn btn--info" href="#3-citizen-model-bl5403-03x">View</a></td>
 	</tr>
