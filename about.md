@@ -38,7 +38,7 @@ So, the first watch I would like to discuss in this piece is the Citizens men’
 
 This is a stainless-steel watch in the Red arrow Skyhawk series.
 
-![First Watch](/img/watches/about/watch-1.png){: .img-right}
+![Watch 3](/img/watches/about/watch-3.png){: .img-right}
 
 In my opinion, this is a master class of a watch which features a fold over clasps with push buttons.
 
@@ -80,7 +80,7 @@ For me, I have had mine for 5 years and have never had an issue with it. This le
 
 For men who are always looking to make a statement, this is the watch for you.
  
-![Watch 3](/img/watches/about/watch-3.png){: .img-right}
+![First Watch](/img/watches/about/watch-1.png){: .img-right}
 
 The next watch in my arsenal is the Citizen men’s BZ1021-54L Eco-drive watch. This watch could arguably be the most unique watch I have owned so far.
 
