@@ -56,50 +56,52 @@ With a watch that will last you decades to come, it’s important that you not o
 </table>
 
 <div class="featured-specs-box">
-<h2 id="citizen-model-ca0649-06x">
-<span>#1</span> <a href="https://amzn.to/2KeqFc2" target="_blank">Citizen Model CA0649-06X</a>
+<h2 id="citizen-model-bj6500-21a">
+<span>#1</span> <a href="https://amzn.to/2XFnjlp" target="_blank">Citizen Model BL5403-03X</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2KeqFc2"><img alt="citizen modelCA0649-06X watch" src="/img/watches/citizen/citizen-ca.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2XFnjlp"><img alt="citizen model bj6500 watch" src="/img/watches/citizen/citizen-bl2.jpg" /></a>
 <div class="specs">
 <p><span>Movement</span><span>Japanese quartz</span></p>
-<p><span>Waterproofing</span><span>100 meters (333 ft)</span></p>
+<p><span>Waterproofing</span><span>100 meters (330 ft)</span></p>
 <p><span>Backlight</span><span>None</span></p>
-<p><span>Case/Strap Material</span><span>Stainless steel/leather</span></p>
-<p><span>Features</span><span>Chronograph, date</span></p>
+<p><span>Case/Strap Material</span><span>Rose gold/leather</span></p>
+<p><span>Date/Time Features</span><span>Chronograph, calendar, alarm</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
 <ul class="pros">
 <span>Pros:</span>
-<li>Durable</li>
-<li>Stylish & sporty design</li>
-<li>Chronograph</li>
-<li>Date & time</li>
+<li>Eco-Drive (Solar)</li>
+<li>12/24-hour time</li>
+<li>Unique/Stylish</li>
 </ul>
 <ul class="cons">
 <span>Cons:</span>
+<li>Busy design in the dial</li>
 <li>No backlight</li>
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2KeqFc2">Check Price</a>
+<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2XFnjlp">Check Price</a>
 </div>
 </div>
 
-Citizen has an amazing range of watch styles from formal to casual to athletic. This model is a perfect example of function and style combined within one watch. 
+Citizen Men's Eco-Drive Chronograph Wrist Watch with Perpetual Calendar and Date
 
-Set in a stainless-steel case, and paired with a stationary bezel plated in black aluminum, encasing a tan dial, this watch is beautifully stylish and functional. The hickory brown leather strap provides a texturized and comfortable band.
+Rose gold accents, tile patterned bezel, a crocodile embossed leather band, contrast stitching, and a beautifully balanced but busy dial face are all features of the design of this watch. 
 
-What makes this watch unique is its functionality. Much more than a simple time piece, this watch provides several additional functions that enhance the accessory's practicality. 
+With a round rose gold dial, this watch is ideal for the wearer that needs a watch with a gorgeous look but a greater emphasis on function.
 
-Within its dial, there are multiple sub dials that include a wealth of information: 12-hour time, 24-hour time, the date, and a 1/5-second chronograph measuring up to 60 minutes.
+Although visually appealing, style is not the main purpose of this model. This citizen watch is a beautiful watch that prides itself on functionality. 
 
-![Citizen Athletic Watch](/img/watches/citizen/citizen-ca2.jpg){: .img-middle}
+![Citizen Rose Gold Watch](/img/watches/citizen/citizen-bl.jpg){: .img-middle}
 
-With a water resistance of 333 feet, this addition allows for a watch suitable for both recreational swimming and shallow snorkeling but not [deep-water diving](https://www.divein.com/articles/deep-diving/){: target="_blank"} or professional marine activities. 
+This chronograph watch display has several sub dials supplying an incredible amount of information including both 12- and 24-hour time, an alarm, perpetual calendar and 1/20 second time. 
 
-Together with the style, this watch is ideal for the man on the go that needs information at a glance.
+Adding further durability, this watch’s display is made with mineral crystal to resist scratches during day to day wear. 
+
+This watch supplies water resistance up to 100 meters or 330 feet, which is ideal for recreational swimming and shallow snorkeling but not scuba diving or deep diving.
 
 <div class="featured-specs-box">
 <h2 id="citizen-model-bm6555-54e">
@@ -244,52 +246,50 @@ As far as additional durability, this watch has its display protected by a miner
 This model provides water resistance up to 50 meters or 165 feet, which makes it ideal for recreational swimming but not deep-water diving or professional marine activities.
 
 <div class="featured-specs-box">
-<h2 id="citizen-model-bj6500-21a">
-<span>#5</span> <a href="https://amzn.to/2XFnjlp" target="_blank">Citizen Model BL5403-03X</a>
+<h2 id="citizen-model-ca0649-06x">
+<span>#5</span> <a href="https://amzn.to/2KeqFc2" target="_blank">Citizen Model CA0649-06X</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2XFnjlp"><img alt="citizen model bj6500 watch" src="/img/watches/citizen/citizen-bl2.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2KeqFc2"><img alt="citizen modelCA0649-06X watch" src="/img/watches/citizen/citizen-ca.jpg" /></a>
 <div class="specs">
 <p><span>Movement</span><span>Japanese quartz</span></p>
-<p><span>Waterproofing</span><span>100 meters (330 ft)</span></p>
+<p><span>Waterproofing</span><span>100 meters (333 ft)</span></p>
 <p><span>Backlight</span><span>None</span></p>
-<p><span>Case/Strap Material</span><span>Rose gold/leather</span></p>
-<p><span>Date/Time Features</span><span>Chronograph, calendar, alarm</span></p>
+<p><span>Case/Strap Material</span><span>Stainless steel/leather</span></p>
+<p><span>Features</span><span>Chronograph, date</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
 <ul class="pros">
 <span>Pros:</span>
-<li>Eco-Drive (Solar)</li>
-<li>12/24-hour time</li>
-<li>Unique/Stylish</li>
+<li>Durable</li>
+<li>Stylish & sporty design</li>
+<li>Chronograph</li>
+<li>Date & time</li>
 </ul>
 <ul class="cons">
 <span>Cons:</span>
-<li>Busy design in the dial</li>
 <li>No backlight</li>
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2XFnjlp">Check Price</a>
+<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2KeqFc2">Check Price</a>
 </div>
 </div>
 
-Citizen Men's Eco-Drive Chronograph Wrist Watch with Perpetual Calendar and Date
+Citizen has an amazing range of watch styles from formal to casual to athletic. This model is a perfect example of function and style combined within one watch. 
 
-Rose gold accents, tile patterned bezel, a crocodile embossed leather band, contrast stitching, and a beautifully balanced but busy dial face are all features of the design of this watch. 
+Set in a stainless-steel case, and paired with a stationary bezel plated in black aluminum, encasing a tan dial, this watch is beautifully stylish and functional. The hickory brown leather strap provides a texturized and comfortable band.
 
-With a round rose gold dial, this watch is ideal for the wearer that needs a watch with a gorgeous look but a greater emphasis on function.
+What makes this watch unique is its functionality. Much more than a simple time piece, this watch provides several additional functions that enhance the accessory's practicality. 
 
-Although visually appealing, style is not the main purpose of this model. This citizen watch is a beautiful watch that prides itself on functionality. 
+Within its dial, there are multiple sub dials that include a wealth of information: 12-hour time, 24-hour time, the date, and a 1/5-second chronograph measuring up to 60 minutes.
 
-![Citizen Rose Gold Watch](/img/watches/citizen/citizen-bl.jpg){: .img-middle}
+![Citizen Athletic Watch](/img/watches/citizen/citizen-ca2.jpg){: .img-middle}
 
-This chronograph watch display has several sub dials supplying an incredible amount of information including both 12- and 24-hour time, an alarm, perpetual calendar and 1/20 second time. 
+With a water resistance of 333 feet, this addition allows for a watch suitable for both recreational swimming and shallow snorkeling but not [deep-water diving](https://www.divein.com/articles/deep-diving/){: target="_blank"} or professional marine activities. 
 
-Adding further durability, this watch’s display is made with mineral crystal to resist scratches during day to day wear. 
-
-This watch supplies water resistance up to 100 meters or 330 feet, which is ideal for recreational swimming and shallow snorkeling but not scuba diving or deep diving.
+Together with the style, this watch is ideal for the man on the go that needs information at a glance.
 
 ## Buyer's Guide: Citizen Watches
 
