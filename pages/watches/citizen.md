@@ -55,46 +55,14 @@ With a watch that will last you decades to come, it’s important that you not o
 	</tr>
 </table>
 
-## [1. Citizen Model CA0649-06X](https://amzn.to/2KeqFc2){: target="_blank"}
-
-Athletic Men’s Wrist Watch with Eco Drive
-
-![Citizen Athletic Watch](/img/watches/citizen/citizen-ca.jpg){: .img-right}
-
-Citizen has an amazing range of watch styles from formal to casual to athletic. This model is a perfect example of function and style combined within one watch. 
-
-Set in a stainless-steel case, and paired with a stationary bezel plated in black aluminum, encasing a tan dial, this watch is beautifully stylish and functional. The hickory brown leather strap provides a texturized and comfortable band.
-
-What makes this watch unique is its functionality. Much more than a simple time piece, this watch provides several additional functions that enhance the accessory's practicality. 
-
-Within its dial, there are multiple sub dials that include a wealth of information: 12-hour time, 24-hour time, the date, and a 1/5-second chronograph measuring up to 60 minutes.
-
-![Citizen Athletic Watch](/img/watches/citizen/citizen-ca2.jpg){: .img-middle}
-
-With a water resistance of 333 feet, this addition allows for a watch suitable for both recreational swimming and shallow snorkeling but not [deep-water diving](https://www.divein.com/articles/deep-diving/){: target="_blank"} or professional marine activities. 
-
-Together with the style, this watch is ideal for the man on the go that needs information at a glance.
-
-Movement: Japanese Quartz Movement
-
-Style: Athletic
-
-Display Types: Analog
-
-Watch Size: 49 Mm / 17 Mm / 9.5 Inches / 26 Mm
-(Case Diameter, Case Thickness, Band Length, Band Width)
-
-[Check Price](https://amzn.to/2KeqFc2){: .btn .btn--success .btn-center target="_blank"} 
-
-## [2. Citizen’s model BJ6500-21A](https://amzn.to/2XENusl){: target="_blank"}
-
 <div class="featured-specs-box">
-<h2 id="citizen-model-bj6500-21a">
-<span>#2</span> <a href="https://amzn.to/2XENusl" target="_blank">Citizen’s Model BJ6500-21A</a>
+<h2 id="citizen-model-ca0649-06x">
+<span>#1</span> <a href="https://amzn.to/2KeqFc2" target="_blank">Citizen Model CA0649-06X</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2XENusl"><img alt="citizen model bj6500 watch" src="/img/watches/citizen/citizen-bj.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2KeqFc2"><img alt="citizen modelCA0649-06X watch" src="/img/watches/citizen/citizen-ca.jpg" /></a>
 <div class="specs">
+<p><span>Movement</span><span>Japanese quartz</span></p>
 <p><span>Waterproofing</span><span>100 meters (333 ft)</span></p>
 <p><span>Backlight</span><span>None</span></p>
 <p><span>Case/Strap Material</span><span>Stainless steel/leather</span></p>
@@ -115,13 +83,55 @@ Watch Size: 49 Mm / 17 Mm / 9.5 Inches / 26 Mm
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2XENusl">Check Price</a>
+<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2KeqFc2">Check Price</a>
 </div>
 </div>
 
-Eco Drive Casual Men’s Wrist Watch with both Stainless Steel and Leather
+Citizen has an amazing range of watch styles from formal to casual to athletic. This model is a perfect example of function and style combined within one watch. 
 
-![Citizen Casual Watch](/img/watches/citizen/citizen-bj.jpg){: .img-right}
+Set in a stainless-steel case, and paired with a stationary bezel plated in black aluminum, encasing a tan dial, this watch is beautifully stylish and functional. The hickory brown leather strap provides a texturized and comfortable band.
+
+What makes this watch unique is its functionality. Much more than a simple time piece, this watch provides several additional functions that enhance the accessory's practicality. 
+
+Within its dial, there are multiple sub dials that include a wealth of information: 12-hour time, 24-hour time, the date, and a 1/5-second chronograph measuring up to 60 minutes.
+
+![Citizen Athletic Watch](/img/watches/citizen/citizen-ca2.jpg){: .img-middle}
+
+With a water resistance of 333 feet, this addition allows for a watch suitable for both recreational swimming and shallow snorkeling but not [deep-water diving](https://www.divein.com/articles/deep-diving/){: target="_blank"} or professional marine activities. 
+
+Together with the style, this watch is ideal for the man on the go that needs information at a glance.
+
+<div class="featured-specs-box">
+<h2 id="citizen-model-bj6500-21a">
+<span>#2</span> <a href="https://amzn.to/2XENusl" target="_blank">Citizen Model BJ6500-21A</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2XENusl"><img alt="citizen model bj6500 watch" src="/img/watches/citizen/citizen-bj.jpg" /></a>
+<div class="specs">
+<p><span>Movement</span><span>Japanese quartz</span></p>
+<p><span>Waterproofing</span><span>50 meters (165 ft)</span></p>
+<p><span>Backlight</span><span>None</span></p>
+<p><span>Case/Strap Material</span><span>Stainless steel/leather</span></p>
+<p><span>Date/Time Features</span><span>Analog</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Classic design</li>
+<li>Durable</li>
+<li>Sleek</li>
+<li>Price</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Simple analog watch</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2XENusl">Check Price</a>
+</div>
+</div>
 
 Straightaway, this is a beautifully simple watch. In this case, though, simple doesn’t mean bland or boring. 
 
@@ -129,34 +139,53 @@ This watch is a beautifully simple watch, ideal for casual attire. With an analo
 
 It provides a classic look that channels a simpler time before the digital age where screens were everywhere one looked. 
 
+![Citizen Casual Watch](/img/watches/citizen/citizen-bj2.jpg){: .img-right}
+
 That is specifically the style of the watch; simple nostalgia. This watch is perfect for the collector needing a casual watch to wear for casual outings.
 
 What makes this watch unique is its simple style and features. Beyond simply telling the time, this watch is rather simple, which is perfect for a casual watch. 
 
 As far as additional durability, this watch has its display protected by a mineral window to resist scratches during daily wear. 
 
-![Citizen Casual Watch](/img/watches/citizen/citizen-bj2.jpg){: .img-middle}
-
 This model provides water resistance up to 50 meters or 165 feet, which makes it ideal for recreational swimming but not deep-water diving or professional marine activities.
 
-Movement: Japanese Quartz Movement.
-
-Style: Casual
-
-Display Types: Analog
-
-Watch Size 46 Mm / 13 Mm / 10 Inches / 25 Mm
-(Case Diameter, Case Thickness, Band Length, Band Width)
-
-[Check Price](https://amzn.to/2XENusl){: .btn .btn--success .btn-center target="_blank"} 
-
-## [3. Citizen Model BL5403-03X](tps://amzn.to/2XFnjlp){: target="_blank"}
+<div class="featured-specs-box">
+<h2 id="citizen-model-bj6500-21a">
+<span>#2</span> <a href="https://amzn.to/2XFnjlp" target="_blank">Citizen Model BL5403-03X</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2XFnjlp"><img alt="citizen model bj6500 watch" src="/img/watches/citizen/citizen-bj.jpg" /></a>
+<div class="specs">
+<p><span>Movement</span><span>Japanese quartz</span></p>
+<p><span>Waterproofing</span><span>100 meters (330 ft)</span></p>
+<p><span>Backlight</span><span>None</span></p>
+<p><span>Case/Strap Material</span><span>Rose gold/leather</span></p>
+<p><span>Date/Time Features</span><span>Chronograph, calendar, alarm</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Eco-Drive (Solar)</li>
+<li>12/24-hour time</li>
+<li>Unique/Stylish</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Busy design in the dial</li>
+<li>No backligjt</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2XFnjlp">Check Price</a>
+</div>
+</div>
 
 Citizen Men's Eco-Drive Chronograph Wrist Watch with Perpetual Calendar and Date
 
-![Citizen Rose Gold Watch](/img/watches/citizen/citizen-bl.jpg){: .img-right}
-
 Rose gold accents, tile patterned bezel, a crocodile embossed leather band, contrast stitching, and a beautifully balanced but busy dial face are all features of the design of this watch. 
+
+![Citizen Rose Gold Watch](/img/watches/citizen/citizen-bl.jpg){: .img-right}
 
 With a round rose gold dial, this watch is ideal for the wearer that needs a watch with a gorgeous look but a greater emphasis on function.
 
@@ -169,17 +198,6 @@ This chronograph watch display has several sub dials supplying an incredible amo
 Adding further durability, this watch’s display is made with mineral crystal to resist scratches during day to day wear. 
 
 This watch supplies water resistance up to 100 meters or 330 feet, which is ideal for recreational swimming and shallow snorkeling but not scuba diving or deep diving.
-
-Movement: Japanese Quartz Movement
-
-Style: Athletic
-
-Display Types: Analog
-
-Watch Size: 47 Mm / 12 Mm / 7.5 Inches / 22 Mm
-(Case Diameter, Case Thickness, Band Length, Band Width)
-
-[Check Price](tps://amzn.to/2XFnjlp){: .btn .btn--success .btn-center target="_blank"} 
 
 ## [4. Citizen Model BM6555-54E](https://amzn.to/2KRcUzF){: target="_blank"}
 
