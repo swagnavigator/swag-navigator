@@ -102,8 +102,102 @@ With a water resistance of 333 feet, this addition allows for a watch suitable f
 Together with the style, this watch is ideal for the man on the go that needs information at a glance.
 
 <div class="featured-specs-box">
+<h2 id="citizen-model-bm6555-54e">
+<span>#2</span> <a href="https://amzn.to/2KRcUzF" target="_blank">Citizen Model BM6555-54E</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2KRcUzF"><img alt="citizen model bm6555 54e" src="/img/watches/citizen/citizen-bm.jpg" /></a>
+<div class="specs">
+<p><span>Movement</span><span>Japanese quartz</span></p>
+<p><span>Waterproofing</span><span>30 meters (99 ft)</span></p>
+<p><span>Backlight</span><span>None</span></p>
+<p><span>Case/Strap Material</span><span>Black stainless steel</span></p>
+<p><span>Date/Time Features</span><span>Date</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Simple minimalistic design</li>
+<li>Solar powered</li>
+<li>Durable</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No backlight</li>
+<li>Price</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2KRcUzF">Check Price</a>
+</div>
+</div>
+
+This square faced watch is a subtle, sophisticated watch. Perfectly described as “Powerful yet understated” by Amazon, this watch supplies a perfect watch for formal or business events.
+
+Combining the elegance of monochrome black stainless steel with the ease of an Eco Drive operated battery, this watch is ideal to pair with a stylish suit to radiate formality and professionalism.
+
+With mineral crystal protecting the dial itself and ion-plated stainless-steel construction, this watch has added durability to resist scratches from regular wear and tear. 
+
+Within the dial, this watch features a date window at the three o'clock position, a date calendar, and a simple uncluttered watch face that lends itself perfectly to a formal setting. 
+
+![Citizen Business Watch](/img/watches/citizen/citizen-bm2.jpg){: .img-middle}
+
+Added features include a deployment clasp with a push button, solar powered Eco Drive technology, and a stationary bezel function. 
+
+Additionally, this model is resistant to water up to 30 meters or 99 feet which is ideal for general splashes and sweat but not for prolonged periods of submersion.
+
+<div class="featured-specs-box">
+<h2 id="citizen-model-at2400-05a">
+<span>#3</span> <a href="https://amzn.to/2WsCexS" target="_blank">Citizen Model AT2400-05A</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2WsCexS"><img alt="Citizen Model AT2400-05A" src="/img/watches/citizen/citizen-at.jpg" /></a>
+<div class="specs">
+<p><span>Movement</span><span>Japanese quartz</span></p>
+<p><span>Waterproofing</span><span>100 meters (330 ft)</span></p>
+<p><span>Backlight</span><span>None</span></p>
+<p><span>Case/Strap Material</span><span>Sapphire crystal/Polyurethane</span></p>
+<p><span>Date/Time Features</span><span>Chronograph, date</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Antireflective</li>
+<li>Quiet</li>
+<li>Beautiful</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No backlight</li>
+<li>No Canada shipping</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2WsCexS">Check Price</a>
+</div>
+</div>
+
+With a massive range of styles and aesthetics within one brand, Citizen provides superb selection for their customers. This particular model is a combination of formality and functionality. 
+
+The straightforward design consists of a white dial contrasting with the sleek black of the hands, logo, and indexes. The Polyurethane band provides a texturized, comfortable, and noise absorbing band.
+
+Making this watch unique is its functionality beyond its visual aesthetic. Durability is an important aspect of a watch’s longevity. 
+
+![Citizen Contrast Watch](/img/watches/citizen/citizen-at2.jpg){: .img-middle}
+
+Made of sapphire crystal, the watch face is protected against scratches and wear, and this anti-reflective material prevents harsh glares. 
+
+[Sapphire crystal](https://www.telegraph.co.uk/technology/picture-galleries/11145375/What-is-sapphire-glass-in-pictures.html?frame=3064485){: target="_blank"} is one of the most high-quality materials for a window as it’s more durable than both mineral and acrylic crystals. 
+
+Set in a stainless-steel case, and paired with a stationary bezel with a white dial, this watch is gorgeously classy and practical. 
+
+With a water resistance of 100 meters or 330 feet, this watch allows for both recreational swimming or shallow snorkeling but unfortunately not deep diving or professional marine activities.
+
+<div class="featured-specs-box">
 <h2 id="citizen-model-bj6500-21a">
-<span>#2</span> <a href="https://amzn.to/2XENusl" target="_blank">Citizen Model BJ6500-21A</a>
+<span>#4</span> <a href="https://amzn.to/2XENusl" target="_blank">Citizen Model BJ6500-21A</a>
 </h2>
 <div class="info">
 <a target="_blank" href="https://amzn.to/2XENusl"><img alt="citizen model bj6500 watch" src="/img/watches/citizen/citizen-bj.jpg" /></a>
@@ -151,7 +245,7 @@ This model provides water resistance up to 50 meters or 165 feet, which makes it
 
 <div class="featured-specs-box">
 <h2 id="citizen-model-bj6500-21a">
-<span>#3</span> <a href="https://amzn.to/2XFnjlp" target="_blank">Citizen Model BL5403-03X</a>
+<span>#5</span> <a href="https://amzn.to/2XFnjlp" target="_blank">Citizen Model BL5403-03X</a>
 </h2>
 <div class="info">
 <a target="_blank" href="https://amzn.to/2XFnjlp"><img alt="citizen model bj6500 watch" src="/img/watches/citizen/citizen-bl2.jpg" /></a>
@@ -196,100 +290,6 @@ This chronograph watch display has several sub dials supplying an incredible amo
 Adding further durability, this watch’s display is made with mineral crystal to resist scratches during day to day wear. 
 
 This watch supplies water resistance up to 100 meters or 330 feet, which is ideal for recreational swimming and shallow snorkeling but not scuba diving or deep diving.
-
-<div class="featured-specs-box">
-<h2 id="citizen-model-bm6555-54e">
-<span>#4</span> <a href="https://amzn.to/2KRcUzF" target="_blank">Citizen Model BM6555-54E</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2KRcUzF"><img alt="citizen model bm6555 54e" src="/img/watches/citizen/citizen-bm.jpg" /></a>
-<div class="specs">
-<p><span>Movement</span><span>Japanese quartz</span></p>
-<p><span>Waterproofing</span><span>30 meters (99 ft)</span></p>
-<p><span>Backlight</span><span>None</span></p>
-<p><span>Case/Strap Material</span><span>Black stainless steel</span></p>
-<p><span>Date/Time Features</span><span>Date</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Simple minimalistic design</li>
-<li>Solar powered</li>
-<li>Durable</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>No backlight</li>
-<li>Price</li>
-</ul>
-</div>
-<div class="btn">
-<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2KRcUzF">Check Price</a>
-</div>
-</div>
-
-This square faced watch is a subtle, sophisticated watch. Perfectly described as “Powerful yet understated” by Amazon, this watch supplies a perfect watch for formal or business events.
-
-Combining the elegance of monochrome black stainless steel with the ease of an Eco Drive operated battery, this watch is ideal to pair with a stylish suit to radiate formality and professionalism.
-
-With mineral crystal protecting the dial itself and ion-plated stainless-steel construction, this watch has added durability to resist scratches from regular wear and tear. 
-
-Within the dial, this watch features a date window at the three o'clock position, a date calendar, and a simple uncluttered watch face that lends itself perfectly to a formal setting. 
-
-![Citizen Business Watch](/img/watches/citizen/citizen-bm2.jpg){: .img-middle}
-
-Added features include a deployment clasp with a push button, solar powered Eco Drive technology, and a stationary bezel function. 
-
-Additionally, this model is resistant to water up to 30 meters or 99 feet which is ideal for general splashes and sweat but not for prolonged periods of submersion.
-
-<div class="featured-specs-box">
-<h2 id="citizen-model-at2400-05a">
-<span>#5</span> <a href="https://amzn.to/2WsCexS" target="_blank">Citizen Model AT2400-05A</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2WsCexS"><img alt="Citizen Model AT2400-05A" src="/img/watches/citizen/citizen-at.jpg" /></a>
-<div class="specs">
-<p><span>Movement</span><span>Japanese quartz</span></p>
-<p><span>Waterproofing</span><span>100 meters (330 ft)</span></p>
-<p><span>Backlight</span><span>None</span></p>
-<p><span>Case/Strap Material</span><span>Sapphire crystal/Polyurethane</span></p>
-<p><span>Date/Time Features</span><span>Chronograph, date</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Antireflective</li>
-<li>Quiet</li>
-<li>Beautiful</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>No backlight</li>
-<li>No Canada shipping</li>
-</ul>
-</div>
-<div class="btn">
-<a target="_blank" class="btn btn--success btn-center" href="https://amzn.to/2WsCexS">Check Price</a>
-</div>
-</div>
-
-With a massive range of styles and aesthetics within one brand, Citizen provides superb selection for their customers. This particular model is a combination of formality and functionality. 
-
-The straightforward design consists of a white dial contrasting with the sleek black of the hands, logo, and indexes. The Polyurethane band provides a texturized, comfortable, and noise absorbing band.
-
-Making this watch unique is its functionality beyond its visual aesthetic. Durability is an important aspect of a watch’s longevity. 
-
-![Citizen Contrast Watch](/img/watches/citizen/citizen-at2.jpg){: .img-middle}
-
-Made of sapphire crystal, the watch face is protected against scratches and wear, and this anti-reflective material prevents harsh glares. 
-
-[Sapphire crystal](https://www.telegraph.co.uk/technology/picture-galleries/11145375/What-is-sapphire-glass-in-pictures.html?frame=3064485){: target="_blank"} is one of the most high-quality materials for a window as it’s more durable than both mineral and acrylic crystals. 
-
-Set in a stainless-steel case, and paired with a stationary bezel with a white dial, this watch is gorgeously classy and practical. 
-
-With a water resistance of 100 meters or 330 feet, this watch allows for both recreational swimming or shallow snorkeling but unfortunately not deep diving or professional marine activities.
 
 ## Buyer's Guide: Citizen Watches
 
