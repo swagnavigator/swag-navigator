@@ -197,8 +197,6 @@ Adding further durability, this watch’s display is made with mineral crystal t
 
 This watch supplies water resistance up to 100 meters or 330 feet, which is ideal for recreational swimming and shallow snorkeling but not scuba diving or deep diving.
 
-## [4. Citizen Model BM6555-54E](https://amzn.to/2KRcUzF){: target="_blank"}
-
 <div class="featured-specs-box">
 <h2 id="citizen-model-bm6555-54e">
 <span>#4</span> <a href="https://amzn.to/2KRcUzF" target="_blank">Citizen Model BM6555-54E</a>
@@ -245,11 +243,9 @@ Added features include a deployment clasp with a push button, solar powered Eco 
 
 Additionally, this model is resistant to water up to 30 meters or 99 feet which is ideal for general splashes and sweat but not for prolonged periods of submersion.
 
-## [5. Citizen Model AT2400-05A](https://amzn.to/2WsCexS){: target="_blank"}
-
 <div class="featured-specs-box">
 <h2 id="citizen-model-at2400-05a">
-<span>#4</span> <a href="https://amzn.to/2WsCexS" target="_blank">Citizen Model AT2400-05A</a>
+<span>#5</span> <a href="https://amzn.to/2WsCexS" target="_blank">Citizen Model AT2400-05A</a>
 </h2>
 <div class="info">
 <a target="_blank" href="https://amzn.to/2WsCexS"><img alt="Citizen Model AT2400-05A" src="/img/watches/citizen/citizen-at.jpg" /></a>
