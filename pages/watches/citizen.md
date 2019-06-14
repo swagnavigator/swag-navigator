@@ -88,6 +88,37 @@ Watch Size: 49 Mm / 17 Mm / 9.5 Inches / 26 Mm
 
 ## [2. Citizen’s model BJ6500-21A](https://amzn.to/2XENusl){: target="_blank"}
 
+<div class="featured-specs-box">
+<h2 id="citizen-model-bj6500-21a">
+<span>#2</span> <a href="https://amzn.to/2XENusl" target="_blank">Citizen’s Model BJ6500-21A</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2XENusl"><img alt="citizen model bj6500 watch" src="/img/watches/citizen/citizen-bj.jpg" /></a>
+<div class="specs">
+<p><span>Waterproofing</span><span>100 meters (333 ft)</span></p>
+<p><span>Backlight</span><span>None</span></p>
+<p><span>Case/Strap Material</span><span>Stainless steel/leather</span></p>
+<p><span>Features</span><span>Chronograph, date</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Durable</li>
+<li>Stylish & sporty design</li>
+<li>Chronograph</li>
+<li>Date & time</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No backlight</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2XENusl">Check Price</a>
+</div>
+</div>
+
 Eco Drive Casual Men’s Wrist Watch with both Stainless Steel and Leather
 
 ![Citizen Casual Watch](/img/watches/citizen/citizen-bj.jpg){: .img-right}
