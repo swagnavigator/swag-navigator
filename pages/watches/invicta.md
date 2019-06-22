@@ -251,7 +251,7 @@ Stainless steel provides a very modern and innovative feel that’s popular amon
 This watch is ideal for the man on the go who wants to exude a confident, collected look to those around him.
 
 ## Introduction to Invicta
-![Invicta watch example](/img/watches/invicta/invicta-watch-example.jpg){: .img-right}
+![Invicta watch example](/img/watches/invicta/invicta-watch-example.jpeg){: .img-right}
 
 Invicta is a Swiss watch brand dedicated to creating high quality watches with superior craftsmanship, continuing innovation, and amazing value. According to their [website](https://www.invictawatch.com/about){: target="_blank"}, their mission statement describes their dedication to quality timepieces at a decent price: 
 
@@ -273,7 +273,7 @@ In general, there are three kinds of aesthetics when it comes to watches:
 
 Formal, casual and athletic. 
 
-![watch wearing example](/img/watches/invicta/watch-wearing-example.jpg){: .img-middle}
+![watch wearing example](/img/watches/invicta/watch-wearing.jpg){: .img-middle}
 
 Regardless of the set categories, many watches fall into multiple, or are a blend of them. As Invicta has beyond 30 collections with more than 1000 watches, there’s bound to be a great watch for your aesthetic.
 
