@@ -14,7 +14,7 @@ Despite their superb quality, they won’t break the bank.
 
 In this article, we’re going to be taking a look at some of our favorite models to help you choose the best Invicta watch for your wardrobe. 
 
-## The 3 Best Invicta Watches at a Glance
+## 3 Best Invicta Watches at a Glance
 
 <table>
 <tr>
