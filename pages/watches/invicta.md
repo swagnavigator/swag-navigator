@@ -36,7 +36,7 @@ In this article, we’re going to be taking a look at some of our favorite model
 <td><a class="btn btn--info" href="#invicta-model-8929OB">View</a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://amzn.to/2RubPPx"><img class="lazyload table-image" alt="Invicta AVIATOR 18k Gold Ion-Plated Watch" src="/img/watches/invicta/model-17205.jpg" /></td>
+<td><a target="_blank" href="https://amzn.to/2RubPPx"><img class="lazyload table-image" alt="Invicta AVIATOR 18k Gold Ion-Plated Watch" src="/img/watches/invicta/model-17205.jpg" /></a></td>
 <td><a target="_blank" href="https://amzn.to/2RubPPx">Invicta AVIATOR 18k Gold Ion-Plated Watch</a></td>
 <td>5/5</td>
 <td><a class="btn btn--info" href="#invicta-model-17205">View</a></td>
