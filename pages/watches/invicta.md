@@ -81,7 +81,9 @@ Thanks to this watch’s two-toned coloring, it really stands out and makes its 
 
 The watch band is made with gold and silver stainless steel, while the bezel itself is a bright navy color. Likewise, this watch’s dial also features a beautiful, navy hue that exudes a feeling of royalty. 
 
-With this watch on your wrist, you’re going to feel like a king. 
+Unfortunately, the watch requires regular winding, which isn't very convenient. If you aren't the kind of person who likes to manually wind your watch every so often, I'd stay away from this model.
+
+Nevertheless, with this watch on your wrist, you’re going to feel like a king. 
 
 Looks aside, this watch really stands out in terms of its functionality as well. The dial has a few additional sub dials that conveniently display the current date. 
 
@@ -123,6 +125,12 @@ Innovative and stylish, this Invicta watch provides a gorgeous addition to any c
 Within the black unidirectional bezel, the black dial face is gorgeously subtle with golden indexes, hands and sub dials.
 
 Although the style is rather simple and unobtrusive, that doesn’t mean that it doesn’t deliver in function and information. Those attributes are what sets this watch aside from the others. 
+
+This watch would have been that much better if it had a date and time feature, but you can't have everything. 
+
+To be fair, it looks like the watch has a minimalistic design, so it may have ended up crowding the watch face too much. 
+
+In addition, the watch is waterproof up to 200 meters, so you can comfortably take it in the pool with you if you so choose. 
 
 Within the dial itself there is a wealth of information provided, that’s more than your average analog wrist watch such as the magnified date display at 3 o’clock position. 
 
@@ -172,6 +180,12 @@ The dial window itself is somewhat jam-packed, yet still organized (once you get
 
 This watch’s Japanese quartz movement with an analog display, fold-over clasp closure, and a date window all add to its sophisticated appearance. Among the aviator collection from Invicta, this watch is designed with versatility, style, and comfort in mind.
 
+I would've *really* liked to see a backlight feature on this watch – the fact that it doesn't have one is a pretty big drawback for me. 
+
+If that's something that's also important to you, keep reading. 
+
+On the other hand, if you're not too concerned about a backlit watch, then this is a great choice overall, especially considering it's amazing design. 
+
 <div class="featured-specs-box">
 <h2 id="invicta-model-9211">
 <span>#4</span> <a href="https://amzn.to/2RubXyv" target="_blank">Invicta 9211 Speedway Chronograph Watch</a>
@@ -210,7 +224,11 @@ This stainless steel model contains multiple sub dials displaying a wealth of in
 
 Although mostly silver, this stainless steel watch has a black accent around silver tone bezel around the face to make the dial itself stand out even more.
 
-This watch’s modern visual appeal combined with its unique functionality make it unique – it’s a great way to display your personal taste and style. 
+It's important to note that this watch has a rather large watch face, definitely larger than average. 
+
+If you don't have big enough wrists for this watch, it may look a bit funny on you. This watch is best suited for those with slightly larger arms/wrists. 
+
+Size aside, this watch’s modern visual appeal combined with its unique functionality make it unique – it’s a great way to display your personal taste and style. 
 
 <div class="featured-specs-box">
 <h2 id="invicta-model-14879">
@@ -249,6 +267,12 @@ Far from your typical wristwatch, this grey stainless steel model is beautifully
 Stainless steel provides a very modern and innovative feel that’s popular among watch collectors. That is specifically the style of the watch – complex in its innovation yet classic in its design. 
 
 This watch is ideal for the man on the go who wants to exude a confident, collected look to those around him.
+
+Although this watch has a lot of awesome features – all of which I'm a big fan of – some may feel the watch face is a bit crowded. 
+
+If you prefer minimalistic, clean designs, you may want to look elsewhere. 
+
+Conversely, this watch is perfect for those who want a more sophisticated looking watch face, packed full of added features (such as the chronograph).
 
 ## Introduction to Invicta
 ![Invicta watch example](/img/watches/invicta/invicta-watch-example.jpeg){: .img-right}
