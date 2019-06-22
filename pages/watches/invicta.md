@@ -253,7 +253,9 @@ This watch is ideal for the man on the go who wants to exude a confident, collec
 ## Introduction to Invicta
 ![Invicta watch example](/img/watches/invicta/invicta-watch-example.jpeg){: .img-right}
 
-Invicta is a Swiss watch brand dedicated to creating high quality watches with superior craftsmanship, continuing innovation, and amazing value. According to their [website](https://www.invictawatch.com/about){: target="_blank"}, their mission statement describes their dedication to quality timepieces at a decent price: 
+Invicta is a Swiss watch brand dedicated to creating high quality watches with superior craftsmanship, continuing innovation, and amazing value. 
+
+According to their [website](https://www.invictawatch.com/about){: target="_blank"}, their mission statement describes their dedication to quality timepieces at a decent price: 
 
 <blockquote><p>“May all those who possess our timepieces and pass through our doors experience the quality, value and care in every piece we create as well as the spirit of never-ending possibilities in everything we do”.</p></blockquote>
 
@@ -261,13 +263,19 @@ As a brand, Invicta has been expanding in both quality, innovation and customers
 
 <blockquote><p>“over half of Invicta consumers own 10 or more Invicta’s while we gain over 100,000 new such collectors annually."</p></blockquote>
 
-With over 30 collections including Marvel, Invicta Cruise, Pro Diver, Reserve, and Russian Diver (just to name a few), this brand has over 1000 models. It’s not a surprise that they continually attract customers. They boast a wide variety of models in terms of aesthetics, and functions, for any price point. Without a doubt, they deliver.
+With over 30 collections including Marvel, Invicta Cruise, Pro Diver, Reserve, and Russian Diver (just to name a few), this brand has over 1000 models. 
 
-However, with hundreds of models under the Invicta name, it’s hard to choose a perfect watch. That’s where the buyer’s guide comes in to play – we’re going to highlight the features to look for in your next Invicta watch. 
+It’s not a surprise that they continually attract customers. They boast a wide variety of models in terms of aesthetics, and functions, for any price point. Without a doubt, they deliver.
+
+However, with hundreds of models under the Invicta name, it’s hard to choose a perfect watch. T
+
+hat’s where the buyer’s guide comes in to play – we’re going to highlight the features to look for in your next Invicta watch. 
 
 ### Style
 
-To start, style encompasses the design of the watch, its visual appeal. A watch allows the wearer to make a statement to the world around them using the watches’ aesthetics which include the colors, materials, craftsmanship, shape and so much more. 
+To start, style encompasses the design of the watch, its visual appeal. 
+
+A watch allows the wearer to make a statement to the world around them using the watches’ aesthetics which include the colors, materials, craftsmanship, shape and so much more. 
 
 In general, there are three kinds of aesthetics when it comes to watches: 
 
@@ -275,7 +283,9 @@ Formal, casual and athletic.
 
 ![watch wearing example](/img/watches/invicta/watch-wearing.jpg){: .img-middle}
 
-Regardless of the set categories, many watches fall into multiple, or are a blend of them. As Invicta has beyond 30 collections with more than 1000 watches, there’s bound to be a great watch for your aesthetic.
+Regardless of the set categories, many watches fall into multiple, or are a blend of them. 
+
+As Invicta has beyond 30 collections with more than 1000 watches, there’s bound to be a great watch for your aesthetic.
 
 In an interview with Time Zone, Eyal Lalo, President of Invicta Watch Company is a third generation watchmaker explained that their watches are high quality for a low price. 
 
@@ -294,13 +304,17 @@ Water resistance is the ability of the watch to withstand water, from a quick sp
 
 Depending on your requirements for the watch’s performances, it may be a vital thing to consider before you buy a watch.
 
-Watches will typically be designed to withstand the everyday exposure to water such as hand washing, sweat, rain, and splashes. However, anything more such as bathing, or diving requires a higher degree of water resistance.
+Watches will typically be designed to withstand the everyday exposure to water such as hand washing, sweat, rain, and splashes. 
+
+However, anything more such as bathing, or diving requires a higher degree of water resistance.
 
 This [watch waterproofing diagram](https://www.jswatch.com/water-resistance-guide){: target="_blank"} does a great job of illustrating what you can and can't do with your watch (depending on its level of waterproofing):
 
 ![watch waterproofing chart](/img/watches/invicta/waterproofing-chart.jpg)
 
-At the lower end, watches will withstand water and moisture from accidental splashes but unfortunately, not much else. A water resistance of 30 Meters (100 Ft or 3 ATM) will withstand water from everyday use such as accidental splashes, hand washing, and the weather, but won't be able to withstand deeper water.
+At the lower end, watches will withstand water and moisture from accidental splashes but unfortunately, not much else. 
+
+A water resistance of 30 Meters (100 Ft or 3 ATM) will withstand water from everyday use such as accidental splashes, hand washing, and the weather, but won't be able to withstand deeper water.
 
 If you want to take your watch swimming or even further, diving, you'll need a watch that is waterproof to 100 meters or more. 
 
