@@ -184,7 +184,7 @@ I would've *really* liked to see a backlight feature on this watch – the fact 
 
 If that's something that's also important to you, keep reading. 
 
-On the other hand, if you're not too concerned about a backlit watch, then this is a great choice overall, especially considering it's amazing design. 
+On the other hand, if you're not too concerned about a backlit watch, then this is a great choice overall, especially considering its amazing design. 
 
 <div class="featured-specs-box">
 <h2 id="invicta-model-9211">
