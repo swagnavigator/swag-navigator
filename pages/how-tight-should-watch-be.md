@@ -10,9 +10,7 @@ As a watch owner, you want to ensure that your watch fits perfectly for aestheti
 
 After doing a lot of research, asking watch connoisseurs, and experimenting on my own, here's my take on how tight a watch should be: 
 
-**Every watch owner has their own preferences to their watch's function, style, material, and movement – the size of the watch is no different. Ultimately, the perfect watch fit is up to the wearer and what they find comfortable.** 
-
-Below, there are general rules and tips to determine the best fit for your watch.
+**Every watch owner has their own preferences to their watch's function, style, material, and movement – the fit of the watch is no different. Ultimately, the perfect watch fit is up to the wearer and what they find comfortable.** 
 
 ## How Should a Watch Fit, Exactly? 
 
