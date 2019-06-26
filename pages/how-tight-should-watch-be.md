@@ -16,15 +16,13 @@ Below, there are general rules and tips to determine the best fit for your watch
 
 ## How Should a Watch Fit, Exactly? 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/287-zrhx93U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 This may seem obvious to some, but it's still important to note. 
 
-Watches should fit comfortably –  neither too tight nor too loose. 
+Watches should fit comfortably –  neither too tight nor too loose.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/287-zrhx93U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 A watch is too tight if the watch itself leaves imprints or marks in your skin. 
-
-![excellent watch fit example](/img/how-a-watch-should-fit/excellent-watch-fit.jpeg)
 
 The imprints mean that the watch is digging in, causing discomfort and possibly restricting blood flow. 
 
@@ -35,6 +33,8 @@ Having a watch fit too freely increases the chance for damages or scratches to t
 The size of the watch itself is also important to pay attention to. 
 
 Both wrists and watches range in sizes, thus it’s important to get the right size of watch in terms of case diameter to ensure the proper fit. 
+
+![excellent watch fit example](/img/how-a-watch-should-fit/excellent-watch-fit.jpeg){: .img-middle}
 
 Wrists 6 to 7 inches tend to complement 38 mm to 42 mm watches the best, while 7.5 to 8-inch wrists best complement larger cases including 44 mm to 46 mm the best. 
 
@@ -60,17 +60,17 @@ A perfect fit needs to be loose enough to move slightly but not enough to move e
 
 In the image below, the watch fits perfectly by providing a snug fit that still allows some movement:
 
-![perfect watch fit example](/img/how-a-watch-should-fit/good-fit.png)
+![perfect watch fit example](/img/how-a-watch-should-fit/good-fit.png){: .img-middle}
 
 This next image is an example of what can happen when you wear a watch too tight:
 
-![example of a bad watch fit it is too tight](/img/how-a-watch-should-fit/too-tight.png)
+![example of a bad watch fit it is too tight](/img/how-a-watch-should-fit/too-tight.png){: .img-middle}
 
 Below, the watch is too loose, as the wearer could easily stick several fingers within the band. 
 
 More than that, the watch will move too much around upon your wrist.
 
-![example of a bad watch fit it is too loose](/img/how-a-watch-should-fit/too-loose.png)
+![example of a bad watch fit it is too loose](/img/how-a-watch-should-fit/too-loose.png){: .img-middle}
 
 A perfect fitting watch will be close-fitting enough to remain fairly stationary on your wrist but unrestricted enough to allow for slight shifting.
 
