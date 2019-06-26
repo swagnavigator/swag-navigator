@@ -4,7 +4,7 @@ title: "How Tight Should a Watch Be On Your Wrist?"
 permalink: /how-tight-should-watch-be/
 ---
 
-Some may say size doesn’t matter, but when it comes to a watch, it surely does matter. 
+Some may say size doesn’t matter, but when it comes to a watch, it surely does. 
 
 As a watch owner, you want to ensure that your watch fits perfectly for aesthetic, comfort and functionality. 
 
