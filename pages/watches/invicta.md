@@ -291,9 +291,9 @@ With over 30 collections including Marvel, Invicta Cruise, Pro Diver, Reserve, a
 
 It’s not a surprise that they continually attract customers. They boast a wide variety of models in terms of aesthetics, and functions, for any price point. Without a doubt, they deliver.
 
-However, with hundreds of models under the Invicta name, it’s hard to choose a perfect watch. T
+However, with hundreds of models under the Invicta name, it’s hard to choose a perfect watch. 
 
-hat’s where the buyer’s guide comes in to play – we’re going to highlight the features to look for in your next Invicta watch. 
+That’s where the buyer’s guide comes in to play – we’re going to highlight the features to look for in your next Invicta watch. 
 
 ### Style
 
