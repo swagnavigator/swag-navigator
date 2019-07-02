@@ -6,7 +6,9 @@ permalink: /why-watches-stop-working/
 
 If your watch isn’t functioning properly, then the watch itself is nothing more than a rather odd bracelet. Even watch experts with a vast collection of watches aren’t immune to unexpected issues.
 
-**Watches stop functioning because of a mechanical failure or interruption within the inner mechanisms of the watch. There is no single reason why your watch stopped working – there are a plethora of issues that you could be having, the most common of which we’re going to be addressing in this article.** 
+**Watches stop functioning because of a mechanical failure or interruption within the inner mechanisms of the watch. There is no single reason why your watch stopped working, but rather a plethora of issues that you could be having.** 
+
+We're going to be talking about the most common problems (and their solutions) in this article. 
 
 ## Your Watch Stopped Working with a New Battery? 
 
