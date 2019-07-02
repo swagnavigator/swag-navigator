@@ -93,7 +93,3 @@ Your watch will fit more comfortably, and it'll probably last longer too. Luckil
 It could be some kind of internal damage causing an interruption such as water, or dust. Even a single droplet of moisture will impact a watch’s operation. 
 
 Believe it or not, some watches aren’t water resistant to anything beyond sweat, meaning that getting caught in the rain could cause electricity interruptions, rusting, improper weight on gears and so on.
-
-
-
-
