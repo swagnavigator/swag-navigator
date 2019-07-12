@@ -60,6 +60,8 @@ After doing some research (and based on my own experience) I can tell you that i
 
 However, they are convenient as they make it possible for you to wear your watch after a few days – or weeks – of not wearing it (or winding it).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIA-DzI09BY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 A watch winder can be helpful if you are not a daily wearer. Letting your watch(es) sit for a long time without any movement can cause the oils within to settle and clot.
 
 ![winding a watch](/img/watch-winders/setting-watch.jpg){: .img-middle}
