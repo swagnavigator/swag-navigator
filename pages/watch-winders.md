@@ -75,7 +75,7 @@ But as I said, they are more of a convenience than a necessity.
 There are several types of watch winders, including: 
 
 ### Functional Watch Winders 
-![functional watch winder](/img/watch-winders/functional-watch-winders.jpg){: .img-right}
+![functional watch winder](/img/watch-winders/functional-watch-winder.jpg){: .img-right}
 
 They are simple and usually wind up one or more watches. Rather basic, they can usually wind several watches at once. 
 
@@ -84,7 +84,7 @@ Functional winders solely concentrate on practicality and performance per dollar
 The [Heiden Quad Watch winder](https://amzn.to/2l5nBU5){: target="_blank"}. It has multi-watch rotating holders and the watches are nicely sealed off in a leather box with glass protection. 
 
 ### Stylish Watch Winders 
-![stylish watch winder](/img/watch-winders/stylish-watch-winder.jpg){: .img-right}
+![stylish watch winder](/img/watch-winders/stylish-watch-winder.png){: .img-right}
 
 These winders do a great job as well, but they do it in style.
 
