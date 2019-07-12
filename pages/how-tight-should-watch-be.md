@@ -186,7 +186,9 @@ A proper fitting allows your watch to work for you and not against you.
 
 Overall, size does matter in terms of the fit of your watch. A proper fitting watch is just as important as other aspects of the watch; style, function, comfort, material. 
 
-The fit of the watch is one of the many details that are vital to owning a watch. In order to fit properly, a watch needs to be a balance between tight and loose, with a perfect amount of movement. 
+Wearing a watch too tight isn't going to [cause your watch to stop working](/why-watches-stop-working/) or anything like that, but it will definitely be uncomfortable. 
+ 
+The fit of the watch is one of the many details that are vital to owning a watch. In order to fit properly, a watch needs to be a balance between tight and loose, with the perfect amount of movement. 
 
 The way the watch fits upon your wrist is more than simply a fit. It affects the way a watch feels, looks, as well as it’s longevity as well as providing style, coziness, and purpose.
 

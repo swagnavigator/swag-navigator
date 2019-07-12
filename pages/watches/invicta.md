@@ -274,6 +274,10 @@ If you prefer minimalistic, clean designs, you may want to look elsewhere.
 
 Conversely, this watch is perfect for those who want a more sophisticated looking watch face, packed full of added features (such as the chronograph).
 
+It's important to note that some have reported this watch's band to be a bit uncomfortable. 
+
+However, this problem is usually caused by wearing the watch too tight around your wrist. Make sure you know [how tight a watch should be](/how-tight-should-watch=be/) before you buy one!
+
 ## Introduction to Invicta
 ![Invicta watch example](/img/watches/invicta/invicta-watch-example.jpeg){: .img-right}
 

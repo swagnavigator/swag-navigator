@@ -2,14 +2,12 @@
 layout: posts
 title: "The Best Solar Powered Watches for Men in 2019 (Stylish)" 
 permalink: /watches/solar/
-author: Tochi Duhu
-toc: true
 ---
 ![Solar watches page header](/img/watches/solar/solar-watch-header.gif){: .img-right}
 
 Here's the deal:
 
-You can tell a lot about a man from the watch he wears on his wrist. 
+You can tell a lot about a man from the [watch](/watches/) he wears on his wrist. 
 
 Your timepiece needs to be unique, stylish, and fitting to your personality.
 
@@ -215,7 +213,7 @@ It’s flat, light, and durable. This means that it’s perfect as a daily wear 
 
 This is Citizen’s Eco-Drive stainless steel solar atomic watch.
  
-Citizen has crafted a watch that’s both simple, yet functional and technically advanced. 
+[Citizen](/watches/citizen/) has crafted a watch that’s both simple, yet functional and technically advanced. 
 
 Using eco drive technology, citizen has answered the concerns of environmental responsibility without compromising quality or style. 
 
@@ -335,6 +333,8 @@ A black resin band provides comfort and durability.
 It’s a stylish and sporty design perfect for the man on the go. 
 
 The neutral face is a versatile and athletic style. Its jam packed with features to help the toughest of activities.
+
+Some have reported this watch's strap to be a bit uncomfortable. This problem is usually caused by improperly adjusting your watch – make sure you know [how to fit a watch](/how-tight-should-watch-be/) before you put one on!
 
 ## Casio Edifice
 <img class="img-right" alt="casio edifice mens solar watch" src="/img/watches/solar/edifice.jpg" />

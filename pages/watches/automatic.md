@@ -8,9 +8,9 @@ toc: true
 
 Automatic Watches, also known as self-winding watches, are a convenient twist on a timeless standard.
 
-More than just your standard mechanical watch, they offer convenience with the same style as a manual watch. 
+More than just your standard mechanical watch, they offer convenience with the same style as a [mechanical watch](/watches/mechanical/). 
 
-They're a wonderful accessory in any man's wardrobe – with that being said, here is a list of the best automatic watches we could find.
+They're a wonderful accessory in any man's wardrobe – with that being said, here is a list of the best automatic watches around.
 
 ## Zoom in: 3 Best Automatic Watches
 
@@ -45,8 +45,6 @@ They're a wonderful accessory in any man's wardrobe – with that being said, he
 
 ![Frederique Constant Watch](/img/watches/automatic/Frederique.jpg){: .img-right}
 
-Gorgeous Stainless-Steel Automatic Analog Watch with Black Leather
-
 Frederique Constant creates superb watches. With attention to details and a passion for design, their craftsmanship creates striking watches. 
 
 As a brand, they are dedicated to continuing to offer innovation while keeping with the traditions that watch aficionados have grown to expect. Each watch is classical, while remaining relevant throughout the ages.
@@ -69,8 +67,6 @@ Regardless of the collection, be it formal or casual, the Frederique constant’
 
 ![Xezo Incognito Watch](/img/watches/automatic/Xezo.jpg){: .img-right}
 
-Luxury Self-Winding Watch with Miyota Automatic Movement
-
 Handmade quality is what Xezo delivers. And they deliver it well. 
 
 Their products, namely their watches, are a blend of beauty, function and value. Combining superior materials and craftsmanship create a line of magnificent watches that don’t compromise.
@@ -90,8 +86,6 @@ Additional features include water resistance up to 100 meters, shock resistance,
 ## [3. Laco 861688 Automatic Watch](https://www.amazon.ca/Laco-1925-861688-Stainless-Automatic/dp/B009LDPQPQ/ref=sr_1_247?keywords=automatic+watches&qid=1559108134&refinements=p_72%3A11192170011&rnid=11192166011&s=gateway&sr=8-247)
 
 ![Laco Watch](/img/watches/automatic/Laco.jpg){: .img-right}
-
-1925 Laco Men's classic Stainless-Steel Automatic Watch
 
 Since 1925, Laco has been creating “Timepieces with a distinct character”. As a brand, and as craftsmen, they want to stand out from the crowd for their distinct quality and appeal.
 
@@ -115,9 +109,7 @@ Altogether this watch is beautifully constructed and is an impeccable accessory 
 
 ![A.B. Art Watch](/img/watches/automatic/AB-Art.jpg){: .img-right}
 
-Swiss Automatic Watch with Black Dial and Leather Strap
-
-Authentic and different watches is what A.B. Art is all about. a.b. art stands for authentic basic art, which is exactly what they provide. 
+Authentic and different watches is what A.B. Art is all about. A.B. art stands for authentic basic art, which is exactly what they provide. 
 
 This Swiss watch company prides itself on being able to give their customers something beyond mere glitz or glamour. Instead, they give their customers subtle but high-quality sophistication.
 
@@ -251,6 +243,8 @@ In an interview with The New York Times, American singer-songwriter and watch co
 There’s something timeless about a traditional watch, something beautiful and serene. It’s more than just about telling the time. It’s about the timeless sense of style emanating from one’s wrist. 
 
 Watches are much more than a statement piece – it’s the statement that your watch shares, what you want to show off to the world that words can’t explain.
+
+Different watch styles say a lot about the wearer. Someone wearing a [wooden watch](/watches/wooden/) probably has different taste than someone wearing an [invicta watch](/watches/invicta/), for example. 
 
 Mayer continues:
 

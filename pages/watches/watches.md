@@ -27,6 +27,72 @@ In this article I intend to show you what you need to look out for before you pu
 
 So, without further ado, let's begin.
 
+## Best Invicta Watches
+
+[Invicta watches](/watches/invicta/) are elegantly crafted with high-quality materials. 
+
+When you buy an Invicta watch, you can really feel (and see) the quality. 
+
+They pride themselves in creating affordable luxury watches. 
+
+If you want to look incredibly stylish on a budget, then an Invicta is probably right for you. 
+
+[Check Out Our Invicta Watches Guide](/watches/invicta/){: .btn .btn--success}
+
+## Best Citizen Watches
+
+[Citizen watches](/watches/citizen/) are also highly praised in the watch community, not only for their quality design but for the craftsmanship that goes into every watch as well. 
+
+After putting a nice watch on your wrist, you'll immediately look more put together, stylish, and confident. 
+
+If you want to look more stylish and confident, you should consider purchasing a Citizen watch. 
+
+[Check Out Our Citizen Watches Guide](/watches/invicta/){: .btn .btn--success}
+
+## Best Wooden Watches
+
+[Wooden watches](/watches/wooden/) are definitely unique, to say the least. 
+
+The entire casing (and sometimes even the watch strap) is crafted with wood. 
+
+Wooden watches are – when done right – eye-catching, stylish, and a great way to bring your outfit to the next level. 
+
+Sure, they may be a bit different, but that makes them an even better way to stand out in a crowd. 
+
+[Check Out Our Wooden Watches Guide](/watches/wooden/){: .btn .btn--success}
+
+## Best Automatic Watches 
+
+Self-winding watches – otherwise known as [automatic watches](/watches/automatic/) – are pretty awesome as well! 
+
+They're easy to maintain, stylish, and you can usually find great watches for a low price. 
+
+[Check Out Our Automatic Watches Guide](/watches/wooden/){: .btn .btn--success}
+
+## Best Mechanical Watches 
+
+[Mechanical watches](/watches/mechanical/) are more traditional, but still an essential part of any serious watch enthusiast's collection.
+
+Unlike automatic watches, mechanical watches must be wound manually on a regular basis. 
+
+You can either choose to wind the watch yourself, or you can use a watch winder instead. 
+
+Either way, mechanical watches are a bit more high maintnence than a digital watch, for example. 
+
+Still, there's something soothing about winding/maintaining a watch yourself... 
+
+[Check Out Our Mechanical Watches Guide](/watches/wooden/){: .btn .btn--success}
+
+## Best Solar Watches 
+
+Most watches are powered by a small watch battery. 
+
+They need to be replaced from time to time, and a faulty battery will completely prevent your watch from functioning. 
+
+Solar watches, on the other hand, are entirely powered by the sun. They're pretty darn cool, and they still look as good as a regular watch.
+
+[Check Out Our Solar Watches Guide](/watches/solar/){: .btn .btn--success}
+
 ## How to Choose a Watch That Suits You 
 
 Price is not the most important aspect to consider when purchasing a watch.
@@ -82,7 +148,6 @@ Here’s what you really need to know about the different types of watches on th
 An analog watch comes with a miniature clock-face of 12 hours, with an hour-hand and a minute-hand. 
 
 Some modern analog watches offer a third second-hand, for better accessibility.
-
 
 ### Digital Watch
 <img class="img-right lazyload" alt="digital watch example" data-src="/img/watches/styles/digital.jpg" /> 
@@ -142,6 +207,24 @@ It’s a portable device that is generally controlled by your smartphone, offeri
 <img class="img-right lazyload" alt="smart watch example" data-src="/img/watches/styles/smart.jpg" />
 
 All these categories of watches are chargeable and use a touchscreen – some are even waterproof.
+
+## Why do Watches Stop Working? 
+
+There are many reasons why your watch may have stopped working. 
+
+After all, the internals of a watch are pretty darn complicated. 
+
+Still, there are some common issues that can cause a watch to stop working, many of which we address in an awesome article we wrote. 
+
+If you want to learn [why watches stop working](/why-watches-stop-working/), check it out!
+
+## How Tight Should a Watch Be? 
+
+If you think wearing a watch is uncomfortable, it's probably because you're not adjusting the watch properly. 
+
+I've been quite irritated with watches in the past. They would either leave a mark on my wrist, or slide all around.
+
+Eventually I learned how to properly adjust my watch every time. If you want to learn [how tight a watch should fit](/how-tight-should-watch-be/) (and how to fit your watch perfectly), check out our guide!
 
 ## Watch Budgets 
  

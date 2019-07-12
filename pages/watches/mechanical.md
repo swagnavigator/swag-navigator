@@ -2,15 +2,13 @@
 layout: posts
 title: "The Best Mechanical Watches for Men (2019)" 
 permalink: /watches/mechanical/
-author: Tochi Duhu
-toc: true
 ---
 
-Mechanical watches immediately stand out from your average modern watch as the original watches, but you want to make sure that the watch you get is a perfect combination of nostalgia, function and fashion.
+Mechanical watches immediately stand out from the crowd in terms of style, but you want to make sure that the watch you get is a perfect combination of nostalgia, function and fashion.
 
-Watches are simply aesthetic tools with a specific purpose, in the most modest terms. Mechanical watches are arguably the most time-honoured type of watches as gears power them instead of electricity. 
+Watches are aesthetic tools with a specific purpose. Mechanical watches are arguably the most time-honoured type of watches, as gears power them instead of electricity. You won't have to worry about your [battery causing your watch to stop working](/why-watches-stop-working/) or having to replace it.
 
-Regardless of the historical nostalgia, these mechanical watches have kept up with the times ensuring their innovation and relevance.
+In this guide, we're going to take a look at some of the nicest mechanical watches on the market (for the money). 
 
 ## Zoom in: 3 Best Mechanical Watches
 
@@ -236,7 +234,3 @@ Though each watch is different due to its design and craftsmanship, so the power
 Winding intervals or the time between windings will depend upon the watch itself. Some watches require winding every day, while some can last a couple of days between windings. 
 
 Most watch enthusiast get into the habit of winding their watches daily. It’s easier to do it regularly than wait for the mechanism to wind down completely.
-
-**Citations**
-
-* Singleton, M. (2015). Mechanical watchmaker on the Apple Watch: 'I wouldn't say I consider it a threat'. [online] The Verge: Interview with John Tarantino. Available at: https://www.theverge.com/2015/4/27/8483131/apple-watch-vs-mechanical-price-specs-martenero-ceo-interview

@@ -8,11 +8,9 @@ toc: true
 
 ![Citizen Black Watch](/img/watches/citizen/header.jpg){: .img-right}
 
-Citizen watches are superb in their craftsmanship of every watch; however, you need to make sure the watch you get is the perfect accessory to wear around your wrist.
+Citizen is an innovative brand in the watch industry as they provide continued distinction, inspiration, admiration, and above all, amazing craftsmanship. Citizen is a brand that prides itself on quality and longevity. 
 
-Citizen is an innovative brand within the watch industry as they provide continued distinction, inspiration, admiration, and above all, amazing craftsmanship. Citizen is a brand that prides itself on quality and longevity. 
-
-With a watch that will last you decades to come, it’s important that you not only love it but that it works for you.
+With a watch that will last you decades to come, it’s important that you find one that's perfect for you. 
 
 ## Zoom in: 3 Best Citizen Watches
 
@@ -87,13 +85,13 @@ With a watch that will last you decades to come, it’s important that you not o
 </div>
 </div>
 
-Citizen Men's Eco-Drive Chronograph Wrist Watch with Perpetual Calendar and Date
-
 Rose gold accents, tile patterned bezel, a crocodile embossed leather band, contrast stitching, and a beautifully balanced but busy dial face are all features of the design of this watch. 
 
 With a round rose gold dial, this watch is ideal for the wearer that needs a watch with a gorgeous look but a greater emphasis on function.
 
 Although visually appealing, style is not the main purpose of this model. This citizen watch is a beautiful watch that prides itself on functionality. 
+
+This watch uses Citizen's Eco Drive technology, which uses the sun to charge the battery. It's essentially a [solar powered watch](/watches/solar/)
 
 ![Citizen Rose Gold Watch](/img/watches/citizen/citizen-bl.jpg){: .img-middle}
 
@@ -293,6 +291,8 @@ Together with the style, this watch is ideal for the man on the go that needs in
 
 ## Buyer's Guide: Citizen Watches
 
+Citizen watches are high quality and fairly priced. You could say the same about [Invicta watches](/watches/invicta/), which we also have an awesome guide about!
+
 Citizen is celebrating a century of superior watchmaking history. Their message is “better starts now”, which is a message that advocates for accomplishing goals that better the lives of people as individuals and as a society. 
 
 As a brand, Citizen explains that everyone including themselves bears the responsibility to bring about a positive change in the world by creating a meaningful impact on the environment.
@@ -358,6 +358,8 @@ In a quartz watch, the power comes from the battery itself which requires only m
 Where mechanical and quartz differ in terms of watch operation is of course how they are powered but also in the motion of the second hand. 
 
 A [mechanical watch’s](/watches/mechanical) second hand will have a sweeping motion while a quartz watch will have the second hand move in individual ticks.
+
+It's also important to note that a higher quality movement will probably last longer than a cheap movement type. If you want to know more about [why watches stop working](/why-watches-stop-working/), check out our article!
 
 ### Watch Size
 

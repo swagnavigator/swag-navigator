@@ -10,6 +10,10 @@ If your watch isn’t functioning properly, then the watch itself is nothing mor
 
 We're going to be talking about the most common problems (and their solutions) in this article. 
 
+By the way, the best way to avoid problems with your watch is buying a *high-quality watch in the first place!*
+
+[Citizen](/watches/citizen/) and [Invicta](/watches/invicta/) are some of our favorite affordable luxury watch brands. They make awesome watches that are unlikely to break on you!
+
 ## Your Watch Stopped Working with a New Battery? 
 
 The average modern watch requires a battery. In theory, a new battery should function properly for a long time – unfortunately, that’s not always the case. 
