@@ -39,7 +39,7 @@ As you can see, you shouldn’t make a decision about the watch you want to wear
 
 Here are the right questions to be asking yourself: 
 
-** 1. Do I like the watch?**
+**1. Do I like the watch?**
 
 First and foremost, you have to like the watch. It is very common to see people getting influenced by hype and buying an expensive watch, just to realize after a month or two that it’s not really something they would want to wear after all. 
 
