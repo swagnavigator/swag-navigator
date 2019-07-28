@@ -1,5 +1,6 @@
 ---
 title: "11 Characteristics of a Good Watch [What to Look For]"
+permalink: /good-watch-characteristics/
 
 ---
 
