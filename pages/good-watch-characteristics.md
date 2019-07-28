@@ -1,7 +1,7 @@
 ---
 title: "11 Characteristics of a Good Watch [What to Look For]"
 permalink: /good-watch-characteristics/
-
+layout: posts
 ---
 
 With so many different brands and varieties of watches on the market, it can be difficult to decide which watch is the best for you. 
