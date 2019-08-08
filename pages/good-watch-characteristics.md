@@ -19,16 +19,16 @@ One of the most immediately noticeable aspects of a watch is the [material](http
 Different materials may be more or less durable and can also greatly affect the overall weight of a watch.
 
 ### Stainless Steel
+![Stainless Steel Watch Case](/img/watches/characteristics/stainless.jpg){: .img-right}
 
 Coming into use in the 1930's, stainless replaced gold as the most widespread and popular case material.
 
 Stainless steel is more cost effective, as well as corrosion-resistant and lightweight. These attributes make it a much more functional and utility-based watch material.
 
-![Stainless Steel Watch Case](/img/watches/characteristics/stainless.jpg){: .img-right}
-
 By comparison, gold was used in a time when watches were seen more as a status symbol than a functional accessory.
 
 ### Titanium
+![Titanium Watch Case](/img/watches/characteristics/titanium.jpg){: .img-right}
 
 Titanium had its debut in the watch market much later than stainless steel. The first watch to utilize titanium was created by Citizen in 1970.
 
@@ -159,8 +159,6 @@ A watch rated to 30 meters water resistant can withstand accidental splashes. It
 
 Water resistance seals degrade over time, making it riskier with an older watch.
 
-![Water Resistance](/img/watches/characteristics/water.jpg){: .img-middle}
-
 ### 5 BAR / 5 ATM / 50m / 165ft
 
 At 50 meters resistance, a watch can be worn while showering or swimming, but should not be used for anything deeper than that.
@@ -261,7 +259,7 @@ Sometimes watches can be found with both brushed and polished finish, in order t
 In order to achieve a blasted finish, watchmakers sandblast the case, which is a process where 
 sand or glass particles are shot at high speeds at the product.
 
-![blasted finish watch strap](/img/watches/characteristics/blasted.jpg){: .img-right}
+![blasted finish watch strap](/img/watches/characteristics/blasted.jpg){: .img-middle}
 
 This procedure creates a matte finish where hardly any light is reflected. Dive watches commonly receive this finish.
 
@@ -280,12 +278,11 @@ That's why reputation is an important characteristic to consider when purchasing
 Certain brands have long been renowned for their well-made and reliable timepieces.
 
 ### Rolex
+![Rolex logo](/img/watches/characteristics/rolex-logo.jpg){: .img-right}
 
 Even if you know almost nothing about watches, you've probably heard of Rolex, and that's not for no reason.
 
 Rolex has been crafting watches and innovating in the field for many, many years.
-
-![Rolex](/img/watches/characteristics/rolex.jpg){: .img-right}
 
 The Oyster, created in 1926, was the ever waterproof watch. In 1945, they created the Datejust, the first watch with an automatically changing date.
 
@@ -315,11 +312,11 @@ Watches made by Citizen are known for their reliability and longevity, as well a
 Something unique to Citizen is their Eco-Drive technology. Watches with Eco-Drive are high-quality [solar powered watches](/watches/solar/).
 
 ### Invicta
-![Invicta Watch](/img/watches/characteristics/invicta-logo.png){: .img-right}
+![Invicta Watch](/img/watches/characteristics/invicta.png){: .img-right}
 
 One of the more impressive facts about Invicta is that they have been in business for over 180 years! 
 
-[Invicta](/watches/invicta/){: .img-right} is another brand that doesn't focus on luxury watches, but instead aims to make quality watches at reasonable prices.
+[Invicta](/watches/invicta/) is another brand that doesn't focus on luxury watches, but instead aims to make quality watches at reasonable prices.
 
 These watches tend to be on the larger side, giving them a more masculine appearance, which may or may not be to your liking.
 
@@ -364,7 +361,7 @@ Additionally, the hands may move when the watch is shaken.
 A higher end watch will feel sturdier and heavier in the hand. It will also have a strong comfortable bracelet or band and a durable case.
 
 ## 10. Value Appreciation 
-![watch value appreciation](/img/watches/characteristics/value-appreciation.jpg){: .img-right}
+![watch value appreciation](/img/watches/characteristics/watch-appreciation.jpg){: .img-right}
 
 Though it may not have an immediately noticeable effect on your watch, value appreciation is nonetheless an important characteristic to consider when purchasing a timepiece.
 
@@ -406,7 +403,7 @@ That doesn't mean that you should base your decision entirely on the [country](h
 With that said, there are two countries that stand out far beyond the rest in the world of watches: Switzerland and Japan.
 
 ### Switzerland
-![Swiss watch](/img/watches/characteristics/swiss-watch.jpg){: .img-right}
+![Swiss watch](/img/watches/characteristics/swiss.jpg){: .img-right}
 
 Probably the most famous country known for its timepieces, Switzerland has a well-established watch-making industry.
 
