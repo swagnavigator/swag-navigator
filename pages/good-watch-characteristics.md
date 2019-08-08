@@ -37,6 +37,7 @@ Similar to stainless steel, titanium is also very durable and corrosion-resistan
 This makes it a comfortable yet durable alternative. However, it has not seen the same widespread level of adoption that stainless steel has, partially due to the fact that it is more costly.
 
 ### Ceramic
+![Ceramic Watch Case](/img/watches/characteristics/ceramic.jpg){: .img-right}
 
 While it may sound like a type of cookware, the ceramic material used in some watches is very different and much more durable than the type you might use in the kitchen.
 
@@ -72,6 +73,8 @@ Additionally, while it is very scratch-resistant, that comes at the cost of bein
 
 More akin to plastic than glass, acrylic (also known as plexiglass) is light, durable and the most affordable form of crystal.
 
+![acrylic crystal](/img/watches/characteristics/acrylic-crystal.jpg){: .img-middle}
+
 Because it is similar to plastic, it is not very scratch-resistant. However, acrylic crystals can be polished to remove smaller scratches.
 
 While it is cheap and useful, the fact that it scratches easily means that acrylic crystals are mostly used in lower end or children's watches.
@@ -79,6 +82,8 @@ While it is cheap and useful, the fact that it scratches easily means that acryl
 ### Mineral Crystal
 
 While it may sound somewhat exotic, mineral crystals are simply ordinary glass that have been treated with heat or chemicals to increase scratch and shatter resistance.
+
+![mineral crystal](/img/watches/characteristics/mineral.jpg){: .img-middle}
 
 Mineral glass is much more durable than ordinary glass but doesn't perform as well as sapphire crystal and will eventually retain scratches.
 
@@ -99,7 +104,7 @@ Within a quartz watch resides a battery that sends an electrical signal through 
 
 From there, the circuit measures the vibrations and converts them to a single tick each second, causing the watch hands to move in increments.
 
-<!-- Quartz Movement Diagram -->
+![quartz watch movement diagram](/img/watches/characteristics/quartz-movement.jpg){: .img-middle}
 
 Due to the precise frequency of the crystal's vibrations, quartz movements keep time very well.
 
@@ -128,6 +133,9 @@ Probably the biggest benefit of a mechanical movement is the aesthetics and desi
 Similar to mechanical movements, automatic watches use a mainspring to power the watch hands. 
 
 However, instead of needing to be wound, automatic movements utilize kinetic energy generated from the wearer's wrist when it's in motion.
+
+
+![automatic watch movement diagram](/img/watches/characteristics/automatic-watch-movement.jpg){: .img-middle}
 
 This is done by attaching a metal weight known as a rotor to the mechanical movement. The rotor spins freely, allowing it to generate energy.
 
@@ -170,6 +178,7 @@ These watches are suitable for swimming or snorkeling but not for diving.
 At 300 meters water resistance, watches can be used in all of the above situations along with saturation diving.
 
 ## 5. Type of Watch Strap 
+![Watch Straps](/img/watches/characteristics/strap.jpg){: .img-right}
 
 Watch straps are an important part of the overall presentation of a watch. [Different straps](https://www.primermagazine.com/2016/spend/a-comprehensive-guide-to-watch-straps){: target=_"blank"} can greatly change the aesthetics and looks of a watch.
 
@@ -179,11 +188,10 @@ Thankfully, straps are easy to swap and cost much less than watches themselves. 
 
 Even if you don't have a large collection of watches, owning different straps will allow you to imbue your timepieces with a great deal of variety.
 
-![Watch Straps](/img/watches/characteristics/strap.jpg){: .img-right}
-
 Straps also play a major role in how [comfortably fitting](/how-tight-should-watch-be/) a watch is. An ill-fitting strap can be detrimental and cause chafing on the wrist.
 
 ### Zulu
+![Zulu Straps](/img/watches/characteristics/zulu.jpg){: .img-right}
 
 Although they share many similarities with NATO straps,  Zulu straps have a few key differences that set them apart.
 
@@ -192,6 +200,7 @@ Zulu straps are made with thicker materials, and have larger hardware. With a wa
 Due to the increased bulk of Zulu straps, they take longer to break in, but also tend to last longer.
 
 ### Oyster
+![Oyster watch strap](/img/watches/characteristics/oyster.jpg){: .img-right}
 
 The Oyster bracelet is long-standing classic, having been introduced by Rolex in the 1930's.
 
@@ -200,6 +209,7 @@ It has a three-piece link design, with long and think links. Not only does this 
 The smaller number of links on the bracelet results in fewer possible break points. The downside to this is that the bracelet may feel somewhat stiffer in comparison to other bracelets.
 
 ### President
+![President Bracelet](/img/watches/characteristics/president.jpg){: .img-right}
 
 This bracelet famously holds its name due to it being worn by President Dwight D. Eisenhower.
 
@@ -207,13 +217,12 @@ He was apparently received Rolex's 150,000th chronometer as a sign of respect.
 
 While the width of each link is similar to that of the Oyster, there is a large difference in the total number of links.
 
-![President Bracelet](/img/watches/characteristics/president.jpg){: .img-left}
-
 The President bracelet packs in more links of shorter lengths. This makes the bracelet less stiff, but has a negative effect in overall durability. This bracelet may be prone to slight stretching.
 
 With a higher number of links, the President is seen as more formal. This makes the band more versatile overall, since it can be dressed up or down.
 
 ### Shark Mesh
+![shark mesh watch strap](/img/watches/characteristics/shark-mesh.jpg){: .img-right}
 
 This ferocious sounding bracelet actually had its name originate from an ad campaign by Omega for their novel dive watch, the Ploprof 600.
 
@@ -231,7 +240,11 @@ They may not be the most immediately noticeable feature of a watch, but [finishe
 
 Most watch cases are made out of stainless steel, which can be finished in three ways: polished, brushed, or blasted.
 
-Polished finished gleam like a mirror, and reflections are easy to see in the watch case. These cases are run under a polishing wheel for a long time to get their reflective sheen.
+Polished finished gleam like a mirror, and reflections are easy to see in the watch case.
+
+![polished finish watch strap](/img/watches/characteristics/polished.jpg){: .img-middle} 
+
+These cases are run under a polishing wheel for a long time to get their reflective sheen.
 
 ### Brushed Finish
 
@@ -247,6 +260,8 @@ Sometimes watches can be found with both brushed and polished finish, in order t
 
 In order to achieve a blasted finish, watchmakers sandblast the case, which is a process where 
 sand or glass particles are shot at high speeds at the product.
+
+![blasted finish watch strap](/img/watches/characteristics/blasted.jpg){: .img-right}
 
 This procedure creates a matte finish where hardly any light is reflected. Dive watches commonly receive this finish.
 
@@ -282,6 +297,7 @@ Other firsts include:
 They are currently the largest high-end watch company in the world and if you buy from Rolex, you can be confident in the quality you're getting.
 
 ### Tissot
+![tissot watch logo](/img/watches/characteristics/tissot-logo.jpg){: .img-right}
 
 A Swiss watchmaker, Tissot is known for high-quality watches that are reasonably priced. 
 
@@ -290,6 +306,7 @@ Despite their comparatively low prices, Tissot timepieces still meet all the sta
 They became a part of the prestigious watch brand Swatch in 1983.
 
 ### Citizen
+![citizen watch logo](/img/watches/characteristics/citizen-logo.png){: .img-right}
 
 [Citizen](/watches/citizen/) is another highly respected watch brand. While not the most expensive, luxurious option on the market, they offer great value for their price point.
 
@@ -298,12 +315,11 @@ Watches made by Citizen are known for their reliability and longevity, as well a
 Something unique to Citizen is their Eco-Drive technology. Watches with Eco-Drive are high-quality [solar powered watches](/watches/solar/).
 
 ### Invicta
+![Invicta Watch](/img/watches/characteristics/invicta-logo.png){: .img-right}
 
 One of the more impressive facts about Invicta is that they have been in business for over 180 years! 
 
-[Invicta](/watches/invicta/) is another brand that doesn't focus on luxury watches, but instead aims to make quality watches at reasonable prices.
-
-![Invicta Watch](/img/watches/characteristics/invicta.jpg){: .img-left}
+[Invicta](/watches/invicta/){: .img-right} is another brand that doesn't focus on luxury watches, but instead aims to make quality watches at reasonable prices.
 
 These watches tend to be on the larger side, giving them a more masculine appearance, which may or may not be to your liking.
 
@@ -348,6 +364,7 @@ Additionally, the hands may move when the watch is shaken.
 A higher end watch will feel sturdier and heavier in the hand. It will also have a strong comfortable bracelet or band and a durable case.
 
 ## 10. Value Appreciation 
+![watch value appreciation](/img/watches/characteristics/value-appreciation.jpg){: .img-right}
 
 Though it may not have an immediately noticeable effect on your watch, value appreciation is nonetheless an important characteristic to consider when purchasing a timepiece.
 
@@ -363,7 +380,7 @@ Unfortunately, attempting to predict exactly how much a watch will be worth in t
 
 Rolex and Patek Philippe are brands that offer watches that usually increase in value over time. 
 
-![Patek Watch](/img/watches/characteristics/patek.jpg){: img-right}
+![Patek Watch](/img/watches/characteristics/patek.jpg){: .img-left}
 
 Of course, there any many factors that influence value over time, such as brand recognition, demand, and exclusivity, among others.
 
@@ -389,16 +406,16 @@ That doesn't mean that you should base your decision entirely on the [country](h
 With that said, there are two countries that stand out far beyond the rest in the world of watches: Switzerland and Japan.
 
 ### Switzerland
+![Swiss watch](/img/watches/characteristics/swiss-watch.jpg){: .img-right}
 
 Probably the most famous country known for its timepieces, Switzerland has a well-established watch-making industry.
 
 There are centuries of tradition behind the watchmaking in Switzerland, and they take pride in their craft.
 
-![Tissot Watch](/img/watches/characteristics/tissot.jpg){: .img-left}
-
 Rolex was founded in England in 1905, but has been based in Switzerland since moving there in 1919. Other big watchmakers from Switzerland include: Omega, Tissot, Zenith, Hublot, and Breitling.
 
 ### Japan
+![Japanese watches](/img/watches/characteristics/japan.jpg){: .img-right}
 
 With their fast-paced technological advancement, Japan has been able to produce well-made watches on a large scale, allowing for more affordable prices. 
 
@@ -413,7 +430,5 @@ Beyond this, Japan is also recognized for their digital and hybrid watches. Casi
 Watches are complex machines with a large number of parts and a wide variety of characteristics. 
 
 In this article, we covered the eleven most important characteristics to keep in mind when looking for watch.
-
-![Luxury Watch](/img/watches/characteristics/conclusion.jpg){: img-right}
 
 If you keep these features in mind, and do your research when buying, you can come away with a quality timepiece that will [last for years](/why-watches-stop-working/) to come.
