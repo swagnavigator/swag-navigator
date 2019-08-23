@@ -4,6 +4,8 @@ permalink: /good-watch-characteristics/
 layout: posts
 ---
 
+![watch characteristics header imge](/img/headers/watch-characteristics.jpg)
+
 With so many different brands and varieties of watches on the market, it can be difficult to decide which watch is the best for you. 
 
 Just choosing a watch can seem like a daunting challenge, especially for those with limited experience.
@@ -11,6 +13,8 @@ Just choosing a watch can seem like a daunting challenge, especially for those w
 However, there are certain characteristics to look for that can help you narrow and refine your search.
 
 In this article, we will be reviewing the 11 most important characteristics of a good watch.
+
+![11 characteristics of a good watch infographic](/img/infographics/watch-characteristics.jpg)
 
 ## 1. The Material of the Watch Case
 
