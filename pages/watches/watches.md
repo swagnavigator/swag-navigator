@@ -174,24 +174,6 @@ It’s a portable device that is generally controlled by your smartphone, offeri
 
 All these categories of watches are chargeable and use a touchscreen – some are even waterproof.
 
-## Why do Watches Stop Working? 
-
-There are many reasons why your watch may have stopped working. 
-
-After all, the internals of a watch are pretty darn complicated. 
-
-Still, there are some common issues that can cause a watch to stop working, many of which we address in an awesome article we wrote. 
-
-If you want to learn [why watches stop working](/why-watches-stop-working/), check it out!
-
-## How Tight Should a Watch Be? 
-
-If you think wearing a watch is uncomfortable, it's probably because you're not adjusting the watch properly. 
-
-I've been quite irritated with watches in the past. They would either leave a mark on my wrist, or slide all around.
-
-Eventually I learned how to properly adjust my watch every time. If you want to learn [how tight a watch should fit](/how-tight-should-watch-be/) (and how to fit your watch perfectly), check out our guide!
-
 ## Watch Budgets 
  
 The different grades of watches vary in the craftsmanship, quality of materials, and the amount of labor involved.
