@@ -38,7 +38,7 @@ Or, if you'd rather buy a watch now, you're in luck - below we have selected som
 <td><a class="btn btn--info" href="/watches/citizen/">Read the Guide</a></td>
 </tr>
 <tr>
-<td><img class="table-image lazyloaded" alt="best wooden watches guide picture" src="/img/watches/wooden/bobobird-center.jpg"></td>
+<td><img class="table-image lazyloaded" alt="best wooden watches guide picture" src="/img/watches/wooden/uwood.jpg"></td>
 <td><a href="/watches/wooden/">Best Wooden Watches</a></td>
 <td><a class="btn btn--info" href="/watches/wooden/">Read the Guide</a></td>
 </tr>
