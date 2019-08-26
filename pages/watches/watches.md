@@ -28,17 +28,17 @@ Or, if you'd rather buy a watch now, you're in luck - below we have selected som
 <th>Check it Out</th>
 </tr>
 <tr>
-<td><img class="table-image lazyloaded" alt="best invicta watches guide pic" src="/img/watches/characteristics/invicta.png"></td>
+<td><img class="table-image lazyloaded" alt="best invicta watches guide pic" src="/img/watches/invicta/model-8929ob.jpg"></td>
 <td><a href="/watches/invicta/">Best Invicta Watches</a></td>
 <td><a class="btn btn--info" href="/watches/invicta/">Read the Guide</a></td>
 </tr>
 <tr>
-<td><img class="table-image lazyloaded" alt="best citizen watches guide" src="/img/watches/characteristics/citizen-logo.png"></td>
+<td><img class="table-image lazyloaded" alt="best citizen watches guide" src="/img/watches/citizen/eco-drive.jpg"></td>
 <td><a href="/watches/citizen/">Best Citizen Watches</a></td>
 <td><a class="btn btn--info" href="/watches/citizen/">Read the Guide</a></td>
 </tr>
 <tr>
-<td><img class="table-image lazyloaded" alt="best wooden watches guide picture" src="/img/watches/wooden/wooden-watch-example.jpg"></td>
+<td><img class="table-image lazyloaded" alt="best wooden watches guide picture" src="/img/watches/wooden/bobobird-center.jpg"></td>
 <td><a href="/watches/wooden/">Best Wooden Watches</a></td>
 <td><a class="btn btn--info" href="/watches/wooden/">Read the Guide</a></td>
 </tr>
