@@ -26,13 +26,9 @@ The guides below should help!
 
 There are so many things to consider - design, material, brand, price, features, etc. 
 
-Besides, how can you tell what's important and what's not? 
-
-*In this guide, we're going over the 11 most important characteristics of a good watch.* 
-
-It's a must read for watch wearing newbies!</p>
+*In this guide, we're going over the 11 most important characteristics of a good watch.*</p>
 <div class="btn">
-<a class="learn-button cta-button" href="/good-watch-characteristics/">Read the Guide</a>
+<a class="btn btn--info" href="/good-watch-characteristics/">Read the Guide</a>
 </div>
 </div>
 </div>
