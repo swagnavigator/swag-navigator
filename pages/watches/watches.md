@@ -19,7 +19,7 @@ If you want to learn more about watches, we have plenty of [watch tips](/good-wa
 
 Or, if you'd rather buy a watch now, you're in luck - below we have selected some of the best men's watches on the market. 
 
-## Best Mens Watches on the Market 
+## Best Men's Watches Guides
 
 <table>
 <tbody><tr>
