@@ -27,6 +27,44 @@ In this article I intend to show you what you need to look out for before you pu
 
 So, without further ado, let's begin.
 
+<table>
+<tbody><tr>
+<th>PIC</th>
+<th>Guide Name</th>
+<th>Check it Out</th>
+</tr>
+<tr>
+<td><img class="table-image lazyloaded" alt="best invicta watches guide pic" src="/img/watches/chracteristics/invicta.png"></td>
+<td><a href="/watches/invicta/">Best Invicta Watches</a></td>
+<td><a class="btn btn--info" href="/watches/invicta/">Read the Guide</a></td>
+</tr>
+<tr>
+<td><img class="table-image lazyloaded" alt="best citizen watches guide" src="/img/watches/chracteristics/citizen-logo.png"></td>
+<td><a href="/watches/citizen/"">Best Citizen Watches</a></td>
+<td><a class="btn btn--info" href="/watches/citizen/">Read the Guide</a></td>
+</tr>
+<tr>
+<td><img class="table-image lazyloaded" alt="best wooden watches guide picture" src="/img/watches/wooden/wooden-watch-example.jpg"></td>
+<td><a href="/watches/wooden/">Best Wooden Watches</a></td>
+<td><a class="btn btn--info" href="/watches/wooden/">Read the Guide</a></td>
+</tr>
+<tr>
+<td><img class="table-image lazyloaded" alt="best automatic watches guide picture" src="/img/watches/automatic/Tissot.jpg"></td>
+<td><a href="/watches/automatic/">Best Automatic Watches</a></td>
+<td><a class="btn btn--info" href="/watches/automatic/">Read the Guide</a></td>
+</tr>
+<tr>
+<td><img class="table-image lazyloaded" alt="best mechanical watches guide picture" src="/img/watches/mechanical/fossil.jpg"></td>
+<td><a href="/watches/mechanical/">Best Mechanical Watches</a></td>
+<td><a class="btn btn--info" href="/watches/mechanical/">Read the Guide</a></td>
+</tr>
+<tr>
+<td><img class="table-image lazyloaded" alt="best solar watches guide picture" src="/img/watches/solar/axiom.jpg"></td>
+<td><a href="/watches/solar/">Best Solar Watches</a></td>
+<td><a class="btn btn--info" href="/watches/solar/">Read the Guide</a></td>
+</tr>
+</tbody></table>
+
 ## Best Invicta Watches
 
 [Invicta watches](/watches/invicta/) are elegantly crafted with high-quality materials. 
