@@ -233,3 +233,15 @@
   margin: 10px 20px 10px 0; 
   width: 33%;
 }
+
+.site-title-text {
+  float: right;
+  margin-top: 1.1rem;
+}
+
+@media (max-width: 768px) {
+.site-title-text {
+  display: none;
+}
+
+}

@@ -11,7 +11,7 @@
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="/img/logo.png" alt="swag navigator logo"></a>
         {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}"><img style="max-height: 6rem;" alt="Swag Navigator logo" src="/img/logo-no-text.png" /><p>Swag Navigator</p></a>
+        <a class="site-title" href="{{ '/' | relative_url }}"><img style="max-height: 4rem;" alt="Swag Navigator logo" src="/img/logo-no-text.png" /><p class="site-title-text">Swag Navigator</p></a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}
