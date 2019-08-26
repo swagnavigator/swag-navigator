@@ -34,13 +34,13 @@ So, without further ado, let's begin.
 <th>Check it Out</th>
 </tr>
 <tr>
-<td><img class="table-image lazyloaded" alt="best invicta watches guide pic" src="/img/watches/chracteristics/invicta.png"></td>
+<td><img class="table-image lazyloaded" alt="best invicta watches guide pic" src="/img/watches/characteristics/invicta.png"></td>
 <td><a href="/watches/invicta/">Best Invicta Watches</a></td>
 <td><a class="btn btn--info" href="/watches/invicta/">Read the Guide</a></td>
 </tr>
 <tr>
-<td><img class="table-image lazyloaded" alt="best citizen watches guide" src="/img/watches/chracteristics/citizen-logo.png"></td>
-<td><a href="/watches/citizen/"">Best Citizen Watches</a></td>
+<td><img class="table-image lazyloaded" alt="best citizen watches guide" src="/img/watches/characteristics/citizen-logo.png"></td>
+<td><a href="/watches/citizen/">Best Citizen Watches</a></td>
 <td><a class="btn btn--info" href="/watches/citizen/">Read the Guide</a></td>
 </tr>
 <tr>
