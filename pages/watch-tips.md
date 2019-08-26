@@ -17,7 +17,7 @@ The guides below should help!
 <div class="featured-info-box">
 <div class="content">
 <div class="img">
-<img src="/img/watches/characteristics/ceramic.jpg" alt="Ceramic Watch Case">
+<img class="watch-tips-box-img" src="/img/watches/characteristics/ceramic.jpg" alt="Ceramic Watch Case">
 </div>
 <div class="text">
 <h2>Characteristics of a Good Watch</h2>
@@ -27,8 +27,8 @@ The guides below should help!
 There are so many things to consider - design, material, brand, price, features, etc. 
 
 *In this guide, we're going over the 11 most important characteristics of a good watch.*</p>
-<div class="btn">
-<a class="btn btn--info" href="/good-watch-characteristics/">Read the Guide</a>
+<div>
+<a class="btn btn--success btn-center" href="/good-watch-characteristics/">Read the Guide</a>
 </div>
 </div>
 </div>
