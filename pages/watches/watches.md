@@ -5,27 +5,21 @@ permalink: /watches/
 ---
 ![best watches for men header image](/img/watches/header-images/mens-watch.jpg){: .img-right}
 
-Here's the deal:
+**Here's the deal:**
 
-What you wear is a reflection of your personal taste.
-
-What does this mean for you?
-
-The clothes and accessories you choose must be a reflection of the image you wish to project on others. 
-
-Although many men often overlook accessories, having a timepiece on your wrist is a crucial component of any outfit. 
-
-It should be something you would wear with pride, regardless of the season, time, or current trends.
+Watches are an essential component of any man's outfit, and they say a lot about your style. 
 
 However, not all watches were created equally. 
  
-In order to make a sensible choice, you must first learn more about watches and what makes them tick.
+Before you can make the right choice, you need to understand what makes them tick. 
 
 Get it? What makes them tick? 
 
-In this article I intend to show you what you need to look out for before you purchase a good quality wrist watch. 
+If you want to learn more about watches, we have plenty of [watch tips](/tips/) on our blog. 
 
-So, without further ado, let's begin.
+Or, if you'd rather buy a watch now, you're in luck - below we have selected some of the best men's watches on the market. 
+
+## Best Mens Watches on the Market 
 
 <table>
 <tbody><tr>
