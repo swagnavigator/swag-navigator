@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Watches"
+  - title: "Best Watches"
     url: /watches/
-  - title: "Reviews"
-    url: /watches/reviews/
+  - title: "Watch Tips"
+    url: /tips/
   - title: "About"
     url: /about/
   # - title: "Sample Collections"
