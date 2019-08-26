@@ -4,7 +4,17 @@ title: "Watch Tips"
 permalink: /watch-tips/
 ---
 
-## Why do Watches Stop Working? 
+We get it: 
+
+Watches aren't simple. 
+
+In fact, they're far from it. 
+
+Whether you're a watch wearing veteran or you're about to buy your first watch, you'll always have more questions. 
+
+The guides below should help!
+
+## Why Do Watches Stop Working? 
 ![fixing a broken watch](/img/watch-stopped-working/fixing-broken-watch.jpg){: .img-right}
 
 There are many reasons why your watch may have stopped working. 
@@ -16,7 +26,7 @@ Still, there are some common issues that can cause a watch to stop working, many
 [Learn why watches stop working](/why-watches-stop-working/){: .btn .btn--success .btn-center}
 
 ## How Tight Should a Watch Be? 
-![how tight should a watch be image](/img/how-a-watch-should-fit/excellent-watch-fit.jpg){: .img-right}
+![how tight should a watch be image](/img/how-a-watch-should-fit/excellent-watch-fit.jpeg){: .img-right}
 
 If you think wearing a watch is uncomfortable, it's probably because you're not adjusting the watch properly. 
 
@@ -27,7 +37,7 @@ Eventually I learned how to properly adjust my watch every time.
 [Learn how to fit your watch perfectly](/how-tight-should-watch-fit/){: .btn .btn--success .btn-center}
 
 ## How Much Should You Spend on a Watch?
-![how much should you spend on a watch image](/img/how-much-should-spend-watch/){: .img-right}
+![how much should you spend on a watch image](/img/how-much-should-spend-watch/rolex.jpg){: .img-right}
 
 Watches range in price from $10 to $10,000 - but how much do you need to spend to buy a quality watch? 
 
