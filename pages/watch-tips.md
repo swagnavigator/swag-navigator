@@ -17,7 +17,7 @@ The guides below should help!
 <div class="featured-info-box">
 <div class="content">
 <div class="img">
-<img class="watch-tips-box-img" src="/img/watches/characteristics/ceramic.jpg" alt="Ceramic Watch Case">
+<img src="/img/watches/characteristics/ceramic.jpg" alt="Ceramic Watch Case">
 </div>
 <div class="text">
 <h2>Characteristics of a Good Watch</h2>

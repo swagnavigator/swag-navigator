@@ -385,7 +385,8 @@
      display: flex;
      align-items: center;
      .img {
-       width: 50%;
+       max-width: 12rem;
+       margin-left: 3.5rem;
      }
      .text {
        width: 50%;
