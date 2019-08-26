@@ -1,8 +1,12 @@
 ---
 layout: posts
-title: "About" 
+title: "About Me" 
 permalink: /about/
 ---
+
+![Tochi Duhu swag navigator owner picture](/img/tochi.png){: .img-right}
+
+My name is Tochi Duhu, and I am the owner of Swag Navigator. 
 
 Over the years, I have developed a love for watches, especially durable, stylish, heavy watches. The silver stainless steel watches have become my favorite and I love them because of the class they exude.
 
@@ -34,7 +38,9 @@ For me, these points above are the framework and foundation for a quality watch.
 
 ## My Watches
 
-So, the first watch I would like to discuss in this piece is the Citizens men’s arrows Skyhawk A-T analog Quartz bracelet watch. 
+In this section, I'd like to talk about the watches I own in my personal collection.
+
+### 1. Citizen Skyhawk A-T Analog Quartz Bracelet Watch
 
 This is a stainless-steel watch in the Red arrow Skyhawk series.
 
@@ -58,6 +64,8 @@ It isn’t designed to be an “In vogue” piece of accessory. It was designed 
 
 I believe it’s safe to advocate that most Citizen Watches are perceived to be relics. Purchasing one is a great call.
 
+### 2. Citizen Men's Eco-Drive Navihawk Atomic Watch
+
 ![Second Watch](/img/watches/about/watch-2.png){: .img-right}
 
 The next watch in my wardrobe is one of my favs in the citizen catalog; The Citizens men’s Eco-drive Navihawk atomic timekeeping watch.
@@ -79,10 +87,12 @@ One of its features is a functional UTC time/conversion. This also adds to the b
 For me, I have had mine for 5 years and have never had an issue with it. This leads me to the most important feature of this watch. It is dependable and reliable.
 
 For men who are always looking to make a statement, this is the watch for you.
+
+### 3. Citizen Men's BZ1021-54L Eco-Drive Watch
  
 ![First Watch](/img/watches/about/watch-1.png){: .img-right}
 
-The next watch in my arsenal is the Citizen men’s BZ1021-54L Eco-drive watch. This watch could arguably be the most unique watch I have owned so far.
+I also own a Citizen men’s BZ1021-54L Eco-drive watch. This watch could arguably be the most unique watch I have owned so far.
 
 The reason? It is Bluetooth supported. That is pretty cool.
 
@@ -97,6 +107,8 @@ When I match this watch to any apparel with the color blue, it feels and looks g
 Like all the timepieces I have mentioned so far, this one is also timeless. I definitely would recommend this to anyone. 
 
 It’s worth it.
+
+### 4. Casio G Shock Digital GX56BB-1 (Black)
 
 My watch collection can’t be complete if I don’t mention my Casio G Shock collection.
 
