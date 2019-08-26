@@ -14,6 +14,21 @@ Whether you're a watch wearing veteran or you're about to buy your first watch, 
 
 The guides below should help!
 
+## Good Watch Characteristics 
+<img src="/img/watches/characteristics/ceramic.jpg" alt="Ceramic Watch Case" class="img-right">
+
+Choosing a watch can be challenging, especially if it's your first time. 
+
+There are so many things to consider - design, material, brand, price, features, etc. 
+
+Besides, how can you tell what's important and what's not? 
+
+*In this guide, we're going over the 11 most important characteristics of a good watch.* 
+
+It's a must read for watch wearing newbies!
+
+[Learn about the characteristics of a good watch](/good-watch-characteristics/){: .btn .btn--success .btn-center}
+
 ## Why Do Watches Stop Working? 
 ![fixing a broken watch](/img/watch-stopped-working/fixing-broken-watch.jpg){: .img-right}
 

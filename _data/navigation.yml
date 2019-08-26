@@ -4,8 +4,6 @@ main:
     url: /watches/
   - title: "Watch Tips"
     url: /watch-tips/
-  - title: "Good Watch Characteristics"
-    url: /good-watch-characteristics/
   - title: "About"
     url: /about/
   # - title: "Sample Collections"
